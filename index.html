@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>هیر | مشاوره روانشناسی گشتالت، تلفنی و بدون مرز</title>
+<meta name="description" content="مشاوره روانشناسی گشتالت به صورت تلفنی، برای همه فارسی‌زبانان در هر نقطه از جهان. مشاوره فردی، خانواده، کودک و نوجوان.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ground-dark: #1C2B29;
+    --ground-darker: #142120;
+    --bone: #F2EDE2;
+    --bone-dim: #E7DFCD;
+    --figure: #D98E3F;
+    --figure-deep: #B8702A;
+    --teal: #3F6E64;
+    --teal-soft: #5C8B80;
+    --ink: #1A1E1C;
+    --line: rgba(242,237,226,0.14);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'Vazirmatn', sans-serif;
+    background: var(--bone);
+    color: var(--ink);
+    line-height: 1.8;
+    overflow-x: hidden;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+  }
+
+  a { color: inherit; text-decoration: none; }
+
+  /* ---------- header ---------- */
+  header {
+    position: fixed;
+    top: 0; right: 0; left: 0;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 22px 6vw;
+    background: rgba(242,237,226,0.86);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(26,30,28,0.08);
+  }
+
+  .logo {
+    font-size: 1.5rem;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+    color: var(--ground-darker);
+  }
+
+  .logo span { color: var(--figure-deep); }
+
+  .call-chip {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--ground-dark);
+    color: var(--bone);
+    padding: 10px 20px;
+    border-radius: 999px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: transform 0.25s ease, background 0.25s ease;
+  }
+  .call-chip:hover { background: var(--figure-deep); transform: translateY(-2px); }
+  .call-chip .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--figure); flex-shrink: 0; }
+  .call-chip:hover .dot { background: var(--bone); }
+
+  /* ---------- hero ---------- */
+  .hero {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: var(--ground-dark);
+    color: var(--bone);
+    padding: 140px 6vw 100px;
+    overflow: hidden;
+  }
+
+  .hero-inner {
+    position: relative;
+    z-index: 3;
+    max-width: 620px;
+  }
+
+  .eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.9rem;
+    color: var(--figure);
+    font-weight: 600;
+    margin-bottom: 28px;
+    letter-spacing: 0.03em;
+  }
+  .eyebrow::before { content: ''; width: 28px; height: 1px; background: var(--figure); }
+
+  .hero h1 {
+    font-size: clamp(2.4rem, 5.2vw, 4rem);
+    font-weight: 800;
+    line-height: 1.28;
+    margin-bottom: 26px;
+  }
+
+  .hero h1 em {
+    font-style: normal;
+    color: var(--figure);
+  }
+
+  .hero p {
+    font-size: 1.15rem;
+    color: rgba(242,237,226,0.78);
+    max-width: 520px;
+    margin-bottom: 40px;
+  }
+
+  .hero-ctas { display: flex; gap: 16px; flex-wrap: wrap; }
+
+  .btn-primary {
+    background: var(--figure);
+    color: var(--ground-darker);
+    padding: 16px 32px;
+    border-radius: 999px;
+    font-weight: 700;
+    font-size: 1.05rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    box-shadow: 0 8px 24px rgba(217,142,63,0.25);
+  }
+  .btn-primary:hover { transform: translateY(-3px); box-shadow: 0 12px 30px rgba(217,142,63,0.38); }
+
+  .btn-ghost {
+    border: 1px solid rgba(242,237,226,0.35);
+    color: var(--bone);
+    padding: 16px 28px;
+    border-radius: 999px;
+    font-weight: 600;
+    font-size: 1.05rem;
+    transition: border-color 0.25s ease, background 0.25s ease;
+  }
+  .btn-ghost:hover { border-color: var(--bone); background: rgba(242,237,226,0.06); }
+
+  /* figure/ground signature */
+  .fg-signature {
+    position: absolute;
+    left: -8%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: min(52vw, 620px);
+    aspect-ratio: 1;
+    z-index: 1;
+  }
+  .fg-signature svg { width: 100%; height: 100%; }
+
+  .fg-orbit {
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    border: 1px dashed rgba(242,237,226,0.18);
+    animation: spin 60s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ---------- section shell ---------- */
+  section { padding: 120px 6vw; }
+  .section-head { max-width: 640px; margin-bottom: 64px; }
+  .section-head .kicker {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--figure-deep);
+    letter-spacing: 0.06em;
+    margin-bottom: 14px;
+    display: block;
+  }
+  .section-head h2 {
+    font-size: clamp(1.8rem, 3.4vw, 2.6rem);
+    font-weight: 800;
+    color: var(--ground-darker);
+    line-height: 1.4;
+  }
+  .section-head p { margin-top: 18px; color: #4a4f4c; font-size: 1.05rem; max-width: 560px; }
+
+  /* ---------- approach / gestalt concept ---------- */
+  .approach {
+    background: var(--bone);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 80px;
+    align-items: center;
+  }
+
+  .approach-visual {
+    position: relative;
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .concept-list { display: flex; flex-direction: column; gap: 28px; }
+  .concept-item { display: flex; gap: 20px; align-items: flex-start; border-bottom: 1px solid rgba(26,30,28,0.1); padding-bottom: 28px; }
+  .concept-item:last-child { border-bottom: none; }
+  .concept-num { font-size: 0.85rem; font-weight: 700; color: var(--teal); padding-top: 4px; min-width: 30px; }
+  .concept-item h3 { font-size: 1.15rem; font-weight: 700; margin-bottom: 8px; color: var(--ground-darker); }
+  .concept-item p { color: #4a4f4c; font-size: 0.98rem; }
+
+  /* ---------- services ---------- */
+  .services { background: var(--ground-dark); color: var(--bone); }
+  .services .section-head h2 { color: var(--bone); }
+  .services .section-head p { color: rgba(242,237,226,0.7); }
+  .services .kicker { color: var(--figure); }
+
+  .service-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: rgba(242,237,226,0.14);
+    border: 1px solid rgba(242,237,226,0.14);
+  }
+
+  .service-card {
+    background: var(--ground-dark);
+    padding: 44px 34px;
+    transition: background 0.3s ease;
+  }
+  .service-card:hover { background: var(--ground-darker); }
+
+  .service-card .mark {
+    width: 46px; height: 46px;
+    border-radius: 12px;
+    background: rgba(217,142,63,0.14);
+    display: flex; align-items: center; justify-content: center;
+    margin-bottom: 24px;
+  }
+  .service-card .mark svg { width: 22px; height: 22px; stroke: var(--figure); }
+
+  .service-card h3 { font-size: 1.25rem; font-weight: 700; margin-bottom: 12px; }
+  .service-card p { color: rgba(242,237,226,0.68); font-size: 0.98rem; }
+
+  /* ---------- how it works ---------- */
+  .steps { background: var(--bone-dim); }
+  .steps-rail {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0;
+    position: relative;
+  }
+  .steps-rail::before {
+    content: '';
+    position: absolute;
+    top: 22px; right: 12.5%; left: 12.5%;
+    height: 1px;
+    background: repeating-linear-gradient(to left, var(--teal) 0 8px, transparent 8px 16px);
+  }
+  .step { position: relative; padding-right: 0; text-align: center; padding: 0 18px; }
+  .step-dot {
+    width: 44px; height: 44px;
+    border-radius: 50%;
+    background: var(--bone-dim);
+    border: 2px solid var(--teal);
+    color: var(--teal);
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 800;
+    margin: 0 auto 22px;
+    position: relative;
+    z-index: 2;
+  }
+  .step h4 { font-size: 1.05rem; font-weight: 700; margin-bottom: 10px; color: var(--ground-darker); }
+  .step p { font-size: 0.92rem; color: #4a4f4c; }
+
+  /* ---------- cta / contact ---------- */
+  .cta {
+    background: var(--ground-darker);
+    color: var(--bone);
+    text-align: center;
+    padding: 130px 6vw;
+    position: relative;
+    overflow: hidden;
+  }
+  .cta::before {
+    content: '';
+    position: absolute;
+    width: 900px; height: 900px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(217,142,63,0.16), transparent 70%);
+    top: -400px; left: 50%;
+    transform: translateX(-50%);
+  }
+  .cta-inner { position: relative; z-index: 2; max-width: 640px; margin: 0 auto; }
+  .cta h2 { font-size: clamp(1.8rem, 3.6vw, 2.6rem); font-weight: 800; margin-bottom: 20px; }
+  .cta p { color: rgba(242,237,226,0.72); font-size: 1.08rem; margin-bottom: 44px; }
+
+  .phone-display {
+    display: inline-flex;
+    align-items: center;
+    gap: 16px;
+    background: rgba(242,237,226,0.06);
+    border: 1px solid rgba(242,237,226,0.18);
+    padding: 22px 40px;
+    border-radius: 20px;
+    font-size: clamp(1.6rem, 3vw, 2.2rem);
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    direction: ltr;
+    margin-bottom: 20px;
+  }
+  .phone-display .ring {
+    width: 12px; height: 12px; border-radius: 50%;
+    background: var(--figure);
+    box-shadow: 0 0 0 6px rgba(217,142,63,0.2);
+  }
+  .cta .note { font-size: 0.9rem; color: rgba(242,237,226,0.5); }
+
+  /* ---------- footer ---------- */
+  footer {
+    background: var(--ground-darker);
+    color: rgba(242,237,226,0.55);
+    text-align: center;
+    padding: 32px 6vw;
+    font-size: 0.88rem;
+    border-top: 1px solid rgba(242,237,226,0.08);
+  }
+  footer strong { color: var(--bone); }
+
+  :focus-visible { outline: 2px solid var(--figure); outline-offset: 3px; }
+
+  @media (max-width: 860px) {
+    .hero { padding-top: 120px; text-align: center; align-items: flex-start; }
+    .hero-inner { max-width: 100%; }
+    .hero p { margin-inline: auto; }
+    .hero-ctas { justify-content: center; }
+    .fg-signature { display: none; }
+    .approach { grid-template-columns: 1fr; gap: 48px; }
+    .approach-visual { order: -1; max-width: 280px; margin: 0 auto; }
+    .service-grid { grid-template-columns: 1fr; }
+    .steps-rail { grid-template-columns: 1fr; gap: 40px; }
+    .steps-rail::before { display: none; }
+    .phone-display { padding: 18px 26px; flex-wrap: wrap; justify-content: center; }
+    section { padding: 80px 6vw; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">هی<span>ر</span></div>
+  <a class="call-chip" href="tel:+989099072026">
+    <span class="dot"></span>
+    ۰۹۰۹۹۰۷۲۰۲۶
+  </a>
+</header>
+
+<section class="hero">
+  <div class="fg-signature" aria-hidden="true">
+    <div class="fg-orbit"></div>
+    <svg viewBox="0 0 400 400">
+      <circle cx="200" cy="200" r="170" fill="none" stroke="rgba(242,237,226,0.1)" stroke-width="1"/>
+      <path d="M200,40 C300,40 360,120 360,200 C360,280 300,360 200,360 C240,320 260,270 260,200 C260,130 240,80 200,40 Z" fill="#D98E3F" opacity="0.92"/>
+      <path d="M200,40 C100,40 40,120 40,200 C40,280 100,360 200,360 C160,320 140,270 140,200 C140,130 160,80 200,40 Z" fill="#3F6E64" opacity="0.75"/>
+    </svg>
+  </div>
+  <div class="hero-inner">
+    <span class="eyebrow">مشاوره روان‌شناسی به رویکرد گشتالت</span>
+    <h1>هرکجا هستید، <em>همین‌جا</em> کنار شما هستیم</h1>
+    <p>مشاوره تلفنی، بدون نیاز به حضور فیزیکی و بدون مرز جغرافیایی. برای همهٔ فارسی‌زبانان، هر جای دنیا که باشند.</p>
+    <div class="hero-ctas">
+      <a class="btn-primary" href="tel:+989099072026">
+        تماس برای مشاوره
+      </a>
+      <a class="btn-ghost" href="#services">خدمات را ببینید</a>
+    </div>
+  </div>
+</section>
+
+<section class="approach">
+  <div class="approach-visual">
+    <svg viewBox="0 0 300 300" width="100%" style="max-width:300px">
+      <circle cx="150" cy="150" r="130" fill="#3F6E64" opacity="0.14"/>
+      <path d="M150,30 C220,30 270,90 270,150 C270,210 220,270 150,270 C180,230 195,190 195,150 C195,110 180,70 150,30 Z" fill="#D98E3F"/>
+      <path d="M150,30 C80,30 30,90 30,150 C30,210 80,270 150,270 C120,230 105,190 105,150 C105,110 120,70 150,30 Z" fill="#1C2B29"/>
+    </svg>
+  </div>
+  <div>
+    <div class="section-head">
+      <span class="kicker">رویکرد ما</span>
+      <h2>گشتالت یعنی توجه به کل تجربه، نه فقط بخشی از آن</h2>
+      <p>در مشاورهٔ گشتالت، به‌جای تحلیل گذشته به‌تنهایی، به آنچه همین حالا در ذهن، بدن و رابطهٔ شما در جریان است توجه می‌شود.</p>
+    </div>
+    <div class="concept-list">
+      <div class="concept-item">
+        <span class="concept-num">۰۱</span>
+        <div>
+          <h3>اینجا و اکنون</h3>
+          <p>تمرکز بر تجربهٔ زندهٔ لحظهٔ حاضر، به‌جای غرق‌شدن صرف در تحلیل گذشته.</p>
+        </div>
+      </div>
+      <div class="concept-item">
+        <span class="concept-num">۰۲</span>
+        <div>
+          <h3>آگاهی از کلیت تجربه</h3>
+          <p>دیدن ذهن، بدن و احساس به‌عنوان یک مجموعهٔ به‌هم‌پیوسته، نه اجزای جدا از هم.</p>
+        </div>
+      </div>
+      <div class="concept-item">
+        <span class="concept-num">۰۳</span>
+        <div>
+          <h3>رابطهٔ مشاور و مراجع</h3>
+          <p>گفت‌وگویی صادقانه و حاضر، حتی از پشت تلفن، بستری برای تغییر واقعی می‌سازد.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="services" id="services">
+  <div class="section-head">
+    <span class="kicker">خدمات</span>
+    <h2>مشاوره‌ای متناسب با هر مرحله از زندگی</h2>
+    <p>همهٔ جلسات به‌صورت تلفنی و با هماهنگی وقت قبلی برگزار می‌شود.</p>
+  </div>
+  <div class="service-grid">
+    <div class="service-card">
+      <div class="mark">
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 3.6-7 8-7s8 3 8 7"/></svg>
+      </div>
+      <h3>مشاورهٔ فردی</h3>
+      <p>فضایی امن برای مواجهه با اضطراب، تصمیم‌های زندگی، خودشناسی و رشد فردی.</p>
+    </div>
+    <div class="service-card">
+      <div class="mark">
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="3"/><circle cx="17" cy="9" r="3"/><path d="M2 21c0-3.5 2.7-6 6-6s6 2.5 6 6M13 21c0-2.8 2-5 5-5s5 2.2 5 5"/></svg>
+      </div>
+      <h3>مشاورهٔ خانواده</h3>
+      <p>بازسازی ارتباط، حل تعارض و درک متقابل میان اعضای خانواده.</p>
+    </div>
+    <div class="service-card">
+      <div class="mark">
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l2.5 5 5.5.8-4 3.9.9 5.4-4.9-2.6L6.6 18l.9-5.4-4-3.9L9 8z"/></svg>
+      </div>
+      <h3>کودک و نوجوان</h3>
+      <p>همراهی خانواده در دورهٔ رشد، رفتار و سازگاری کودکان و نوجوانان.</p>
+    </div>
+  </div>
+</section>
+
+<section class="steps">
+  <div class="section-head">
+    <span class="kicker">شروع کار</span>
+    <h2>در چهار قدم به اولین جلسه برسید</h2>
+  </div>
+  <div class="steps-rail">
+    <div class="step">
+      <div class="step-dot">۱</div>
+      <h4>تماس بگیرید</h4>
+      <p>با شمارهٔ ثابت هیر تماس بگیرید یا درخواست تماس ثبت کنید.</p>
+    </div>
+    <div class="step">
+      <div class="step-dot">۲</div>
+      <h4>هماهنگی وقت</h4>
+      <p>زمان مناسب شما برای جلسهٔ تلفنی هماهنگ می‌شود.</p>
+    </div>
+    <div class="step">
+      <div class="step-dot">۳</div>
+      <h4>جلسهٔ تلفنی</h4>
+      <p>از هر نقطهٔ دنیا، بدون نیاز به حضور فیزیکی، جلسه برگزار می‌شود.</p>
+    </div>
+    <div class="step">
+      <div class="step-dot">۴</div>
+      <h4>مسیر ادامه</h4>
+      <p>بر اساس نیاز شما، برنامهٔ جلسات بعدی تعیین می‌شود.</p>
+    </div>
+  </div>
+</section>
+
+<section class="cta">
+  <div class="cta-inner">
+    <h2>گفت‌وگو از همین امروز شروع می‌شود</h2>
+    <p>کافی‌ست تماس بگیرید. بدون نیاز به مراجعه حضوری، بدون محدودیت شهر یا کشور.</p>
+    <a class="phone-display" href="tel:+989099072026">
+      <span class="ring"></span>
+      0909 907 2026
+    </a>
+    <div class="note">خط ثابت — پاسخگویی در ساعات مشاوره</div>
+  </div>
+</section>
+
+<footer>
+  <strong>هیر</strong> — مشاورهٔ روان‌شناسی گشتالت، تلفنی برای همهٔ فارسی‌زبانان
+</footer>
+
+</body>
+</html>
