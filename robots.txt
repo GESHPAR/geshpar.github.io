@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://geshpar.com/sitemap.xml
+
 Sitemap: https://geshpar.com/sitemap.xml
