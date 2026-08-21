@@ -28,9 +28,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <!-- مقاله جدید بالینی اضافه شده امروز -->
+  <!-- مقاله کیس بالینی -->
   <url>
     <loc>https://geshpar.com/blog/attachment-trauma-abandonment-case.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- مقاله سوپرویژن مرتبط (جدید) -->
+  <url>
+    <loc>https://geshpar.com/blog/supervision-attachment-trauma.html</loc>
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
