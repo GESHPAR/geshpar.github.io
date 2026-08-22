@@ -19,6 +19,14 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
+  
+  <!-- ✅ صفحه راهنمای جامع (Pillar Page) - جدید -->
+  <url>
+    <loc>https://geshpar.com/guides/marriage-therapy-guide/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 
   <!-- مقالات قدیمی (ساختار فایل مستقیم) -->
   <url><loc>https://geshpar.com/blog/right-return.html</loc><lastmod>2026-08-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -39,9 +47,7 @@
   <url><loc>https://geshpar.com/blog/attachment-trauma-abandonment-case.html</loc><lastmod>2026-08-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://geshpar.com/blog/supervision-attachment-trauma.html</loc><lastmod>2026-08-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
-  <!-- ========================================== -->
   <!-- مقالات جدید امروز (ساختار پوشه‌ای بهینه) -->
-  <!-- ========================================== -->
   <url>
     <loc>https://geshpar.com/blog/love-as-transaction/</loc>
     <lastmod>2026-08-23</lastmod>
