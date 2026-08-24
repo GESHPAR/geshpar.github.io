@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2026-08-25",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "id": "family-boundaries",
+      "title": "مرزهای سالم در خانواده: چگونه «نه» بگوییم؟",
+      "path": "/blog/family-boundaries/",
+      "keywords": ["مرز", "خانواده", "نه گفتن", "احترام"],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-20",
+      "status": "published",
+      "auto_related": []
+    },
+    {
+      "id": "running-away-survival",
+      "title": "فرار از خانه: وقتی بقا مهم‌تر از قانون است",
+      "path": "/blog/running-away-survival/",
+      "keywords": ["خشونت خانگی", "فرار", "حقوق جوانان", "پارانویا"],
+      "cluster": "تروما و اضطراب",
+      "publish_date": "2026-08-24",
+      "status": "published",
+      "auto_related": ["family-boundaries"]
+    },
+    {
+      "id": "infidelity-mental-pit",
+      "title": "چاله یا چوله؟ وقتی خیانت همسر، ذهن را به سیاه‌چال تبدیل می‌کند",
+      "path": "/blog/infidelity-mental-pit/",
+      "keywords": ["خیانت", "نشخوار فکری", "ترس از تنهایی", "وسواس"],
+      "cluster": "وسواس و اضطراب",
+      "publish_date": "2026-08-24",
+      "status": "published",
+      "auto_related": ["emotional-addiction", "obsessive-thoughts-marriage"]
+    },
+    {
+      "id": "masculine-husband-dynamic",
+      "title": "مردِ پسرانه: وقتی همسرت با تو مثل یک رفیق حرف می‌زند، نه یک زن",
+      "path": "/blog/masculine-husband-dynamic/",
+      "keywords": ["تحقیر", "بلوغ عاطفی", "رابطه زناشویی", "ادبیات مردانه"],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-25",
+      "status": "published",
+      "auto_related": ["infidelity-mental-pit", "family-boundaries"]
+    }
+  ],
+  "clusters": {
+    "تروما و اضطراب": ["running-away-survival"],
+    "وسواس و اضطراب": ["infidelity-mental-pit"],
+    "روابط و خانواده": ["family-boundaries", "masculine-husband-dynamic"]
+  },
+  "linking_rules": {
+    "same_cluster_priority": 0.8,
+    "keyword_overlap_min": 1,
+    "max_links_per_article": 3,
+    "min_similarity_score": 0.5
+  }
+}
