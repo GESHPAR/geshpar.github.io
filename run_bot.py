@@ -1,41 +1,35 @@
+import os
+import sys
+
+# اضافه کردن مسیر فعلی برای شناسایی فایل‌های هم‌پوشه
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
 from auto_linker import ContentAutomation
-import json
+from html_generator import generate_html_from_db
 
 def main():
-    bot = ContentAutomation()
-    
-    print("\n" + "="*40)
-    print("🆕 افزودن مقاله جدید به سیستم گشپار")
-    print("="*40)
-    
-    # دریافت اطلاعات از کاربر
-    file_name = input("1. نام پوشه مقاله (مثلاً new-case-6): ").strip()
-    title = input("2. عنوان کامل مقاله: ").strip()
-    
-    if not file_name or not title:
-        print("❌ خطا: نام و عنوان الزامی است.")
+    print("🚀 شروع فرآیند اتوماسیون گشپار...")
+    print("=" * 50)
+
+    # مرحله ۱: تحلیل و لینک‌دهی خودکار
+    print("\n1️⃣ مرحله اول: تحلیل و لینک‌دهی خودکار...")
+    try:
+        bot = ContentAutomation()
+        bot.update_all_related_links()
+    except Exception as e:
+        print(f"❌ خطا در مرحله لینک‌دهی: {e}")
         return
 
-    article_data = {
-        "id": file_name,
-        "title": title,
-        "path": f"/blog/{file_name}/",
-        "publish_date": "2026-08-25", # تاریخ امروز
-        "status": "draft",
-        "keywords": [], # خالی بگذار تا خودش حدس بزند
-        "cluster": ""   # خالی بگذار تا خودش حدس بزند
-    }
-    
-    success = bot.add_article(article_data)
-    
-    if success:
-        print("\n" + "="*40)
-        print("✅ عملیات موفقیت‌آمیز بود!")
-        print("💡 حالا می‌توانید فایل HTML را در پوشه blog بسازید.")
-        print("💡 لینک‌های پیشنهادی در دیتابیس ذخیره شدند.")
-        print("="*40)
-    else:
-        print("\n❌ مشکلی پیش آمد.")
+    # مرحله ۲: تولید فایل‌های HTML
+    print("\n2️⃣ مرحله دوم: تولید صفحات HTML...")
+    try:
+        generate_html_from_db()
+    except Exception as e:
+        print(f"❌ خطا در مرحله تولید HTML: {e}")
+        return
+
+    print("\n" + "=" * 50)
+    print(" فرآیند اتوماسیون با موفقیت تمام شد!")
 
 if __name__ == "__main__":
     main()
