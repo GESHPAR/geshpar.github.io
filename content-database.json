@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-08-25",
-    "total_articles": 5
+    "total_articles": 9
   },
   "articles": [
     {
@@ -33,7 +33,7 @@
       "cluster": "وسواس و اضطراب",
       "publish_date": "2026-08-24",
       "status": "published",
-      "auto_related": ["emotional-addiction", "obsessive-thoughts-marriage"]
+      "auto_related": []
     },
     {
       "id": "masculine-husband-dynamic",
@@ -44,12 +44,63 @@
       "publish_date": "2026-08-25",
       "status": "published",
       "auto_related": ["infidelity-mental-pit", "family-boundaries"]
+    },
+    {
+      "id": "deformation-male-personality",
+      "title": "معماری یک فاجعه: مسخ شخصیت مرد",
+      "path": "/blog/deformation-male-personality/",
+      "keywords": ["مسخ شخصیت", "کنترل‌گری", "فروید", "یونگ"],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-25",
+      "status": "published",
+      "auto_related": []
+    },
+    {
+      "id": "abandoning-mother-psychoanalysis",
+      "title": "سقوط از تخت ملکه به زانوگاه کنیز",
+      "path": "/blog/abandoning-mother-psychoanalysis/",
+      "keywords": ["مادر", "جدایی", "تروما", "دلبستگی"],
+      "cluster": "تروما و اضطراب",
+      "publish_date": "2026-08-25",
+      "status": "published",
+      "auto_related": []
+    },
+    {
+      "id": "toxic-mother-sensitive-daughter-psychoanalysis",
+      "title": "زخم ناسور: وقتی مادر، تیغ می‌زند و دختر، نمک می‌پاشد",
+      "path": "/blog/toxic-mother-sensitive-daughter-psychoanalysis/",
+      "keywords": ["مادر سمی", "دختر حساس", "مرزها", "آسیب‌شناسی"],
+      "cluster": "تروما و اضطراب",
+      "publish_date": "2026-08-25",
+      "status": "published",
+      "auto_related": []
+    },
+    {
+      "id": "long-distance-marriage-reality",
+      "title": "ازدواج راه دور: توهم نزدیکی در فاصله‌های دور",
+      "path": "/blog/long-distance-marriage-reality/",
+      "keywords": ["ازدواج راه دور", "دلتنگی", "ارتباط مجازی", "تنهایی"],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-24",
+      "status": "published",
+      "auto_related": []
+    },
+    {
+      "id": "false-confidence-relationships",
+      "title": "اعتماد به نفس کاذب: نقاب قدرت در روابط ناسالم",
+      "path": "/blog/false-confidence-relationships/",
+      "keywords": ["اعتماد به نفس", "نارسیسیسم", "دفاع‌های روانی", "خودشیفتگی"],
+      "cluster": "رشد شخصی",
+      "publish_date": "2026-08-23",
+      "status": "published",
+      "auto_related": []
     }
   ],
   "clusters": {
-    "تروما و اضطراب": ["running-away-survival"],
+    "تروما و اضطراب": ["running-away-survival", "abandoning-mother-psychoanalysis", "toxic-mother-sensitive-daughter-psychoanalysis"],
     "وسواس و اضطراب": ["infidelity-mental-pit"],
-    "روابط و خانواده": ["family-boundaries", "masculine-husband-dynamic"]
+    "روابط و خانواده": ["family-boundaries", "masculine-husband-dynamic", "deformation-male-personality", "long-distance-marriage-reality"],
+    "رشد شخصی": ["false-confidence-relationships"]
   },
   "linking_rules": {
     "same_cluster_priority": 0.8,
