@@ -8,7 +8,7 @@ class ContentAutomation:
     
     def load_database(self):
         if not os.path.exists(self.db_file):
-            print(" فایل دیتابیس پیدا نشد!")
+            print("❌ فایل دیتابیس پیدا نشد!")
             self.data = {"articles": [], "clusters": {}, "linking_rules": {}}
             return
         try:
@@ -71,7 +71,7 @@ class ContentAutomation:
                 print("   (بدون مقاله مرتبط)")
             print()
         
-        # ذخیره
+        # ذخیره تغییرات در دیتابیس
         self.data['meta']['total_articles'] = len(self.data['articles'])
         with open(self.db_file, 'w', encoding='utf-8') as f:
             json.dump(self.data, f, ensure_ascii=False, indent=2)
@@ -79,6 +79,7 @@ class ContentAutomation:
         print("✅ دیتابیس ذخیره شد!")
 
     def show_all_articles(self):
+        """نمایش لیست تمام مقالات"""
         print(f"\n📊 لیست تمام مقالات ({len(self.data['articles'])} مقاله):")
         for i, article in enumerate(self.data['articles'], 1):
             print(f"{i}. {article['title']}")
@@ -86,8 +87,10 @@ class ContentAutomation:
             print(f"   کلمات کلیدی: {', '.join(article.get('keywords', []))}")
 
 if __name__ == "__main__":
+    print("🤖 سیستم اتوماسیون گشپار")
+    print("="*60)
+    
     bot = ContentAutomation()
     bot.show_all_articles()
     print("\n" + "="*60)
     bot.update_all_related_links()
-    
