@@ -8,8 +8,8 @@ class ContentAutomation:
     
     def load_database(self):
         if not os.path.exists(self.db_file):
-            print("❌ فایل دیتابیس پیدا نشد!")
-            self.data = {"articles": [], "linking_rules": {"max_internal_links": 6}}
+            print(" فایل دیتابیس پیدا نشد!")
+            self.data = {"articles": [], "clusters": {}, "linking_rules": {}}
             return
         try:
             with open(self.db_file, 'r', encoding='utf-8') as f:
@@ -17,59 +17,77 @@ class ContentAutomation:
             print(f"✅ دیتابیس بارگذاری شد: {len(self.data['articles'])} مقاله")
         except Exception as e:
             print(f"❌ خطا: {e}")
-            self.data = {"articles": [], "linking_rules": {"max_internal_links": 6}}
+            self.data = {"articles": [], "clusters": {}, "linking_rules": {}}
 
-    def add_article(self, article_data):
-        article_id = article_data['id']
+    def find_related_articles(self, article_id):
+        """پیدا کردن مقالات مرتبط بر اساس خوشه و کلمات کلیدی"""
+        current = next((a for a in self.data['articles'] if a['id'] == article_id), None)
+        if not current:
+            return []
         
-        # بررسی تکراری نبودن
-        if any(a['id'] == article_id for a in self.data['articles']):
-            print(f"⚠️ مقاله {article_id} قبلاً وجود دارد!")
-            return False
-        
-        # یافتن مقالات مرتبط
-        related_articles = self.find_related_articles(article_data)
-        
-        self.data['articles'].append(article_data)
-        self.save_database()
-        
-        print(f"\n✅ مقاله '{article_data['title']}' اضافه شد!")
-        print(f"🔗 {len(related_articles)} مقاله مرتبط پیدا شد:")
-        for rel_id in related_articles:
-            rel_art = next((a for a in self.data['articles'] if a['id'] == rel_id), None)
-            if rel_art:
-                print(f"   - {rel_art['title']}")
-        
-        return True
-
-    def find_related_articles(self, new_article):
         related = []
-        new_tags = set(new_article.get('tags', []))
+        current_cluster = current.get('cluster', '')
+        current_keywords = set(current.get('keywords', []))
+        rules = self.data.get('linking_rules', {})
         
         for article in self.data['articles']:
-            if article['id'] == new_article['id']:
+            if article['id'] == article_id:
                 continue
             
-            article_tags = set(article.get('tags', []))
-            overlap = len(new_tags & article_tags)
+            score = 0
             
-            if overlap > 0:
-                related.append((article['id'], overlap))
+            # امتیاز خوشه مشترک
+            if article.get('cluster') == current_cluster:
+                score += rules.get('same_cluster_priority', 0.8)
+            
+            # امتیاز کلمات کلیدی مشترک
+            article_keywords = set(article.get('keywords', []))
+            overlap = len(current_keywords & article_keywords)
+            if overlap >= rules.get('keyword_overlap_min', 1):
+                score += overlap * 0.3
+            
+            if score >= rules.get('min_similarity_score', 0.5):
+                related.append((article['id'], score))
         
         related.sort(key=lambda x: x[1], reverse=True)
-        max_links = self.data.get('linking_rules', {}).get('max_internal_links', 6)
+        max_links = rules.get('max_links_per_article', 3)
         return [r[0] for r in related[:max_links]]
 
-    def save_database(self):
+    def update_all_related_links(self):
+        """آپدیت لینک‌های مرتبط برای همه مقالات"""
+        print("\n🔄 آپدیت لینک‌های مرتبط برای همه مقالات...\n")
+        
+        for article in self.data['articles']:
+            related = self.find_related_articles(article['id'])
+            article['auto_related'] = related
+            
+            print(f"📄 {article['title']}")
+            if related:
+                for rel_id in related:
+                    rel_art = next((a for a in self.data['articles'] if a['id'] == rel_id), None)
+                    if rel_art:
+                        print(f"   🔗 {rel_art['title']}")
+            else:
+                print("   (بدون مقاله مرتبط)")
+            print()
+        
+        # ذخیره
+        self.data['meta']['total_articles'] = len(self.data['articles'])
         with open(self.db_file, 'w', encoding='utf-8') as f:
             json.dump(self.data, f, ensure_ascii=False, indent=2)
+        
+        print("✅ دیتابیس ذخیره شد!")
 
     def show_all_articles(self):
         print(f"\n📊 لیست تمام مقالات ({len(self.data['articles'])} مقاله):")
         for i, article in enumerate(self.data['articles'], 1):
             print(f"{i}. {article['title']}")
-            print(f"   تگ‌ها: {', '.join(article.get('tags', []))}")
+            print(f"   خوشه: {article.get('cluster', 'نامشخص')}")
+            print(f"   کلمات کلیدی: {', '.join(article.get('keywords', []))}")
 
 if __name__ == "__main__":
     bot = ContentAutomation()
     bot.show_all_articles()
+    print("\n" + "="*60)
+    bot.update_all_related_links()
+    
