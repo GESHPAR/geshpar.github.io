@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>چرا مدام وارد روابط سمی می‌شویم؟ | تحلیل روانکاوی کیس بالینی - گشپار</title>
+    <meta name="description" content="تحلیل تخصصی یک کیس بالینی در سایت گشپار: چرا با وجود تجربه شکست عاطفی، دوباره در دام روابط سمی و افراد طردکننده گرفتار می‌شویم؟ بررسی تکرار اجباری و دلبستگی اضطرابی.">
+    <meta name="keywords" content="روابط سمی, روانکاوی, تکرار اجباری, دلبستگی اضطرابی, مشاوره روانشناسی, گشپار, طلاق عاطفی, وسواس فکری در رابطه">
+    <meta name="author" content="دکتر [نام شما] - روانشناس بالینی">
+    
+    <!-- Open Graph for Social Media -->
+    <meta property="og:title" content="چرا مدام وارد روابط سمی می‌شویم؟ تحلیل روانکاوی">
+    <meta property="og:description" content="بررسی موردی یک مراجع ۳۴ ساله و الگوی تکرار شکست‌های عاطفی در کلینیک روانشناسی گشپار.">
+    <meta property="og:type" content="article">
+    
+    <!-- Schema.org Markup for MedicalWebPage / Article -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "headline": "تحلیل روانکاوی روابط سمی و تکرار اجباری",
+      "description": "بررسی کیس بالینی مراجعی با الگوی دلبستگی اضطرابی و تکرار شکست‌های عاطفی.",
+      "author": {
+        "@type": "Person",
+        "name": "دکتر [نام شما]"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "کلینیک روانشناسی گشپار",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://geshpar.com/logo.png"
+        }
+      },
+      "datePublished": "2026-08-19",
+      "medicalSpecialty": "Psychology",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://geshpar.com/blog/toxic-relationships-analysis"
+      }
+    }
+    </script>
+
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --accent-color: #27ae60;
+            --bg-color: #f9f9f9;
+            --text-color: #333;
+            --box-bg: #fff;
+        }
+        body {
+            font-family: 'Tahoma', 'Segoe UI', sans-serif;
+            line-height: 1.8;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: var(--box-bg);
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: var(--primary-color);
+            font-size: 2.2rem;
+            margin-bottom: 20px;
+            border-bottom: 3px solid var(--accent-color);
+            padding-bottom: 15px;
+        }
+        h2 {
+            color: var(--primary-color);
+            margin-top: 40px;
+            font-size: 1.6rem;
+        }
+        h3 {
+            color: #444;
+            font-size: 1.3rem;
+            margin-top: 25px;
+        }
+        p {
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+        .highlight-box {
+            background-color: #e8f6f3;
+            border-right: 5px solid var(--accent-color);
+            padding: 20px;
+            margin: 25px 0;
+            border-radius: 5px;
+        }
+        .term {
+            font-weight: bold;
+            color: var(--accent-color);
+        }
+        .supervision-box {
+            background-color: #fef9e7;
+            border: 1px dashed #f1c40f;
+            padding: 25px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+        .dialogue {
+            margin-bottom: 15px;
+            padding-right: 15px;
+            border-right: 3px solid #ddd;
+        }
+        .dialogue strong {
+            display: block;
+            margin-bottom: 5px;
+            color: var(--primary-color);
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: var(--accent-color);
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: bold;
+            margin-top: 30px;
+            transition: transform 0.2s;
+        }
+        .cta-button:hover {
+            transform: translateY(-2px);
+            background-color: #219150;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+                margin: 20px 10px;
+            }
+            h1 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<article class="container">
+    <header>
+        <h1>چرا مدام وارد روابط سمی می‌شویم؟ تحلیل روانکاوی یک کیس بالینی</h1>
+        <p><strong>نویسنده:</strong> تیم تخصصی روانشناسی گشپار | <strong>تاریخ انتشار:</strong> ۲۸ مرداد ۱۴۰۵</p>
+    </header>
+
+    <section id="case-study">
+        <h2>📋 شرح حال بالینی: چرخه تکرار شکست</h2>
+        <p>مراجع ما خانمی ۳۴ ساله است که ۵ سال پیش تجربه یک ازدواج ناموفق همراه با خیانت و سوءرفتار را پشت سر گذاشته است. او پس از ۵ سال تنهایی، مجدداً وارد رابطه‌ای شده که متأسفانه الگوی مشابهی از <span class="term">طردشدگی</span> و <span class="term">بی‌ثباتی</span> را تکرار می‌کند.</p>
+        
+        <div class="highlight-box">
+            <p><strong>نشانه‌های کلیدی:</strong> مراجع با وجود دریافت سیگنال‌های واضح از سمت شریک عاطفی (سردی، توهین، درخواست پول)، همچنان با شدت بیشتری به دنبال جلب توجه و حفظ رابطه است. او خود را مقصر اصلی می‌داند و معتقد است اگر "بیشتر تلاش می‌کرد"، نتیجه تغییر می‌کرد.</p>
+        </div>
+    </section>
+
+    <section id="psychoanalysis">
+        <h2>🧠 کالبدشکافی روانکاوانه</h2>
+        <p>در تحلیل این کیس، چند مفهوم بنیادین در روانکاوی برجسته می‌شوند که ریشه رفتارهای مراجع را توضیح می‌دهند:</p>
+
+        <h3>۱. تکرار اجباری (Repetition Compulsion)</h3>
+        <p>زیگموند فروید معتقد بود انسان‌ها تمایل ناخودآگاهی دارند تا تروماهای حل‌نشده گذشته را بازآفرینی کنند. مراجع ما ناخودآگاه شریکی را انتخاب کرده که ویژگی‌های همسر سابق (طردکننده و آسیب‌زا) را دارد تا شاید این بار بتواند با تغییر دادن او، زخم‌های کودکی و ازدواج قبلی خود را التیام بخشد. اما نتیجه، تکرار همان درد است.</p>
+
+        <h3>۲. دلبستگی اضطرابی و طرحواره نقص</h3>
+        <p>الگوی رفتاری مراجع نشان‌دهنده <span class="term">دلبستگی اضطرابی</span> است. ترس عمیق از رها شدن باعث می‌شود هر فاصله‌ای را به عنوان تهدید وجودی ببیند. این ترس توسط <span class="term">طرحواره نقص و شرم</span> تغذیه می‌شود؛ باوری که می‌گوید: "من به تنهایی ارزشمند نیستم و باید با فداکاری و پیگیری مداوم، لایق عشق شوم."</p>
+
+        <h3>۳. مکانیسم‌های دفاعی: درونی‌سازی و انکار</h3>
+        <p>مراجع به جای خشمگین شدن از طرف مقابل، تمام تقصیرها را به درون خود می‌بلعد (<span class="term">درونی‌سازی</span>). او واقعیتِ رفتارهای سمی طرف مقابل را انکار می‌کند و به جای دیدن "او چه کرد؟"، مدام می‌پرسد "من چه غلطی کردم؟". این مکانیسم دفاعی باعث فلج شدن اراده و ادامه چرخه آسیب می‌شود.</p>
+    </section>
+
+    <section id="supervision" class="supervision-box">
+        <h2>👥 اتاق سوپرویژن: گفتگوی بالینی</h2>
+        <p><em>در این بخش، چالش‌های درمانی این کیس را از دیدگاه ناظر بالینی و درمانگر بررسی می‌کنیم.</em></p>
+        
+        <div class="dialogue">
+            <strong>👨‍⚕️ ناظر بالینی (هوش مصنوعی):</strong>
+            همکار گرامی، شما دستور به "قطع کامل ارتباط" دادید. آیا نگران نیستید که این اقدام، اضطراب جدایی مراجع را به اوج برساند و او این سکوت را به عنوان تاییدی بر بی‌ارزشی خود تعبیر کند؟
+        </div>
+
+        <div class="dialogue">
+            <strong>👩‍⚕️ درمانگر (شما):</strong>
+            بله، این ریسک وجود دارد. اما مراجع در وضعیت "خماری عاطفی" است. مغز او به نوسانات دوپامینِ این رابطه سمی معتاد شده. قطع ارتباط، تنها راه شکستن چرخه reinforcement (تقویت) منفی است. هدف ما در جلسات بعد، بازسازی عزت نفس و کمک به او برای درک این نکته است که "نیازمند بودن" ناشی از زخم‌های درونی است، نه ویژگی ذاتی شخصیت او.
+        </div>
+
+        <div class="dialogue">
+            <strong>👨‍⚕️ ناظر بالینی:</strong>
+            عالی است. پس تمرکز باید روی <span class="term">والای خود (Ideal Ego)</span> باشد. مراجع باید یاد بگیرد منبع تایید را از بیرون (شریک عاطفی) به درون منتقل کند. همچنین مراقب انتقال (Transference) باشید؛ مبادا مراجع شما را به عنوان "ناجی" ببیند و مسئولیت تغییر را به گردن شما بیندازد.
+        </div>
+    </section>
+
+    <section id="conclusion">
+        <h2>💡 جمع‌بندی و راهکار</h2>
+        <p>خروج از این چرخه نیازمند آگاهی از الگوهای ناخودآگاه و شجاعت برای روبرو شدن با ترس‌های عمیق است. اگر شما نیز احساس می‌کنید در روابط خود مدام الگوهای تکرارشونده‌ای را تجربه می‌کنید که منجر به رنجش می‌شود، زمان آن رسیده که با کمک متخصص، ریشه‌های این الگوها را کاوش کنید.</p>
+        <p style="text-align: center;">
+            <a href="/contact" class="cta-button">رزرو وقت مشاوره در گشپار</a>
+        </p>
+    </section>
+</article>
+
+</body>
+</html>
