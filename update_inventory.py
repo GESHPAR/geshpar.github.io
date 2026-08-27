@@ -36,7 +36,7 @@ def update_inventory():
         "totalSize": f"{total_size / 1024:.2f} KB",
         "articles": all_files,
         "duplicates": duplicates,
-        "warning": f"⚠️ {len(duplicates)} فایل تکراری پیدا شد!" if duplicates else "✅ هیچ فایل تکراری وجود ندارد"
+        "warning": f"️ {len(duplicates)} فایل تکراری پیدا شد!" if duplicates else "✅ هیچ فایل تکراری وجود ندارد"
     }
     
     with open(inventory_file, "w", encoding="utf-8") as f:
