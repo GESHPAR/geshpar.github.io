@@ -18,7 +18,11 @@
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-20",
       "status": "published",
-      "auto_related": []
+      "auto_related": [
+        "masculine-husband-dynamic",
+        "deformation-male-personality",
+        "long-distance-marriage-reality"
+      ]
     },
     {
       "id": "running-away-survival",
@@ -34,7 +38,9 @@
       "publish_date": "2026-08-24",
       "status": "published",
       "auto_related": [
-        "family-boundaries"
+        "collapsed-family-boundaries",
+        "untreated-mood-disorder-marriage",
+        "abandoning-mother-psychoanalysis"
       ]
     },
     {
@@ -50,7 +56,9 @@
       "cluster": "وسواس و اضطراب",
       "publish_date": "2026-08-24",
       "status": "published",
-      "auto_related": []
+      "auto_related": [
+        "ocd-marriage-decision"
+      ]
     },
     {
       "id": "masculine-husband-dynamic",
@@ -66,8 +74,9 @@
       "publish_date": "2026-08-25",
       "status": "published",
       "auto_related": [
-        "infidelity-mental-pit",
-        "family-boundaries"
+        "family-boundaries",
+        "deformation-male-personality",
+        "long-distance-marriage-reality"
       ]
     },
     {
@@ -83,7 +92,11 @@
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-25",
       "status": "published",
-      "auto_related": []
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "long-distance-marriage-reality"
+      ]
     },
     {
       "id": "abandoning-mother-psychoanalysis",
@@ -98,7 +111,11 @@
       "cluster": "تروما و اضطراب",
       "publish_date": "2026-08-25",
       "status": "published",
-      "auto_related": []
+      "auto_related": [
+        "running-away-survival",
+        "toxic-mother-sensitive-daughter-psychoanalysis",
+        "collapsed-family-boundaries"
+      ]
     },
     {
       "id": "toxic-mother-sensitive-daughter-psychoanalysis",
@@ -113,7 +130,11 @@
       "cluster": "تروما و اضطراب",
       "publish_date": "2026-08-25",
       "status": "published",
-      "auto_related": []
+      "auto_related": [
+        "running-away-survival",
+        "abandoning-mother-psychoanalysis",
+        "collapsed-family-boundaries"
+      ]
     },
     {
       "id": "long-distance-marriage-reality",
@@ -128,7 +149,11 @@
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-24",
       "status": "published",
-      "auto_related": []
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
     },
     {
       "id": "false-confidence-relationships",
@@ -178,7 +203,8 @@
       "status": "published",
       "auto_related": [
         "family-boundaries",
-        "masculine-husband-dynamic"
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
       ]
     },
     {
@@ -196,8 +222,9 @@
       "publish_date": "2026-08-29",
       "status": "published",
       "auto_related": [
-        "codependency-marriage",
-        "family-boundaries"
+        "honor-culture-psychoanalysis",
+        "family-boundaries",
+        "masculine-husband-dynamic"
       ]
     },
     {
@@ -216,7 +243,8 @@
       "status": "published",
       "auto_related": [
         "family-boundaries",
-        "codependency-marriage"
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
       ]
     },
     {
@@ -234,8 +262,9 @@
       "publish_date": "2026-08-29",
       "status": "published",
       "auto_related": [
-        "ceiling-psychoanalysis",
-        "family-boundaries"
+        "social-class-codependency",
+        "family-boundaries",
+        "masculine-husband-dynamic"
       ]
     },
     {
@@ -253,8 +282,7 @@
       "publish_date": "2026-08-29",
       "status": "published",
       "auto_related": [
-        "infidelity-mental-pit",
-        "family-boundaries"
+        "infidelity-mental-pit"
       ]
     },
     {
@@ -273,7 +301,8 @@
       "status": "published",
       "auto_related": [
         "running-away-survival",
-        "toxic-mother-sensitive-daughter-psychoanalysis"
+        "untreated-mood-disorder-marriage",
+        "abandoning-mother-psychoanalysis"
       ]
     },
     {
@@ -291,6 +320,7 @@
       "publish_date": "2026-08-29",
       "status": "published",
       "auto_related": [
+        "running-away-survival",
         "abandoning-mother-psychoanalysis",
         "toxic-mother-sensitive-daughter-psychoanalysis"
       ]
@@ -311,8 +341,8 @@
       "status": "published",
       "auto_related": [
         "family-boundaries",
-        "ceiling-psychoanalysis",
-        "honor-culture-psychoanalysis"
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
       ]
     },
     {
@@ -331,8 +361,9 @@
       "publish_date": "2026-08-29",
       "status": "published",
       "auto_related": [
+        "running-away-survival",
         "collapsed-family-boundaries",
-        "pregnancy-rage-guilt"
+        "affair-crisis-pregnancy"
       ]
     },
     {
@@ -351,8 +382,9 @@
       "publish_date": "2026-08-29",
       "status": "published",
       "auto_related": [
-        "collapsed-family-boundaries",
-        "untreated-mood-disorder-marriage"
+        "untreated-mood-disorder-marriage",
+        "running-away-survival",
+        "abandoning-mother-psychoanalysis"
       ]
     },
     {
@@ -371,9 +403,9 @@
       "publish_date": "2026-08-29",
       "status": "published",
       "auto_related": [
-        "toxic-mother-sensitive-daughter-psychoanalysis",
-        "abandoning-mother-psychoanalysis",
-        "ceiling-psychoanalysis"
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
       ]
     }
   ],
