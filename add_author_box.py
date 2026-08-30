@@ -1,11 +1,18 @@
-<!DOCTYPE html>
-<html lang="fa" dir="rtl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مرزهای سالم در خانواده: چگونه «نه» بگوییم؟</title>
-    <link rel="stylesheet" href="/parsang.css">
+import os
 
+AUTHOR_BOX_HTML = '''
+<aside class="author-box" id="author-box">
+  <div class="author-avatar">م‌م</div>
+  <div class="author-info">
+    <h3>مفید مقصودی</h3>
+    <p class="author-title">کارشناس ارشد روانشناسی بالینی | شمارهٔ نظام: ۲۱۶۸</p>
+    <p class="author-bio">بیش از ۳۰ سال تجربه و ۱۰,۰۰۰ جلسه مشاوره با رویکرد کل‌نگر. عضو سازمان نظام روانشناسی و مشاوره ایران.</p>
+    <a href="/about.html" class="author-link">دربارهٔ درمانگر ←</a>
+  </div>
+</aside>
+'''
+
+AUTHOR_BOX_CSS = '''
 <style>
 .author-box {
   max-width: 760px;
@@ -35,8 +42,9 @@
 .author-link:hover { color: #b98a2f; }
 @media (max-width: 600px) { .author-box { flex-direction: column; text-align: center; } }
 </style>
+'''
 
-
+AUTHOR_SCHEMA = '''
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -67,37 +75,35 @@
   }
 }
 </script>
+'''
 
-</head>
-<body>
-    <header>
-        <h1>مرزهای سالم در خانواده: چگونه «نه» بگوییم؟</h1>
-        <p class="meta">خوشه: روابط و خانواده | تاریخ: 2026-08-20</p>
-    </header>
-    
-    <main>
-        <div class="content">
-            <p>محتوای اصلی مقاله اینجا قرار می‌گیرد...</p>
-        </div>
+blog_dir = 'blog'
+n = 0
+for article_dir in os.listdir(blog_dir):
+    idx = os.path.join(blog_dir, article_dir, 'index.html')
+    if not os.path.isfile(idx):
+        continue
 
-        <!-- بخش لینک‌های مرتبط که توسط auto_linker پر می‌شود -->
-        <section class="related-articles">
-            <h3>مقالات مرتبط</h3>
-            <ul>
-                <li>مقاله مرتبطی یافت نشد.</li>
-            </ul>
-        </section>
-    
-<aside class="author-box" id="author-box">
-  <div class="author-avatar">م‌م</div>
-  <div class="author-info">
-    <h3>مفید مقصودی</h3>
-    <p class="author-title">کارشناس ارشد روانشناسی بالینی | شمارهٔ نظام: ۲۱۶۸</p>
-    <p class="author-bio">بیش از ۳۰ سال تجربه و ۱۰,۰۰۰ جلسه مشاوره با رویکرد کل‌نگر. عضو سازمان نظام روانشناسی و مشاوره ایران.</p>
-    <a href="/about.html" class="author-link">دربارهٔ درمانگر ←</a>
-  </div>
-</aside>
+    with open(idx, 'r', encoding='utf-8') as f:
+        html = f.read()
 
-</main>
-</body>
-</html>
+    if 'id="author-box"' in html:
+        continue
+
+    if AUTHOR_BOX_CSS.strip() not in html:
+        html = html.replace('</head>', AUTHOR_BOX_CSS + '\n</head>')
+
+    if '"@type": "Article"' not in html:
+        html = html.replace('</head>', AUTHOR_SCHEMA + '\n</head>')
+
+    if '</main>' in html:
+        html = html.replace('</main>', AUTHOR_BOX_HTML + '\n</main>', 1)
+    else:
+        html = html.replace('</body>', AUTHOR_BOX_HTML + '\n</body>')
+
+    with open(idx, 'w', encoding='utf-8') as f:
+        f.write(html)
+    n += 1
+    print('✍️', article_dir)
+
+print(f'✅ مهر اعتبار روی {n} مقاله نشست')
