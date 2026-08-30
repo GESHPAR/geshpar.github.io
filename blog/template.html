@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <!-- SEO Meta Tags -->
+    <title>{{TITLE}} | گشپار</title>
+    <meta name="description" content="{{DESCRIPTION}}">
+    <meta name="keywords" content="{{KEYWORDS}}">
+    <meta name="author" content="تیم تخصصی گشپار">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+    <link rel="canonical" href="{{CANONICAL_URL}}">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{{OG_TITLE}}">
+    <meta property="og:description" content="{{OG_DESCRIPTION}}">
+    <meta property="og:url" content="{{OG_URL}}">
+    <meta property="og:image" content="{{OG_IMAGE}}">
+    <meta property="og:site_name" content="گشپار">
+    <meta property="article:published_time" content="{{PUBLISH_DATE}}">
+    <meta property="article:modified_time" content="{{MODIFIED_DATE}}">
+    <meta property="article:author" content="https://geshpar.com/about/">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{TWITTER_TITLE}}">
+    <meta name="twitter:description" content="{{TWITTER_DESCRIPTION}}">
+    <meta name="twitter:image" content="{{TWITTER_IMAGE}}">
+    
+    <!-- Preconnect for Performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    
+    <!-- Font -->
+    <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet">
+    
+    <!-- Structured Data: WebSite -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "گشپار",
+      "url": "https://geshpar.com/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://geshpar.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+    
+    <!-- Structured Data: Organization -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "گشپار",
+      "url": "https://geshpar.com/",
+      "logo": "https://geshpar.com/assets/logo.png",
+      "sameAs": [
+        "https://t.me/geshpar",
+        "https://instagram.com/geshpar"
+      ]
+    }
+    </script>
+    
+    <!-- Structured Data: BreadcrumbList -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "خانه",
+          "item": "https://geshpar.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "بلاگ",
+          "item": "https://geshpar.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{BREADCRUMB_TITLE}}",
+          "item": "{{CANONICAL_URL}}"
+        }
+      ]
+    }
+    </script>
+    
+    <!-- Structured Data: Article -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "{{TITLE}}",
+      "description": "{{DESCRIPTION}}",
+      "image": "{{OG_IMAGE}}",
+      "author": {
+        "@type": "Organization",
+        "name": "تیم تخصصی گشپار",
+        "url": "https://geshpar.com/about/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "گشپار",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://geshpar.com/assets/logo.png"
+        }
+      },
+      "datePublished": "{{PUBLISH_DATE}}",
+      "dateModified": "{{MODIFIED_DATE}}",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{CANONICAL_URL}}"
+      }
+    }
+    </script>
+    
+    <!-- Structured Data: FAQPage (Dynamic) -->
+    {{FAQ_SCHEMA}}
+    
+    <!-- Custom Styles -->
+    <style>
+        /* Base Styles */
+        body {
+            font-family: 'Vazirmatn', Tahoma, sans-serif;
+            line-height: 2.2;
+            color: #2c3e50;
+            background: #fdfdfd;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 850px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 50px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+            border-top: 6px solid #8e44ad;
+        }
+        h1 {
+            font-size: 2em;
+            color: #1a252f;
+            text-align: center;
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+        .subtitle {
+            text-align: center;
+            color: #7f8c8d;
+            font-size: 1.1em;
+            margin-bottom: 40px;
+            font-style: italic;
+        }
+        h2 {
+            font-size: 1.6em;
+            color: #8e44ad;
+            margin-top: 40px;
+            border-bottom: 2px solid #f3e5f5;
+            padding-bottom: 10px;
+        }
+        h3 {
+            font-size: 1.3em;
+            color: #2980b9;
+            margin-top: 25px;
+        }
+        p {
+            margin-bottom: 20px;
+            text-align: justify;
+            font-size: 1.05em;
+        }
+        .highlight {
+            background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+            color: #333;
+        }
+        .quote {
+            background: #f8f9fa;
+            border-right: 6px solid #8e44ad;
+            padding: 25px;
+            margin: 30px 0;
+            font-style: italic;
+            color: #555;
+            border-radius: 0 12px 12px 0;
+            font-size: 1.1em;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.03);
+        }
+        .majles-box {
+            background: #1a252f;
+            color: #ecf0f1;
+            padding: 40px;
+            border-radius: 15px;
+            margin: 50px 0;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+            border: 1px solid #34495e;
+        }
+        .majles-box h2 {
+            color: #f1c40f;
+            border-bottom: 1px solid #34495e;
+        }
+        .majles-box p {
+            color: #bdc3c7;
+        }
+        .dialogue {
+            background: rgba(255,255,255,0.05);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            border-right: 4px solid #f1c40f;
+        }
+        .dialogue strong {
+            color: #f1c40f;
+        }
+        details {
+            background: #f4f6f7;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            cursor: pointer;
+            border-right: 4px solid #2980b9;
+        }
+        summary {
+            font-weight: bold;
+            color: #2c3e50;
+            outline: none;
+            font-size: 1.1em;
+        }
+        .warning {
+            border: 2px solid #e74c3c;
+            color: #c0392b;
+            padding: 20px;
+            border-radius: 10px;
+            font-weight: bold;
+            text-align: center;
+            margin: 30px 0;
+            background: #fdedec;
+        }
+        .shadow-chapter {
+            background: #2c3e50;
+            color: #ecf0f1;
+            padding: 40px;
+            border-radius: 15px;
+            margin: 50px 0;
+            border: 1px solid #f1c40f;
+        }
+        .shadow-chapter h2 {
+            color: #f1c40f;
+            text-align: center;
+            border-bottom: 1px solid #7f8c8d;
+            padding-bottom: 15px;
+        }
+        .shadow-chapter h3 {
+            color: #e74c3c;
+            margin-top: 30px;
+        }
+        .shadow-chapter p {
+            color: #bdc3c7;
+        }
+        .shadow-insight {
+            background: rgba(241,196,15,0.1);
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 30px;
+            border-right: 4px solid #f1c40f;
+        }
+        .shadow-insight p {
+            margin: 0;
+            font-size: 1.1em;
+            color: #f1c40f;
+            text-align: center;
+        }
+        .cta-box {
+            background: linear-gradient(135deg, #8e44ad, #2c3e50);
+            color: #fff;
+            padding: 40px;
+            border-radius: 15px;
+            text-align: center;
+            margin-top: 60px;
+        }
+        .cta-btn {
+            display: inline-block;
+            background: #f1c40f;
+            color: #1a252f;
+            padding: 15px 40px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: bold;
+            margin-top: 20px;
+            transition: transform 0.3s;
+            font-size: 1.1em;
+        }
+        .cta-btn:hover {
+            transform: scale(1.05);
+        }
+        
+        /* FAQ Styles */
+        .faq-section {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 15px;
+            margin: 40px 0;
+            border-right: 5px solid #27ae60;
+        }
+        .faq-section h2 {
+            color: #27ae60;
+            border-bottom: 2px solid #27ae60;
+        }
+        .faq-item {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .faq-question {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
+        .faq-answer {
+            color: #555;
+            line-height: 1.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>{{TITLE}}</h1>
+            <p class="subtitle">{{SUBTITLE}}</p>
+        </header>
+        
+        <article>
+            {{CONTENT}}
+        </article>
+        
+        <!-- FAQ Section (Dynamic) -->
+        {{FAQ_SECTION}}
+    </div>
+</body>
+</html>
