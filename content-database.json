@@ -8,8 +8,13 @@
     {
       "id": "family-boundaries",
       "title": "مرزهای سالم در خانواده: چگونه «نه» بگوییم؟",
-      "path": "/blog/family-boundaries.html",
-      "keywords": ["مرز", "خانواده", "نه گفتن", "احترام"],
+      "path": "blog/family-boundaries/",
+      "keywords": [
+        "مرز",
+        "خانواده",
+        "نه گفتن",
+        "احترام"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-20",
       "status": "published",
@@ -18,18 +23,30 @@
     {
       "id": "running-away-survival",
       "title": "فرار از خانه: وقتی بقا مهم‌تر از قانون است",
-      "path": "/blog/running-away-survival.html",
-      "keywords": ["خشونت خانگی", "فرار", "حقوق جوانان", "پارانویا"],
+      "path": "blog/running-away-survival/",
+      "keywords": [
+        "خشونت خانگی",
+        "فرار",
+        "حقوق جوانان",
+        "پارانویا"
+      ],
       "cluster": "تروما و اضطراب",
       "publish_date": "2026-08-24",
       "status": "published",
-      "auto_related": ["family-boundaries"]
+      "auto_related": [
+        "family-boundaries"
+      ]
     },
     {
       "id": "infidelity-mental-pit",
       "title": "چاله یا چوله؟ وقتی خیانت همسر، ذهن را به سیاه‌چال تبدیل می‌کند",
-      "path": "/blog/infidelity-mental-pit.html",
-      "keywords": ["خیانت", "نشخوار فکری", "ترس از تنهایی", "وسواس"],
+      "path": "blog/infidelity-mental-pit/",
+      "keywords": [
+        "خیانت",
+        "نشخوار فکری",
+        "ترس از تنهایی",
+        "وسواس"
+      ],
       "cluster": "وسواس و اضطراب",
       "publish_date": "2026-08-24",
       "status": "published",
@@ -38,18 +55,31 @@
     {
       "id": "masculine-husband-dynamic",
       "title": "مردِ پسرانه: وقتی همسرت با تو مثل یک رفیق حرف می‌زند، نه یک زن",
-      "path": "/blog/masculine-husband-dynamic.html",
-      "keywords": ["تحقیر", "بلوغ عاطفی", "رابطه زناشویی", "ادبیات مردانه"],
+      "path": "blog/masculine-husband-dynamic/",
+      "keywords": [
+        "تحقیر",
+        "بلوغ عاطفی",
+        "رابطه زناشویی",
+        "ادبیات مردانه"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-25",
       "status": "published",
-      "auto_related": ["infidelity-mental-pit", "family-boundaries"]
+      "auto_related": [
+        "infidelity-mental-pit",
+        "family-boundaries"
+      ]
     },
     {
       "id": "deformation-male-personality",
       "title": "معماری یک فاجعه: مسخ شخصیت مرد",
-      "path": "/blog/deformation-male-personality.html",
-      "keywords": ["مسخ شخصیت", "کنترل‌گری", "فروید", "یونگ"],
+      "path": "blog/deformation-male-personality/",
+      "keywords": [
+        "مسخ شخصیت",
+        "کنترل‌گری",
+        "فروید",
+        "یونگ"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-25",
       "status": "published",
@@ -58,8 +88,13 @@
     {
       "id": "abandoning-mother-psychoanalysis",
       "title": "سقوط از تخت ملکه به زانوگاه کنیز",
-      "path": "/blog/abandoning-mother-psychoanalysis.html",
-      "keywords": ["مادر", "جدایی", "تروما", "دلبستگی"],
+      "path": "blog/abandoning-mother-psychoanalysis/",
+      "keywords": [
+        "مادر",
+        "جدایی",
+        "تروما",
+        "دلبستگی"
+      ],
       "cluster": "تروما و اضطراب",
       "publish_date": "2026-08-25",
       "status": "published",
@@ -68,8 +103,13 @@
     {
       "id": "toxic-mother-sensitive-daughter-psychoanalysis",
       "title": "زخم ناسور: وقتی مادر، تیغ می‌زند و دختر، نمک می‌پاشد",
-      "path": "/blog/toxic-mother-sensitive-daughter-psychoanalysis.html",
-      "keywords": ["مادر سمی", "دختر حساس", "مرزها", "آسیب‌شناسی"],
+      "path": "blog/toxic-mother-sensitive-daughter-psychoanalysis/",
+      "keywords": [
+        "مادر سمی",
+        "دختر حساس",
+        "مرزها",
+        "آسیب‌شناسی"
+      ],
       "cluster": "تروما و اضطراب",
       "publish_date": "2026-08-25",
       "status": "published",
@@ -78,8 +118,13 @@
     {
       "id": "long-distance-marriage-reality",
       "title": "ازدواج راه دور: توهم نزدیکی در فاصله‌های دور",
-      "path": "/blog/long-distance-marriage-reality.html",
-      "keywords": ["ازدواج راه دور", "دلتنگی", "ارتباط مجازی", "تنهایی"],
+      "path": "blog/long-distance-marriage-reality/",
+      "keywords": [
+        "ازدواج راه دور",
+        "دلتنگی",
+        "ارتباط مجازی",
+        "تنهایی"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-24",
       "status": "published",
@@ -88,8 +133,13 @@
     {
       "id": "false-confidence-relationships",
       "title": "اعتماد به نفس کاذب: نقاب قدرت در روابط ناسالم",
-      "path": "/blog/false-confidence-relationships.html",
-      "keywords": ["اعتماد به نفس", "نارسیسیسم", "دفاع‌های روانی", "خودشیفتگی"],
+      "path": "blog/false-confidence-relationships/",
+      "keywords": [
+        "اعتماد به نفس",
+        "نارسیسیسم",
+        "دفاع‌های روانی",
+        "خودشیفتگی"
+      ],
       "cluster": "رشد شخصی",
       "publish_date": "2026-08-23",
       "status": "published",
@@ -98,8 +148,15 @@
     {
       "id": "shabgoft-03",
       "title": "شب‌گفت: پارسنگِ نما و خماریِ درمان",
-      "path": "/blog/shabgoft-03.html",
-      "keywords": ["تعادل پویا", "حکمت شرق", "پارسنگ", "وسواس", "آگنی", "ساما"],
+      "path": "blog/shabgoft-03/",
+      "keywords": [
+        "تعادل پویا",
+        "حکمت شرق",
+        "پارسنگ",
+        "وسواس",
+        "آگنی",
+        "ساما"
+      ],
       "cluster": "شب‌گفت",
       "publish_date": "2026-08-28",
       "status": "published",
@@ -108,120 +165,250 @@
     {
       "id": "codependency-marriage",
       "title": "وقتی عشق تبدیل به زندان می‌شود: تحلیل کیس هم‌وابستگی در ازدواج",
-      "path": "/blog/codependency-marriage.html",
-      "keywords": ["هم وابستگی", "codependency", "ازدواج با مرد افسرده", "نجات‌دهندگی", "روانکاوی روابط"],
+      "path": "blog/codependency-marriage/",
+      "keywords": [
+        "هم وابستگی",
+        "codependency",
+        "ازدواج با مرد افسرده",
+        "نجات‌دهندگی",
+        "روانکاوی روابط"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-29",
       "status": "published",
-      "auto_related": ["family-boundaries", "masculine-husband-dynamic"]
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic"
+      ]
     },
     {
       "id": "social-class-codependency",
       "title": "فاصله طبقاتی و تله نجات‌دهندگی: تحلیل روانکاوانه یک کیس پیچیده",
-      "path": "/blog/social-class-codependency.html",
-      "keywords": ["فاصله طبقاتی", "هم‌وابستگی", "اعتیاد به کمک‌رسانی", "روانکاوی اجتماعی", "سوپرویژن بالینی"],
+      "path": "blog/social-class-codependency/",
+      "keywords": [
+        "فاصله طبقاتی",
+        "هم‌وابستگی",
+        "اعتیاد به کمک‌رسانی",
+        "روانکاوی اجتماعی",
+        "سوپرویژن بالینی"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-29",
       "status": "published",
-      "auto_related": ["codependency-marriage", "family-boundaries"]
+      "auto_related": [
+        "codependency-marriage",
+        "family-boundaries"
+      ]
     },
     {
       "id": "ceiling-psychoanalysis",
       "title": "روانکاوی در سقف: تضاد نسل‌ها، فرافکنی و تله‌ی وابستگی",
-      "path": "/blog/ceiling-psychoanalysis.html",
-      "keywords": ["روانکاوی خانواده", "تعارض نسل‌ها", "وابستگی عاطفی", "فرافکنی", "بلوغ ناقص"],
+      "path": "blog/ceiling-psychoanalysis/",
+      "keywords": [
+        "روانکاوی خانواده",
+        "تعارض نسل‌ها",
+        "وابستگی عاطفی",
+        "فرافکنی",
+        "بلوغ ناقص"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-29",
       "status": "published",
-      "auto_related": ["family-boundaries", "codependency-marriage"]
+      "auto_related": [
+        "family-boundaries",
+        "codependency-marriage"
+      ]
     },
     {
       "id": "honor-culture-psychoanalysis",
       "title": "استبداد آبرو: روانکاوی فرهنگ شرم و تضاد دهات-شهر",
-      "path": "/blog/honor-culture-psychoanalysis.html",
-      "keywords": ["فرهنگ آبرو", "شرم", "تضاد دهات و شهر", "هویت دوپاره", "روانکاوی اجتماعی"],
+      "path": "blog/honor-culture-psychoanalysis/",
+      "keywords": [
+        "فرهنگ آبرو",
+        "شرم",
+        "تضاد دهات و شهر",
+        "هویت دوپاره",
+        "روانکاوی اجتماعی"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-29",
       "status": "published",
-      "auto_related": ["ceiling-psychoanalysis", "family-boundaries"]
+      "auto_related": [
+        "ceiling-psychoanalysis",
+        "family-boundaries"
+      ]
     },
     {
       "id": "ocd-marriage-decision",
       "title": "فلجِ انتخاب: روانکاوی وسواس و کمال‌طلبی در تصمیم‌گیری ازدواج",
-      "path": "/blog/ocd-marriage-decision.html",
-      "keywords": ["وسواس فکری عملی", "تصمیم‌گیری ازدواج", "کمال‌طلبی", "کنترل‌گری والدین", "ترس از تعهد"],
+      "path": "blog/ocd-marriage-decision/",
+      "keywords": [
+        "وسواس فکری عملی",
+        "تصمیم‌گیری ازدواج",
+        "کمال‌طلبی",
+        "کنترل‌گری والدین",
+        "ترس از تعهد"
+      ],
       "cluster": "وسواس و اضطراب",
       "publish_date": "2026-08-29",
       "status": "published",
-      "auto_related": ["infidelity-mental-pit", "family-boundaries"]
+      "auto_related": [
+        "infidelity-mental-pit",
+        "family-boundaries"
+      ]
     },
     {
       "id": "collapsed-family-boundaries",
       "title": "زندگی در قفس شیشه‌ای: روانکاوی فروپاشی مرزها و دخالت خانواده گسترده",
-      "path": "/blog/collapsed-family-boundaries.html",
-      "keywords": ["مرزهای خانوادگی", "دخالت خانواده", "خشونت خانگی", "وابستگی عاطفی", "زندگی مشترک"],
+      "path": "blog/collapsed-family-boundaries/",
+      "keywords": [
+        "مرزهای خانوادگی",
+        "دخالت خانواده",
+        "خشونت خانگی",
+        "وابستگی عاطفی",
+        "زندگی مشترک"
+      ],
       "cluster": "تروما و اضطراب",
       "publish_date": "2026-08-29",
       "status": "published",
-      "auto_related": ["running-away-survival", "toxic-mother-sensitive-daughter-psychoanalysis"]
+      "auto_related": [
+        "running-away-survival",
+        "toxic-mother-sensitive-daughter-psychoanalysis"
+      ]
     },
     {
       "id": "pregnancy-rage-guilt",
       "title": "خشم مقدس: روانکاوی پرخاشگری دوران بارداری و احساس گناه مادرانه",
-      "path": "/blog/pregnancy-rage-guilt.html",
-      "keywords": ["خشم دوران بارداری", "افسردگی پریناتال", "احساس گناه مادرانه", "تغییرات هورمونی", "روانکاوی زنانه"],
+      "path": "blog/pregnancy-rage-guilt/",
+      "keywords": [
+        "خشم دوران بارداری",
+        "افسردگی پریناتال",
+        "احساس گناه مادرانه",
+        "تغییرات هورمونی",
+        "روانکاوی زنانه"
+      ],
       "cluster": "تروما و اضطراب",
       "publish_date": "2026-08-29",
       "status": "published",
-      "auto_related": ["abandoning-mother-psychoanalysis", "toxic-mother-sensitive-daughter-psychoanalysis"]
+      "auto_related": [
+        "abandoning-mother-psychoanalysis",
+        "toxic-mother-sensitive-daughter-psychoanalysis"
+      ]
     },
     {
       "id": "ideological-family-conflict",
       "title": "جنگ نیابتی در اتاق نشیمن: روانکاوی تعارض ایدئولوژیک و وفاداری‌های متضاد",
-      "path": "/blog/ideological-family-conflict.html",
-      "keywords": ["تعارض خانوادگی", "وفاداری متضاد", "مرزهای زناشویی", "تفاوت نسل‌ها", "ایدئولوژی و خانواده"],
+      "path": "blog/ideological-family-conflict/",
+      "keywords": [
+        "تعارض خانوادگی",
+        "وفاداری متضاد",
+        "مرزهای زناشویی",
+        "تفاوت نسل‌ها",
+        "ایدئولوژی و خانواده"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-29",
       "status": "published",
-      "auto_related": ["family-boundaries", "ceiling-psychoanalysis", "honor-culture-psychoanalysis"]
+      "auto_related": [
+        "family-boundaries",
+        "ceiling-psychoanalysis",
+        "honor-culture-psychoanalysis"
+      ]
     },
     {
       "id": "untreated-mood-disorder-marriage",
       "title": "وقتی خانه میدان جنگ می‌شود: روانکاوی ازدواج با فرد مبتلا به اختلال خلقی درمان‌نشده",
-      "path": "/blog/untreated-mood-disorder-marriage.html",
-      "keywords": ["اختلال خلقی", "خشونت خانگی", "سرترالین", "آسیب به کودک", "طلاق", "روانپزشکی بالینی"],
+      "path": "blog/untreated-mood-disorder-marriage/",
+      "keywords": [
+        "اختلال خلقی",
+        "خشونت خانگی",
+        "سرترالین",
+        "آسیب به کودک",
+        "طلاق",
+        "روانپزشکی بالینی"
+      ],
       "cluster": "تروما و اضطراب",
       "publish_date": "2026-08-29",
       "status": "published",
-      "auto_related": ["collapsed-family-boundaries", "pregnancy-rage-guilt"]
+      "auto_related": [
+        "collapsed-family-boundaries",
+        "pregnancy-rage-guilt"
+      ]
     },
     {
       "id": "affair-crisis-pregnancy",
       "title": "بحران خیانت در آستانه تولد: وقتی یک نوزاد قربانی بزرگسالان می‌شود",
-      "path": "/blog/affair-crisis-pregnancy.html",
-      "keywords": ["خیانت", "بارداری", "بحران خانوادگی", "کودک‌آزاری عاطفی", "طلاق", "روانشناسی بحران"],
+      "path": "blog/affair-crisis-pregnancy/",
+      "keywords": [
+        "خیانت",
+        "بارداری",
+        "بحران خانوادگی",
+        "کودک‌آزاری عاطفی",
+        "طلاق",
+        "روانشناسی بحران"
+      ],
       "cluster": "تروما و اضطراب",
       "publish_date": "2026-08-29",
       "status": "published",
-      "auto_related": ["collapsed-family-boundaries", "untreated-mood-disorder-marriage"]
+      "auto_related": [
+        "collapsed-family-boundaries",
+        "untreated-mood-disorder-marriage"
+      ]
     },
     {
       "id": "modern-tragedy-mother-shadow",
       "title": "وقتی مادر در آینه‌ی عروس، هیولای درونش را می‌بیند: تحلیل روانکاوانه یک تراژدی مدرن",
-      "path": "/blog/modern-tragedy-mother-shadow.html",
-      "keywords": ["روانکاوی مادر و پسر", "فرافکنی سایه", "سهراب و رستم", "ترومای بین نسلی", "هیولاسازی", "باج‌گیری عاطفی"],
+      "path": "blog/modern-tragedy-mother-shadow/",
+      "keywords": [
+        "روانکاوی مادر و پسر",
+        "فرافکنی سایه",
+        "سهراب و رستم",
+        "ترومای بین نسلی",
+        "هیولاسازی",
+        "باج‌گیری عاطفی"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-29",
       "status": "published",
-      "auto_related": ["toxic-mother-sensitive-daughter-psychoanalysis", "abandoning-mother-psychoanalysis", "ceiling-psychoanalysis"]
+      "auto_related": [
+        "toxic-mother-sensitive-daughter-psychoanalysis",
+        "abandoning-mother-psychoanalysis",
+        "ceiling-psychoanalysis"
+      ]
     }
   ],
   "clusters": {
-    "تروما و اضطراب": ["running-away-survival", "abandoning-mother-psychoanalysis", "toxic-mother-sensitive-daughter-psychoanalysis", "collapsed-family-boundaries", "pregnancy-rage-guilt", "untreated-mood-disorder-marriage", "affair-crisis-pregnancy"],
-    "وسواس و اضطراب": ["infidelity-mental-pit", "ocd-marriage-decision"],
-    "روابط و خانواده": ["family-boundaries", "masculine-husband-dynamic", "deformation-male-personality", "long-distance-marriage-reality", "codependency-marriage", "social-class-codependency", "ceiling-psychoanalysis", "honor-culture-psychoanalysis", "ideological-family-conflict", "modern-tragedy-mother-shadow"],
-    "رشد شخصی": ["false-confidence-relationships"],
-    "شب‌گفت": ["shabgoft-03"]
+    "تروما و اضطراب": [
+      "running-away-survival",
+      "abandoning-mother-psychoanalysis",
+      "toxic-mother-sensitive-daughter-psychoanalysis",
+      "collapsed-family-boundaries",
+      "pregnancy-rage-guilt",
+      "untreated-mood-disorder-marriage",
+      "affair-crisis-pregnancy"
+    ],
+    "وسواس و اضطراب": [
+      "infidelity-mental-pit",
+      "ocd-marriage-decision"
+    ],
+    "روابط و خانواده": [
+      "family-boundaries",
+      "masculine-husband-dynamic",
+      "deformation-male-personality",
+      "long-distance-marriage-reality",
+      "codependency-marriage",
+      "social-class-codependency",
+      "ceiling-psychoanalysis",
+      "honor-culture-psychoanalysis",
+      "ideological-family-conflict",
+      "modern-tragedy-mother-shadow"
+    ],
+    "رشد شخصی": [
+      "false-confidence-relationships"
+    ],
+    "شب‌گفت": [
+      "shabgoft-03"
+    ]
   },
   "linking_rules": {
     "same_cluster_priority": 0.8,
