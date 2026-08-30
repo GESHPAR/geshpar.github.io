@@ -9,27 +9,49 @@
       "id": "family-boundaries",
       "title": "مرزهای سالم در خانواده: چگونه «نه» بگوییم؟",
       "path": "/blog/family-boundaries.html",
-      "keywords": ["مرز", "خانواده", "نه گفتن", "احترام"],
+      "keywords": [
+        "مرز",
+        "خانواده",
+        "نه گفتن",
+        "احترام"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-20",
       "status": "published",
-      "auto_related": []
+      "auto_related": [
+        "masculine-husband-dynamic",
+        "deformation-male-personality",
+        "long-distance-marriage-reality"
+      ]
     },
     {
       "id": "running-away-survival",
       "title": "فرار از خانه: وقتی بقا مهم‌تر از قانون است",
       "path": "/blog/running-away-survival.html",
-      "keywords": ["خشونت خانگی", "فرار", "حقوق جوانان", "پارانویا"],
+      "keywords": [
+        "خشونت خانگی",
+        "فرار",
+        "حقوق جوانان",
+        "پارانویا"
+      ],
       "cluster": "تروما و اضطراب",
       "publish_date": "2026-08-24",
       "status": "published",
-      "auto_related": ["family-boundaries"]
+      "auto_related": [
+        "abandoning-mother-psychoanalysis",
+        "toxic-mother-sensitive-daughter-psychoanalysis"
+      ]
     },
     {
       "id": "infidelity-mental-pit",
       "title": "چاله یا چوله؟ وقتی خیانت همسر، ذهن را به سیاه‌چال تبدیل می‌کند",
       "path": "/blog/infidelity-mental-pit.html",
-      "keywords": ["خیانت", "نشخوار فکری", "ترس از تنهایی", "وسواس"],
+      "keywords": [
+        "خیانت",
+        "نشخوار فکری",
+        "ترس از تنهایی",
+        "وسواس"
+      ],
       "cluster": "وسواس و اضطراب",
       "publish_date": "2026-08-24",
       "status": "published",
@@ -39,57 +61,105 @@
       "id": "masculine-husband-dynamic",
       "title": "مردِ پسرانه: وقتی همسرت با تو مثل یک رفیق حرف می‌زند، نه یک زن",
       "path": "/blog/masculine-husband-dynamic.html",
-      "keywords": ["تحقیر", "بلوغ عاطفی", "رابطه زناشویی", "ادبیات مردانه"],
+      "keywords": [
+        "تحقیر",
+        "بلوغ عاطفی",
+        "رابطه زناشویی",
+        "ادبیات مردانه"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-25",
       "status": "published",
-      "auto_related": ["infidelity-mental-pit", "family-boundaries"]
+      "auto_related": [
+        "family-boundaries",
+        "deformation-male-personality",
+        "long-distance-marriage-reality"
+      ]
     },
     {
       "id": "deformation-male-personality",
       "title": "معماری یک فاجعه: مسخ شخصیت مرد",
       "path": "/blog/deformation-male-personality.html",
-      "keywords": ["مسخ شخصیت", "کنترل‌گری", "فروید", "یونگ"],
+      "keywords": [
+        "مسخ شخصیت",
+        "کنترل‌گری",
+        "فروید",
+        "یونگ"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-25",
       "status": "published",
-      "auto_related": []
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "long-distance-marriage-reality"
+      ]
     },
     {
       "id": "abandoning-mother-psychoanalysis",
       "title": "سقوط از تخت ملکه به زانوگاه کنیز",
       "path": "/blog/abandoning-mother-psychoanalysis.html",
-      "keywords": ["مادر", "جدایی", "تروما", "دلبستگی"],
+      "keywords": [
+        "مادر",
+        "جدایی",
+        "تروما",
+        "دلبستگی"
+      ],
       "cluster": "تروما و اضطراب",
       "publish_date": "2026-08-25",
       "status": "published",
-      "auto_related": []
+      "auto_related": [
+        "running-away-survival",
+        "toxic-mother-sensitive-daughter-psychoanalysis"
+      ]
     },
     {
       "id": "toxic-mother-sensitive-daughter-psychoanalysis",
       "title": "زخم ناسور: وقتی مادر، تیغ می‌زند و دختر، نمک می‌پاشد",
       "path": "/blog/toxic-mother-sensitive-daughter-psychoanalysis.html",
-      "keywords": ["مادر سمی", "دختر حساس", "مرزها", "آسیب‌شناسی"],
+      "keywords": [
+        "مادر سمی",
+        "دختر حساس",
+        "مرزها",
+        "آسیب‌شناسی"
+      ],
       "cluster": "تروما و اضطراب",
       "publish_date": "2026-08-25",
       "status": "published",
-      "auto_related": []
+      "auto_related": [
+        "running-away-survival",
+        "abandoning-mother-psychoanalysis"
+      ]
     },
     {
       "id": "long-distance-marriage-reality",
       "title": "ازدواج راه دور: توهم نزدیکی در فاصله‌های دور",
       "path": "/blog/long-distance-marriage-reality.html",
-      "keywords": ["ازدواج راه دور", "دلتنگی", "ارتباط مجازی", "تنهایی"],
+      "keywords": [
+        "ازدواج راه دور",
+        "دلتنگی",
+        "ارتباط مجازی",
+        "تنهایی"
+      ],
       "cluster": "روابط و خانواده",
       "publish_date": "2026-08-24",
       "status": "published",
-      "auto_related": []
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
     },
     {
       "id": "false-confidence-relationships",
       "title": "اعتماد به نفس کاذب: نقاب قدرت در روابط ناسالم",
       "path": "/blog/false-confidence-relationships.html",
-      "keywords": ["اعتماد به نفس", "نارسیسیسم", "دفاع‌های روانی", "خودشیفتگی"],
+      "keywords": [
+        "اعتماد به نفس",
+        "نارسیسیسم",
+        "دفاع‌های روانی",
+        "خودشیفتگی"
+      ],
       "cluster": "رشد شخصی",
       "publish_date": "2026-08-23",
       "status": "published",
@@ -99,7 +169,14 @@
       "id": "shabgoft-03",
       "title": "شب‌گفت: پارسنگِ نما و خماریِ درمان",
       "path": "/blog/shabgoft-03.html",
-      "keywords": ["تعادل پویا", "حکمت شرق", "پارسنگ", "وسواس", "آگنی", "ساما"],
+      "keywords": [
+        "تعادل پویا",
+        "حکمت شرق",
+        "پارسنگ",
+        "وسواس",
+        "آگنی",
+        "ساما"
+      ],
       "cluster": "شب‌گفت",
       "publish_date": "2026-08-28",
       "status": "published",
@@ -107,11 +184,26 @@
     }
   ],
   "clusters": {
-    "تروما و اضطراب": ["running-away-survival", "abandoning-mother-psychoanalysis", "toxic-mother-sensitive-daughter-psychoanalysis"],
-    "وسواس و اضطراب": ["infidelity-mental-pit"],
-    "روابط و خانواده": ["family-boundaries", "masculine-husband-dynamic", "deformation-male-personality", "long-distance-marriage-reality"],
-    "رشد شخصی": ["false-confidence-relationships"],
-    "شب‌گفت": ["shabgoft-03"]
+    "تروما و اضطراب": [
+      "running-away-survival",
+      "abandoning-mother-psychoanalysis",
+      "toxic-mother-sensitive-daughter-psychoanalysis"
+    ],
+    "وسواس و اضطراب": [
+      "infidelity-mental-pit"
+    ],
+    "روابط و خانواده": [
+      "family-boundaries",
+      "masculine-husband-dynamic",
+      "deformation-male-personality",
+      "long-distance-marriage-reality"
+    ],
+    "رشد شخصی": [
+      "false-confidence-relationships"
+    ],
+    "شب‌گفت": [
+      "shabgoft-03"
+    ]
   },
   "linking_rules": {
     "same_cluster_priority": 0.8,
