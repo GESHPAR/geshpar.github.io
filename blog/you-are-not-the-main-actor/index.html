@@ -174,5 +174,16 @@
   <p>© ۱۴۵ مفید مقصودی | همهٔ حقوق محفوظ است.</p>
   <p><a href="../index.html">صفحهٔ اصلی</a> | <a href="../blog/">مقالات</a> | <a href="../contact/index.html">تماس</a></p>
 </footer>
+
+<script>
+// Copy guard - geshpar.com
+document.addEventListener('contextmenu', function(e){ e.preventDefault(); });
+document.addEventListener('copy', function(e){ e.preventDefault(); });
+document.addEventListener('cut', function(e){ e.preventDefault(); });
+document.addEventListener('keydown', function(e){
+  if ((e.ctrlKey || e.metaKey) && ['c','C','x','X','u','U','s','S'].includes(e.key)) { e.preventDefault(); }
+});
+</script>
+
 </body>
 </html>
