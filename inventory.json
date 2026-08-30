@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-30 13:11:11",
+  "lastUpdated": "2026-08-30 15:24:06",
   "totalArticles": 185,
   "uniqueArticles": 185,
   "duplicateFiles": 0,
-  "totalSize": "1459.85 KB",
+  "totalSize": "1761.62 KB",
   "articles": [
     {
       "name": "abandoning-mother-psychoanalysis.html",
@@ -133,9 +133,9 @@
     },
     {
       "name": "false-confidence-relationships.html",
-      "path": "blog/false-confidence-relationships.html",
-      "size": "4096 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\false-confidence-relationships.html",
+      "size": "0 bytes",
+      "modified": "2026-08-30 10:22",
       "is_duplicate": false
     },
     {
@@ -196,16 +196,16 @@
     },
     {
       "name": "index.html",
-      "path": "blog/index.html",
-      "size": "9305 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\index.html",
+      "size": "9373 bytes",
+      "modified": "2026-08-26 17:09",
       "is_duplicate": false
     },
     {
-      "name": "ceiling-psychoanalysis.html",
-      "path": "blog/ceiling-psychoanalysis.html",
-      "size": "403 bytes",
-      "modified": "2026-08-30 10:14",
+      "name": "infidelity-mental-pit.html",
+      "path": "blog\\infidelity-mental-pit.html",
+      "size": "0 bytes",
+      "modified": "2026-08-30 10:22",
       "is_duplicate": false
     },
     {
@@ -230,10 +230,10 @@
       "is_duplicate": false
     },
     {
-      "name": "rebuilding-trust-after-conflict.html",
-      "path": "blog/rebuilding-trust-after-conflict.html",
-      "size": "430 bytes",
-      "modified": "2026-08-30 10:14",
+      "name": "masculine-husband-dynamic.html",
+      "path": "blog\\masculine-husband-dynamic.html",
+      "size": "0 bytes",
+      "modified": "2026-08-30 10:22",
       "is_duplicate": false
     },
     {
@@ -448,387 +448,16 @@
     },
     {
       "name": "template.html",
-      "path": "blog/template.html",
-      "size": "10208 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "husband-success-fear.html",
-      "path": "blog/husband-success-fear.html",
-      "size": "397 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "ocd-marriage-decision.html",
-      "path": "blog/ocd-marriage-decision.html",
-      "size": "400 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "pregnancy-rage-guilt.html",
-      "path": "blog/pregnancy-rage-guilt.html",
-      "size": "397 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "supervision-attachment-trauma.html",
-      "path": "blog/supervision-attachment-trauma.html",
-      "size": "424 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "displaced-jealousy-family-conflict.html",
-      "path": "blog/displaced-jealousy-family-conflict.html",
-      "size": "439 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "honor-culture-psychoanalysis.html",
-      "path": "blog/honor-culture-psychoanalysis.html",
-      "size": "421 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\template.html",
+      "size": "10561 bytes",
+      "modified": "2026-08-29 21:23",
       "is_duplicate": false
     },
     {
       "name": "toxic-mother-sensitive-daughter-psychoanalysis.html",
-      "path": "blog/toxic-mother-sensitive-daughter-psychoanalysis.html",
-      "size": "4096 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "sohrab-tragedy-shadow.html",
-      "path": "blog/sohrab-tragedy-shadow.html",
-      "size": "400 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "right-path.html",
-      "path": "blog/right-path.html",
-      "size": "367 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "spouse-neglect.html",
-      "path": "blog/spouse-neglect.html",
-      "size": "379 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "deformation-male-personality.html",
-      "path": "blog/deformation-male-personality.html",
-      "size": "4096 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "intergenerational-trauma-loyalty.html",
-      "path": "blog/intergenerational-trauma-loyalty.html",
-      "size": "433 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "mindfulness.html",
-      "path": "blog/mindfulness.html",
-      "size": "370 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "shabgoft-02.html",
-      "path": "blog/shabgoft-02.html",
-      "size": "370 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "preemptive-breakup.html",
-      "path": "blog/preemptive-breakup.html",
-      "size": "391 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "suspicion-or-betrayal.html",
-      "path": "blog/suspicion-or-betrayal.html",
-      "size": "400 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "mutual-anger-cycle-psychoanalysis.html",
-      "path": "blog/mutual-anger-cycle-psychoanalysis.html",
-      "size": "436 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "depression-hidden-in-wife.html",
-      "path": "blog/depression-hidden-in-wife.html",
-      "size": "412 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "chase-and-run-dance.html",
-      "path": "blog/chase-and-run-dance.html",
-      "size": "394 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "in-laws-interference.html",
-      "path": "blog/in-laws-interference.html",
-      "size": "397 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "running-away-survival.html",
-      "path": "blog/running-away-survival.html",
-      "size": "4096 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "collapsed-family-boundaries.html",
-      "path": "blog/collapsed-family-boundaries.html",
-      "size": "418 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "anxious-attachment-pursuer-distancer.html",
-      "path": "blog/anxious-attachment-pursuer-distancer.html",
-      "size": "445 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "long-distance-marriage-reality.html",
-      "path": "blog/long-distance-marriage-reality.html",
-      "size": "4096 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "obsessive-surveillance-psychoanalysis.html",
-      "path": "blog/obsessive-surveillance-psychoanalysis.html",
-      "size": "448 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "affair-crisis-pregnancy.html",
-      "path": "blog/affair-crisis-pregnancy.html",
-      "size": "406 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "shabgoft-01.html",
-      "path": "blog/shabgoft-01.html",
-      "size": "370 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "preemptive-breakup-test.html",
-      "path": "blog/preemptive-breakup-test.html",
-      "size": "406 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "self-sacrifice-trap.html",
-      "path": "blog/self-sacrifice-trap.html",
-      "size": "394 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "addictive-mother-controlling-son.html",
-      "path": "blog/addictive-mother-controlling-son.html",
-      "size": "433 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "let-your-child-fail.html",
-      "path": "blog/let-your-child-fail.html",
-      "size": "394 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "anxious-neighbor.html",
-      "path": "blog/anxious-neighbor.html",
-      "size": "385 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "diagnosing-pathological-lying.html",
-      "path": "blog/diagnosing-pathological-lying.html",
-      "size": "424 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "right-choice.html",
-      "path": "blog/right-choice.html",
-      "size": "373 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "right-return.html",
-      "path": "blog/right-return.html",
-      "size": "373 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "masculine-husband-dynamic.html",
-      "path": "blog/masculine-husband-dynamic.html",
-      "size": "4096 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "family-boundaries-assertiveness.html",
-      "path": "blog/family-boundaries-assertiveness.html",
-      "size": "430 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "clash-of-cultures-marriage.html",
-      "path": "blog/clash-of-cultures-marriage.html",
-      "size": "415 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "enmeshment-and-triangulation.html",
-      "path": "blog/enmeshment-and-triangulation.html",
-      "size": "421 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "why-husband-starts-fights.html",
-      "path": "blog/why-husband-starts-fights.html",
-      "size": "412 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "spousal-infidelity.html",
-      "path": "blog/spousal-infidelity.html",
-      "size": "391 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "modern-tragedy-mother-shadow.html",
-      "path": "blog/modern-tragedy-mother-shadow.html",
-      "size": "421 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "codependency-addiction.html",
-      "path": "blog/codependency-addiction.html",
-      "size": "403 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "brt-driver-conflict.html",
-      "path": "blog/brt-driver-conflict.html",
-      "size": "394 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "regular-man.html",
-      "path": "blog/regular-man.html",
-      "size": "370 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "online-counseling.html",
-      "path": "blog/online-counseling.html",
-      "size": "388 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "social-class-codependency.html",
-      "path": "blog/social-class-codependency.html",
-      "size": "412 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "narcissistic-spouse.html",
-      "path": "blog/narcissistic-spouse.html",
-      "size": "394 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "attachment-trauma-abandonment-case.html",
-      "path": "blog/attachment-trauma-abandonment-case.html",
-      "size": "439 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "infidelity-mental-pit.html",
-      "path": "blog/infidelity-mental-pit.html",
-      "size": "4096 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "ideological-family-conflict.html",
-      "path": "blog/ideological-family-conflict.html",
-      "size": "418 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "shabgoft-03.html",
-      "path": "blog/shabgoft-03.html",
-      "size": "4096 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "family-boundaries.html",
-      "path": "blog/family-boundaries.html",
-      "size": "4096 bytes",
-      "modified": "2026-08-30 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "supervision-avoidant-anxious.html",
-      "path": "blog/supervision-avoidant-anxious.html",
-      "size": "421 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\toxic-mother-sensitive-daughter-psychoanalysis.html",
+      "size": "0 bytes",
+      "modified": "2026-08-30 10:22",
       "is_duplicate": false
     },
     {
@@ -862,813 +491,813 @@
     {
       "name": "index.html",
       "path": "blog\\abandoning-mother-psychoanalysis\\index.html",
-      "size": "1000 bytes",
-      "modified": "2026-08-30 13:09",
+      "size": "3954 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
-      "path": "blog/marriage-boundaries-humor/index.html",
-      "size": "11965 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\abandoning-mother-psychoanalysis.html\\index.html",
+      "size": "3954 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\addictive-mother-controlling-son\\index.html",
-      "size": "19713 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "21800 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\affair-crisis-pregnancy\\index.html",
-      "size": "12516 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "15470 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\anxious-attachment-pursuer-distancer\\index.html",
-      "size": "9053 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "11140 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\anxious-elderly-neighbor\\index.html",
-      "size": "8008 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "10962 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\anxious-neighbor\\index.html",
-      "size": "20281 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "23235 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\apology-anxiety-teen\\index.html",
-      "size": "18502 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "20589 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\attachment-trauma-abandonment-case\\index.html",
-      "size": "26076 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "29030 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\brt-driver-conflict\\index.html",
-      "size": "7846 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "10800 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\ceiling-psychoanalysis\\index.html",
-      "size": "12992 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "15946 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\chase-and-run-dance\\index.html",
-      "size": "8442 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "11396 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\cigarette-as-excuse\\index.html",
-      "size": "9775 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "12729 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\clash-of-cultures-marriage\\index.html",
-      "size": "14756 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "16843 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\codependency-addiction\\index.html",
-      "size": "14435 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "16522 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\codependency-marriage\\index.html",
-      "size": "19297 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "21384 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\collapsed-family-boundaries\\index.html",
-      "size": "13820 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "16774 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\control-freak-marriage\\index.html",
-      "size": "12028 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "14982 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\control-war-marriage\\index.html",
-      "size": "12335 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "15289 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\crisis-generator-personality\\index.html",
-      "size": "18585 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "20672 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\decision-paralysis-divorce\\index.html",
       "size": "596 bytes",
-      "modified": "2026-08-26 17:09",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\deformation-male-personality\\index.html",
-      "size": "994 bytes",
-      "modified": "2026-08-30 13:09",
+      "size": "3948 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\deformation-male-personality.html\\index.html",
-      "size": "994 bytes",
-      "modified": "2026-08-30 10:22",
+      "size": "3948 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\denial-and-repetition\\index.html",
-      "size": "12418 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "15372 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\depression-hidden-in-wife\\index.html",
-      "size": "15137 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "17224 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\diagnosing-pathological-lying\\index.html",
-      "size": "12981 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "15935 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\displaced-jealousy-family-conflict\\index.html",
-      "size": "9213 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "11300 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\domestic-violence-psychoanalysis\\index.html",
-      "size": "21665 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "24619 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\domestic-violence-trauma\\index.html",
-      "size": "1310 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "4264 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\emotional-addiction\\index.html",
-      "size": "12966 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "15920 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\enmeshment-and-triangulation\\index.html",
-      "size": "6797 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "9751 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\ethics-of-truth-telling\\index.html",
-      "size": "7220 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "10174 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\false-confidence-relationships\\index.html",
-      "size": "1035 bytes",
-      "modified": "2026-08-30 13:09",
+      "size": "3989 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\false-confidence-relationships.html\\index.html",
-      "size": "1035 bytes",
-      "modified": "2026-08-30 10:22",
+      "size": "3989 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\family-boundaries\\index.html",
-      "size": "3111 bytes",
-      "modified": "2026-08-26 15:27",
+      "size": "6065 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\family-boundaries-assertiveness\\index.html",
-      "size": "12459 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "15413 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\family-boundaries-marriage\\index.html",
-      "size": "19577 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "21664 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\family-boundaries.html\\index.html",
-      "size": "1040 bytes",
-      "modified": "2026-08-30 10:22",
+      "size": "3994 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\family-enmeshment-analysis\\index.html",
-      "size": "26117 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "29071 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\financial-management-anxiety\\index.html",
-      "size": "11680 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "14634 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\forced-marriage-patching\\index.html",
-      "size": "10839 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "13793 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\generation-gap-parenting\\index.html",
-      "size": "10728 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "12815 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\hidden-signals-marriage\\index.html",
-      "size": "19193 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "21280 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\honor-culture-psychoanalysis\\index.html",
-      "size": "13644 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "16598 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\husband-success-fear\\index.html",
-      "size": "7790 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "10744 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\husband-sulking\\index.html",
-      "size": "10638 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "13592 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\ideological-family-conflict\\index.html",
-      "size": "13490 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "16444 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\in-laws-interference\\index.html",
-      "size": "11892 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "14846 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\infant-in-crossfire-family-crisis\\index.html",
-      "size": "49778 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "51865 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\infidelity-mental-pit\\index.html",
-      "size": "1114 bytes",
-      "modified": "2026-08-30 13:09",
+      "size": "4068 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\infidelity-mental-pit.html\\index.html",
-      "size": "1114 bytes",
-      "modified": "2026-08-30 10:22",
+      "size": "4068 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\infidelity-trust-crisis-family-destruction\\index.html",
-      "size": "48735 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "50822 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\intergenerational-trauma-loyalty\\index.html",
-      "size": "6971 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "9925 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\let-your-child-fail\\index.html",
-      "size": "11516 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "13603 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\long-distance-marriage-reality\\index.html",
-      "size": "1048 bytes",
-      "modified": "2026-08-30 13:09",
+      "size": "4002 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\long-distance-marriage-reality.html\\index.html",
-      "size": "1048 bytes",
-      "modified": "2026-08-30 10:14",
+      "size": "4002 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
-      "path": "blog/masculine-husband-dynamic/index.html",
-      "size": "1338 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\love-as-transaction\\index.html",
+      "size": "13951 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
-      "path": "blog/love-as-transaction/index.html",
-      "size": "10896 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\marital-paranoia\\index.html",
+      "size": "15304 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
-      "path": "blog/you-are-not-the-main-actor/index.html",
-      "size": "12701 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\marriage-boundaries-humor\\index.html",
+      "size": "15020 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
-      "path": "blog/financial-management-anxiety/index.html",
-      "size": "11579 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\marriage-control-dynamic\\index.html",
+      "size": "14245 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\masculine-husband-dynamic\\index.html",
-      "size": "1367 bytes",
-      "modified": "2026-08-30 13:09",
+      "size": "4321 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
-      "path": "blog/why-husband-starts-fights/index.html",
-      "size": "14622 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\masculine-husband-dynamic.html\\index.html",
+      "size": "4331 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\mindfulness\\index.html",
-      "size": "9431 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "12385 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\modern-tragedy-mother-shadow\\index.html",
-      "size": "21200 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "24154 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\mother-daughter-boundary-marriage-crisis\\index.html",
-      "size": "49107 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "51194 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
-      "path": "blog/shabgoft-01/index.html",
-      "size": "4227 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\mother-son-addiction\\index.html",
+      "size": "15643 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
-      "path": "blog/narcissistic-spouse/index.html",
-      "size": "11539 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\mother-son-conflict\\index.html",
+      "size": "9729 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\mutual-anger-cycle-psychoanalysis\\index.html",
-      "size": "9131 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "11218 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\narcissistic-spouse\\index.html",
-      "size": "11649 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "14603 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\obsessive-cleaning-analysis\\index.html",
-      "size": "22237 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "25191 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\obsessive-surveillance-psychoanalysis\\index.html",
-      "size": "8854 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "10941 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\obsessive-thoughts-marriage\\index.html",
-      "size": "12635 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "15589 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
-      "path": "blog/collapsed-family-boundaries/index.html",
-      "size": "13705 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\ocd-addiction-spouse\\index.html",
+      "size": "21714 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\ocd-marriage-decision\\index.html",
-      "size": "13749 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "16703 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\online-counseling\\index.html",
-      "size": "8716 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "11670 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\phone-addiction-social-anxiety\\index.html",
-      "size": "25384 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "28338 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
-      "path": "blog/spousal-infidelity/index.html",
-      "size": "11642 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\polite-child-danger\\index.html",
+      "size": "9334 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\preemptive-breakup\\index.html",
-      "size": "15416 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "17503 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\preemptive-breakup-test\\index.html",
-      "size": "11757 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "14711 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\pregnancy-rage-guilt\\index.html",
-      "size": "12678 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "15632 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\psychology-of-rescue-fantasy\\index.html",
-      "size": "24216 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "27170 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\rebuilding-trust-after-conflict\\index.html",
-      "size": "14688 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "16775 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\recurring-arguments-marriage\\index.html",
-      "size": "19193 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "21280 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\regular-man\\index.html",
-      "size": "23326 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "26280 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\repeated-betrayal-cycle-psychoanalysis\\index.html",
-      "size": "8517 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "10604 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\repetition-compulsion-control-freedom-psychoanalysis\\index.html",
-      "size": "50229 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "52316 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\right-choice\\index.html",
-      "size": "8083 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "11037 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\right-path\\index.html",
-      "size": "9076 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "12030 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\right-return\\index.html",
-      "size": "9102 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "12056 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\running-away-survival\\index.html",
-      "size": "2862 bytes",
-      "modified": "2026-08-26 15:27",
+      "size": "5816 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
-      "path": "blog/hidden-signals-marriage/index.html",
-      "size": "18953 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\running-away-survival.html\\index.html",
+      "size": "4070 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\self-sacrifice-trap\\index.html",
-      "size": "7745 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "10699 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\shabgoft-01\\index.html",
-      "size": "4324 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "7278 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\shabgoft-02\\index.html",
-      "size": "4950 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "7904 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\shabgoft-03\\index.html",
-      "size": "997 bytes",
-      "modified": "2026-08-30 13:09",
+      "size": "3951 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\shabgoft-03.html\\index.html",
-      "size": "997 bytes",
-      "modified": "2026-08-30 10:22",
+      "size": "3951 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\social-class-codependency\\index.html",
       "size": "6669 bytes",
-      "modified": "2026-08-30 13:04",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\sohrab-tragedy-shadow\\index.html",
-      "size": "17352 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "20306 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\son-of-sister-in-law-uncle-cousin-confusion\\index.html",
-      "size": "50351 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "52438 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\spousal-infidelity\\index.html",
-      "size": "11753 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "14707 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\spouse-family-dependency\\index.html",
-      "size": "11492 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "14446 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\spouse-neglect\\index.html",
-      "size": "11146 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "14100 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\supervision-attachment-trauma\\index.html",
-      "size": "19123 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "21210 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\supervision-avoidant-anxious\\index.html",
-      "size": "12806 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "15760 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\suspicion-control-trap\\index.html",
-      "size": "14942 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "17029 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\suspicion-or-betrayal\\index.html",
-      "size": "13229 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "15316 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\therapy-mirror-projection\\index.html",
-      "size": "15761 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "17848 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
-      "path": "blog/cigarette-as-excuse/index.html",
-      "size": "9694 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\toxic-marriage\\index.html",
+      "size": "14454 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\toxic-mother-sensitive-daughter-psychoanalysis\\index.html",
-      "size": "1076 bytes",
-      "modified": "2026-08-30 13:09",
+      "size": "4030 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
-      "path": "blog/son-of-sister-in-law-uncle-cousin-confusion/index.html",
-      "size": "49390 bytes",
-      "modified": "2026-08-30 10:14",
+      "path": "blog\\toxic-mother-sensitive-daughter-psychoanalysis.html\\index.html",
+      "size": "4030 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\untreated-mood-disorder-marriage\\index.html",
-      "size": "12934 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "15888 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\verbal-violence-marriage\\index.html",
-      "size": "17581 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "19668 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\when-reconciliation-is-dangerous\\index.html",
-      "size": "8196 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "11150 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\why-husband-starts-fights\\index.html",
-      "size": "14819 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "16906 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\workplace-boundaries-marriage\\index.html",
-      "size": "12194 bytes",
-      "modified": "2026-08-26 17:09",
+      "size": "15148 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\you-are-not-the-main-actor\\index.html",
-      "size": "12837 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "14924 bytes",
+      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     }
   ],
