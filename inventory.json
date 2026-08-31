@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-30 15:28:18",
-  "totalArticles": 185,
-  "uniqueArticles": 185,
+  "lastUpdated": "2026-08-30 15:50:36",
+  "totalArticles": 186,
+  "uniqueArticles": 186,
   "duplicateFiles": 0,
-  "totalSize": "1772.72 KB",
+  "totalSize": "1791.19 KB",
   "articles": [
     {
       "name": "abandoning-mother-psychoanalysis.html",
@@ -857,6 +857,13 @@
       "path": "blog\\intergenerational-trauma-loyalty\\index.html",
       "size": "9925 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\khastegari-complete-guide\\index.html",
+      "size": "18913 bytes",
+      "modified": "2026-08-30 15:45",
       "is_duplicate": false
     },
     {

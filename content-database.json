@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.1",
-    "last_updated": "2026-08-29",
-    "total_articles": 21
+    "last_updated": "2026-08-31",
+    "total_articles": 74
   },
   "articles": [
     {
@@ -407,6 +407,764 @@
         "masculine-husband-dynamic",
         "deformation-male-personality"
       ]
+    },
+    {
+      "id": "addictive-mother-controlling-son",
+      "title": "در حال انتقال…",
+      "path": "blog/addictive-mother-controlling-son.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "aggression-trauma-loss-cycle",
+      "title": "وقتی پرخاشگری می‌کُشد: تحلیل یک رابطه سمی با ترومای از دست دادن فرزند",
+      "path": "blog/aggression-trauma-loss-cycle.html",
+      "keywords": [],
+      "cluster": "پرخاشگری، تروما، و روابط بیمارگونه",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": []
+    },
+    {
+      "id": "anxious-attachment-pursuer-distancer",
+      "title": "در حال انتقال…",
+      "path": "blog/anxious-attachment-pursuer-distancer.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "anxious-neighbor",
+      "title": "در حال انتقال…",
+      "path": "blog/anxious-neighbor.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "attachment-trauma-abandonment-case",
+      "title": "در حال انتقال…",
+      "path": "blog/attachment-trauma-abandonment-case.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "betrayal-systemic-analysis",
+      "title": "وقتی اعتماد ترک برمی‌دارد: ماندن یا رفتن بعد از خیانت؟",
+      "path": "blog/betrayal-systemic-analysis.html",
+      "keywords": [
+        "خیانت",
+        "تروما",
+        "بازسازی اعتماد",
+        "بحران زناشویی"
+      ],
+      "cluster": "تروما و اضطراب",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "infidelity-mental-pit",
+        "affair-crisis-pregnancy",
+        "collapsed-family-boundaries"
+      ]
+    },
+    {
+      "id": "brt-driver-conflict",
+      "title": "در حال انتقال…",
+      "path": "blog/brt-driver-conflict.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "chase-and-run-dance",
+      "title": "در حال انتقال…",
+      "path": "blog/chase-and-run-dance.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "clash-of-cultures-marriage",
+      "title": "در حال انتقال…",
+      "path": "blog/clash-of-cultures-marriage.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "codependency-addiction",
+      "title": "در حال انتقال…",
+      "path": "blog/codependency-addiction.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "dependency-narcissism-cycle",
+      "title": "وقتی وابستگی می‌کُشد: تحلیل یک رابطه سمی | اختلال شخصیت وابسته",
+      "path": "blog/dependency-narcissism-cycle.html",
+      "keywords": [
+        "اختلال شخصیت وابسته",
+        "نارسیسیسم",
+        "تحقیر",
+        "طرحواره رهاشدگی"
+      ],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "codependency-marriage",
+        "false-confidence-relationships",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "depression-hidden-in-wife",
+      "title": "در حال انتقال…",
+      "path": "blog/depression-hidden-in-wife.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "diagnosing-pathological-lying",
+      "title": "در حال انتقال…",
+      "path": "blog/diagnosing-pathological-lying.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "displaced-jealousy-family-conflict",
+      "title": "در حال انتقال…",
+      "path": "blog/displaced-jealousy-family-conflict.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "enmeshment-and-triangulation",
+      "title": "در حال انتقال…",
+      "path": "blog/enmeshment-and-triangulation.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "ethics-of-truth-telling",
+      "title": "در حال انتقال…",
+      "path": "blog/ethics-of-truth-telling.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "family-boundaries-assertiveness",
+      "title": "در حال انتقال…",
+      "path": "blog/family-boundaries-assertiveness.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "generation-gap-parenting",
+      "title": "در حال انتقال…",
+      "path": "blog/generation-gap-parenting.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "husband-success-fear",
+      "title": "در حال انتقال…",
+      "path": "blog/husband-success-fear.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "husband-sulking",
+      "title": "در حال انتقال…",
+      "path": "blog/husband-sulking.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "in-laws-interference",
+      "title": "در حال انتقال…",
+      "path": "blog/in-laws-interference.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "index",
+      "title": "وبلاگ گشپار",
+      "path": "blog/index.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "intergenerational-trauma-loyalty",
+      "title": "در حال انتقال…",
+      "path": "blog/intergenerational-trauma-loyalty.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "let-your-child-fail",
+      "title": "در حال انتقال…",
+      "path": "blog/let-your-child-fail.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "mindfulness",
+      "title": "در حال انتقال…",
+      "path": "blog/mindfulness.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "mutual-anger-cycle-psychoanalysis",
+      "title": "در حال انتقال…",
+      "path": "blog/mutual-anger-cycle-psychoanalysis.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "narcissistic-spouse",
+      "title": "در حال انتقال…",
+      "path": "blog/narcissistic-spouse.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "obsessive-surveillance-psychoanalysis",
+      "title": "در حال انتقال…",
+      "path": "blog/obsessive-surveillance-psychoanalysis.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "online-counseling",
+      "title": "در حال انتقال…",
+      "path": "blog/online-counseling.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "preemptive-breakup-test",
+      "title": "در حال انتقال…",
+      "path": "blog/preemptive-breakup-test.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "preemptive-breakup",
+      "title": "در حال انتقال…",
+      "path": "blog/preemptive-breakup.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "push-out-pull-in-paradox",
+      "title": "دو زن، یک در: فرمان «برو» و فرمان «نرو» چه چیزی را پنهان می‌کنند؟",
+      "path": "blog/push-out-pull-in-paradox.html",
+      "keywords": [
+        "کنترل",
+        "خودمختاری",
+        "پیام دوگانه",
+        "مرزهای زناشویی"
+      ],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "collapsed-family-boundaries",
+        "ideological-family-conflict"
+      ]
+    },
+    {
+      "id": "rebuilding-trust-after-conflict",
+      "title": "در حال انتقال…",
+      "path": "blog/rebuilding-trust-after-conflict.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "regular-man",
+      "title": "در حال انتقال…",
+      "path": "blog/regular-man.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "repeated-betrayal-cycle-psychoanalysis",
+      "title": "در حال انتقال…",
+      "path": "blog/repeated-betrayal-cycle-psychoanalysis.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "right-choice",
+      "title": "در حال انتقال…",
+      "path": "blog/right-choice.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "right-path",
+      "title": "در حال انتقال…",
+      "path": "blog/right-path.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "right-return",
+      "title": "در حال انتقال…",
+      "path": "blog/right-return.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "self-sacrifice-trap",
+      "title": "در حال انتقال…",
+      "path": "blog/self-sacrifice-trap.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "shabgoft-01",
+      "title": "در حال انتقال…",
+      "path": "blog/shabgoft-01.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "shabgoft-02",
+      "title": "در حال انتقال…",
+      "path": "blog/shabgoft-02.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "sohrab-tragedy-shadow",
+      "title": "در حال انتقال…",
+      "path": "blog/sohrab-tragedy-shadow.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "spousal-infidelity",
+      "title": "در حال انتقال…",
+      "path": "blog/spousal-infidelity.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "spouse-family-dependency",
+      "title": "در حال انتقال…",
+      "path": "blog/spouse-family-dependency.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "spouse-neglect",
+      "title": "در حال انتقال…",
+      "path": "blog/spouse-neglect.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "supervision-attachment-trauma",
+      "title": "در حال انتقال…",
+      "path": "blog/supervision-attachment-trauma.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "supervision-avoidant-anxious",
+      "title": "در حال انتقال…",
+      "path": "blog/supervision-avoidant-anxious.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "suspicion-control-trap",
+      "title": "در حال انتقال…",
+      "path": "blog/suspicion-control-trap.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "suspicion-or-betrayal",
+      "title": "در حال انتقال…",
+      "path": "blog/suspicion-or-betrayal.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "weekend-alone",
+      "title": "آخر هفته‌های تنها: چرا همسرم وقت نمی‌ذاره؟",
+      "path": "blog/weekend-alone.html",
+      "keywords": [
+        "خستگی شوهر",
+        "تنهایی زن",
+        "تعامل زناشویی",
+        "فرسودگی شغلی"
+      ],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "long-distance-marriage-reality",
+        "masculine-husband-dynamic"
+      ]
+    },
+    {
+      "id": "when-reconciliation-is-dangerous",
+      "title": "در حال انتقال…",
+      "path": "blog/when-reconciliation-is-dangerous.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "why-husband-starts-fights",
+      "title": "در حال انتقال…",
+      "path": "blog/why-husband-starts-fights.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "you-are-not-the-main-actor",
+      "title": "در حال انتقال…",
+      "path": "blog/you-are-not-the-main-actor.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
     }
   ],
   "clusters": {
@@ -417,7 +1175,8 @@
       "collapsed-family-boundaries",
       "pregnancy-rage-guilt",
       "untreated-mood-disorder-marriage",
-      "affair-crisis-pregnancy"
+      "affair-crisis-pregnancy",
+      "betrayal-systemic-analysis"
     ],
     "وسواس و اضطراب": [
       "infidelity-mental-pit",
@@ -433,13 +1192,67 @@
       "ceiling-psychoanalysis",
       "honor-culture-psychoanalysis",
       "ideological-family-conflict",
-      "modern-tragedy-mother-shadow"
+      "modern-tragedy-mother-shadow",
+      "addictive-mother-controlling-son",
+      "anxious-attachment-pursuer-distancer",
+      "anxious-neighbor",
+      "attachment-trauma-abandonment-case",
+      "brt-driver-conflict",
+      "chase-and-run-dance",
+      "clash-of-cultures-marriage",
+      "codependency-addiction",
+      "dependency-narcissism-cycle",
+      "depression-hidden-in-wife",
+      "diagnosing-pathological-lying",
+      "displaced-jealousy-family-conflict",
+      "enmeshment-and-triangulation",
+      "ethics-of-truth-telling",
+      "family-boundaries-assertiveness",
+      "generation-gap-parenting",
+      "husband-success-fear",
+      "husband-sulking",
+      "in-laws-interference",
+      "index",
+      "intergenerational-trauma-loyalty",
+      "let-your-child-fail",
+      "mindfulness",
+      "mutual-anger-cycle-psychoanalysis",
+      "narcissistic-spouse",
+      "obsessive-surveillance-psychoanalysis",
+      "online-counseling",
+      "preemptive-breakup-test",
+      "preemptive-breakup",
+      "push-out-pull-in-paradox",
+      "rebuilding-trust-after-conflict",
+      "regular-man",
+      "repeated-betrayal-cycle-psychoanalysis",
+      "right-choice",
+      "right-path",
+      "right-return",
+      "self-sacrifice-trap",
+      "shabgoft-01",
+      "shabgoft-02",
+      "sohrab-tragedy-shadow",
+      "spousal-infidelity",
+      "spouse-family-dependency",
+      "spouse-neglect",
+      "supervision-attachment-trauma",
+      "supervision-avoidant-anxious",
+      "suspicion-control-trap",
+      "suspicion-or-betrayal",
+      "weekend-alone",
+      "when-reconciliation-is-dangerous",
+      "why-husband-starts-fights",
+      "you-are-not-the-main-actor"
     ],
     "رشد شخصی": [
       "false-confidence-relationships"
     ],
     "شب‌گفت": [
       "shabgoft-03"
+    ],
+    "پرخاشگری، تروما، و روابط بیمارگونه": [
+      "aggression-trauma-loss-cycle"
     ]
   },
   "linking_rules": {
