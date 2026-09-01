@@ -2,7 +2,7 @@
   "meta": {
     "version": "2.1",
     "last_updated": "2026-08-31",
-    "total_articles": 74
+    "total_articles": 83
   },
   "articles": [
     {
@@ -1165,6 +1165,174 @@
         "masculine-husband-dynamic",
         "deformation-male-personality"
       ]
+    },
+    {
+      "id": "domestic-violence-case-01",
+      "title": "کیس مشاوره: فرار از چرخه خشونت و کنترل‌گری همسر",
+      "path": "blog/domestic-violence-case-01.html",
+      "keywords": [
+        "خشونت خانگی",
+        "طلاق از مرد خشونت گر",
+        "کنترل گری همسر",
+        "حق طلاق زن",
+        "مشاوره خانواده",
+        "آزار کلامی و فیزیکی",
+        "طراحی طرح ایمنی",
+        "عسر و حرج",
+        "مشاوره روانشناسی آنلاین"
+      ],
+      "cluster": "Family_Violence_Emergency",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": []
+    },
+    {
+      "id": "legal-divorce-violence-guide",
+      "title": "legal-divorce-violence-guide",
+      "path": "blog/legal-divorce-violence-guide.html",
+      "keywords": [],
+      "cluster": "روابط و خانواده",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": [
+        "family-boundaries",
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
+      ]
+    },
+    {
+      "id": "safety-plan-domestic-violence",
+      "title": "راهنمای خروج امن: چگونه از چنگال همسر خشونت‌گر فرار کنیم؟",
+      "path": "blog/safety-plan-domestic-violence.html",
+      "keywords": [
+        "طرح ایمنی خشونت خانگی",
+        "خروج امن از خانه",
+        "فرار از همسر خشونت گر",
+        "کمک به زنان قربانی",
+        "کیف اضطراری طلاق",
+        "نشانه های خشونت",
+        "مشاوره ترک رابطه سمی"
+      ],
+      "cluster": "Safety_Planning_Domestic_Violence",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": []
+    },
+    {
+      "id": "abusive-relationship-thyroid-depression",
+      "title": "وقتی همسرتان خیانت می‌کند و شما را مقصر می‌داند: تحلیل کیس کنترل‌گری و افسردگی",
+      "path": "blog/abusive-relationship-thyroid-depression.html",
+      "keywords": [
+        "خیانت همسر و افسردگی",
+        "کنترل گری شوهر",
+        "کم کاری تیروئید و افسردگی",
+        "وسواس فکری در زنان",
+        "ازدواج تحمیلی",
+        "gaslighting در روابط",
+        "استقلال مادران",
+        "سلامت روان زنان",
+        "مشکلات زناشویی و تیروئید"
+      ],
+      "cluster": "Abusive_Relationship_Thyroid_Depression",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": []
+    },
+    {
+      "id": "autism-caregiver-burnout",
+      "title": "مادران کودکان اتیسم و فرسودگی خاموش: وقتی دیگر نایی برای پارو زدن ندارید",
+      "path": "blog/autism-caregiver-burnout.html",
+      "keywords": [
+        "فرسودگی مراقب اوتیسم",
+        "کمک به مادران کودکان特殊",
+        "درخواست کمک از خانواده",
+        "اتاق امن برای کودک اوتیسم",
+        "تعارض زناشویی و اوتیسم",
+        "سلامت روان مادران",
+        "مراقبت موقت اوتیسم",
+        "احساس تنهایی در مادران"
+      ],
+      "cluster": "Autism_Caregiver_Burnout",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": []
+    },
+    {
+      "id": "codependency-success-fear",
+      "title": "وقتی حمایت شما مانع رشد عزیزانتان می‌شود: تحلیل الگوی وابستگی مخرب",
+      "path": "blog/codependency-success-fear.html",
+      "keywords": [
+        "وابستگی متقابل خانوادگی",
+        "ترس از موفقیت",
+        "حمایت مخرب",
+        "رها کردن فرزند بالغ",
+        "الگوهای تکراری شکست",
+        "مشاوره خانواده",
+        "دلسوزی مخرب",
+        "استقلال فرزندان",
+        "افسردگی و مهاجرت"
+      ],
+      "cluster": "Codependency_Success_Fear",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": []
+    },
+    {
+      "id": "emotional-exhaustion-mothers-family-dynamics",
+      "title": "وقتی در خانه احساس تنهایی می‌کنید: راهنمای زنانی که بین سکوت و فریاد گیر کرده‌اند",
+      "path": "blog/emotional-exhaustion-mothers-family-dynamics.html",
+      "keywords": [
+        "فرسودگی عاطفی مادران",
+        "مدیریت قهر همسر",
+        "ارتباط با دختر نوجوان",
+        "تعیین مرز در خانواده",
+        "واسطه‌گری در تعارضات خانوادگی",
+        "سلامت روان زنان",
+        "مشاوره خانواده سنتی",
+        "خستگی از دلجویی"
+      ],
+      "cluster": "Emotional_Exhaustion_Mothers_Family_Dynamics",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": []
+    },
+    {
+      "id": "clinical-roadmap-toxic-family-intervention",
+      "title": "از سکوت تا اقدام: نقشه راه درمانی کیس وابستگی شدید و مداخله خانواده",
+      "path": "blog/clinical-roadmap-toxic-family-intervention.html",
+      "keywords": [
+        "نقشه راه درمانی",
+        "وابستگی مرضی همسر",
+        "مداخله خانواده",
+        "خشونت خانگی",
+        "مرزبندی در روابط",
+        "اعتباربخشی رادیکال",
+        "مشاوره خانواده پیچیده",
+        "توانمندسازی زنان"
+      ],
+      "cluster": "Clinical_Roadmap_Empowerment",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": []
+    },
+    {
+      "id": "couple-growth-conflict",
+      "title": "وقتی پیشرفت شما با مقاومت همسرتان روبرو می‌شود: تحلیل الگوهای تعارض در روابط زناشویی",
+      "path": "blog/couple-growth-conflict.html",
+      "keywords": [
+        "تعارض رشد فردی در ازدواج",
+        "حسادت همسر به موفقیت زن",
+        "مدیریت اختلاف نظر زناشویی",
+        "رابطه و تحصیلات عالی",
+        "احساس ناامنی در مردان",
+        "مشاوره زوجین",
+        "رشد مشترک در ازدواج",
+        "ارتباط موثر با همسر"
+      ],
+      "cluster": "Couple_Growth_Conflict",
+      "publish_date": "2026-08-31",
+      "status": "published",
+      "auto_related": []
     }
   ],
   "clusters": {
@@ -1243,7 +1411,8 @@
       "weekend-alone",
       "when-reconciliation-is-dangerous",
       "why-husband-starts-fights",
-      "you-are-not-the-main-actor"
+      "you-are-not-the-main-actor",
+      "legal-divorce-violence-guide"
     ],
     "رشد شخصی": [
       "false-confidence-relationships"
@@ -1253,6 +1422,30 @@
     ],
     "پرخاشگری، تروما، و روابط بیمارگونه": [
       "aggression-trauma-loss-cycle"
+    ],
+    "Family_Violence_Emergency": [
+      "domestic-violence-case-01"
+    ],
+    "Safety_Planning_Domestic_Violence": [
+      "safety-plan-domestic-violence"
+    ],
+    "Abusive_Relationship_Thyroid_Depression": [
+      "abusive-relationship-thyroid-depression"
+    ],
+    "Autism_Caregiver_Burnout": [
+      "autism-caregiver-burnout"
+    ],
+    "Codependency_Success_Fear": [
+      "codependency-success-fear"
+    ],
+    "Emotional_Exhaustion_Mothers_Family_Dynamics": [
+      "emotional-exhaustion-mothers-family-dynamics"
+    ],
+    "Clinical_Roadmap_Empowerment": [
+      "clinical-roadmap-toxic-family-intervention"
+    ],
+    "Couple_Growth_Conflict": [
+      "couple-growth-conflict"
     ]
   },
   "linking_rules": {

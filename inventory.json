@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31 20:19:12",
+  "lastUpdated": "2026-08-31 20:40:24",
   "totalArticles": 192,
   "uniqueArticles": 192,
   "duplicateFiles": 0,
@@ -27,13 +27,6 @@
       "is_duplicate": false
     },
     {
-      "name": "aggression-trauma-loss-cycle.html",
-      "path": "blog\\aggression-trauma-loss-cycle.html",
-      "size": "22335 bytes",
-      "modified": "2026-08-31 17:17",
-      "is_duplicate": false
-    },
-    {
       "name": "anxious-attachment-pursuer-distancer.html",
       "path": "blog\\anxious-attachment-pursuer-distancer.html",
       "size": "450 bytes",
@@ -52,13 +45,6 @@
       "path": "blog\\attachment-trauma-abandonment-case.html",
       "size": "444 bytes",
       "modified": "2026-08-30 13:04",
-      "is_duplicate": false
-    },
-    {
-      "name": "betrayal-systemic-analysis.html",
-      "path": "blog\\betrayal-systemic-analysis.html",
-      "size": "19774 bytes",
-      "modified": "2026-08-31 17:06",
       "is_duplicate": false
     },
     {
@@ -108,13 +94,6 @@
       "path": "blog\\deformation-male-personality.html",
       "size": "0 bytes",
       "modified": "2026-08-30 10:22",
-      "is_duplicate": false
-    },
-    {
-      "name": "dependency-narcissism-cycle.html",
-      "path": "blog\\dependency-narcissism-cycle.html",
-      "size": "20356 bytes",
-      "modified": "2026-08-31 17:11",
       "is_duplicate": false
     },
     {
@@ -328,13 +307,6 @@
       "is_duplicate": false
     },
     {
-      "name": "push-out-pull-in-paradox.html",
-      "path": "blog\\push-out-pull-in-paradox.html",
-      "size": "16180 bytes",
-      "modified": "2026-08-31 18:28",
-      "is_duplicate": false
-    },
-    {
       "name": "rebuilding-trust-after-conflict.html",
       "path": "blog\\rebuilding-trust-after-conflict.html",
       "size": "435 bytes",
@@ -496,13 +468,6 @@
       "is_duplicate": false
     },
     {
-      "name": "weekend-alone.html",
-      "path": "blog\\weekend-alone.html",
-      "size": "19050 bytes",
-      "modified": "2026-08-31 16:22",
-      "is_duplicate": false
-    },
-    {
       "name": "when-reconciliation-is-dangerous.html",
       "path": "blog\\when-reconciliation-is-dangerous.html",
       "size": "438 bytes",
@@ -553,6 +518,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\aggression-trauma-loss-cycle\\index.html",
+      "size": "22335 bytes",
+      "modified": "2026-08-31 17:17",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\anxious-attachment-pursuer-distancer\\index.html",
       "size": "11140 bytes",
       "modified": "2026-08-30 15:10",
@@ -584,6 +556,13 @@
       "path": "blog\\attachment-trauma-abandonment-case\\index.html",
       "size": "29030 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\betrayal-systemic-analysis\\index.html",
+      "size": "19774 bytes",
+      "modified": "2026-08-31 17:06",
       "is_duplicate": false
     },
     {
@@ -696,6 +675,13 @@
       "path": "blog\\denial-and-repetition\\index.html",
       "size": "15372 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\dependency-narcissism-cycle\\index.html",
+      "size": "20356 bytes",
+      "modified": "2026-08-31 17:11",
       "is_duplicate": false
     },
     {
@@ -1106,6 +1092,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\push-out-pull-in-paradox\\index.html",
+      "size": "16180 bytes",
+      "modified": "2026-08-31 18:28",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\rebuilding-trust-after-conflict\\index.html",
       "size": "16775 bytes",
       "modified": "2026-08-30 15:10",
@@ -1319,6 +1312,13 @@
       "path": "blog\\verbal-violence-marriage\\index.html",
       "size": "19668 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\weekend-alone\\index.html",
+      "size": "19050 bytes",
+      "modified": "2026-08-31 16:22",
       "is_duplicate": false
     },
     {

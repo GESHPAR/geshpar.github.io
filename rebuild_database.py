@@ -119,3 +119,5 @@ db["meta"]["last_updated"] = "2026-08-31"
 DB.write_text(json.dumps(db, ensure_ascii=False, indent=2), encoding="utf-8")
 print("انجام شد! %d مقاله جدید ثبت شد: %s" % (len(new_ids), new_ids))
 input("برای خروج Enter بزن...")
+
+
