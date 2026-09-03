@@ -1,15 +1,22 @@
 {
-  "lastUpdated": "2026-08-31 20:40:24",
-  "totalArticles": 192,
-  "uniqueArticles": 192,
+  "lastUpdated": "2026-09-03 10:07:32",
+  "totalArticles": 203,
+  "uniqueArticles": 203,
   "duplicateFiles": 0,
-  "totalSize": "1907.28 KB",
+  "totalSize": "2036.42 KB",
   "articles": [
     {
       "name": "abandoning-mother-psychoanalysis.html",
       "path": "blog\\abandoning-mother-psychoanalysis.html",
       "size": "0 bytes",
       "modified": "2026-08-30 10:22",
+      "is_duplicate": false
+    },
+    {
+      "name": "abusive-relationship-thyroid-depression.html",
+      "path": "blog\\abusive-relationship-thyroid-depression.html",
+      "size": "14219 bytes",
+      "modified": "2026-09-01 16:42",
       "is_duplicate": false
     },
     {
@@ -48,6 +55,13 @@
       "is_duplicate": false
     },
     {
+      "name": "autism-caregiver-burnout.html",
+      "path": "blog\\autism-caregiver-burnout.html",
+      "size": "12737 bytes",
+      "modified": "2026-09-01 16:39",
+      "is_duplicate": false
+    },
+    {
       "name": "brt-driver-conflict.html",
       "path": "blog\\brt-driver-conflict.html",
       "size": "399 bytes",
@@ -76,6 +90,13 @@
       "is_duplicate": false
     },
     {
+      "name": "clinical-roadmap-toxic-family-intervention.html",
+      "path": "blog\\clinical-roadmap-toxic-family-intervention.html",
+      "size": "12816 bytes",
+      "modified": "2026-09-01 18:01",
+      "is_duplicate": false
+    },
+    {
       "name": "codependency-addiction.html",
       "path": "blog\\codependency-addiction.html",
       "size": "408 bytes",
@@ -83,10 +104,24 @@
       "is_duplicate": false
     },
     {
+      "name": "codependency-success-fear.html",
+      "path": "blog\\codependency-success-fear.html",
+      "size": "14710 bytes",
+      "modified": "2026-09-01 16:53",
+      "is_duplicate": false
+    },
+    {
       "name": "collapsed-family-boundaries.html",
       "path": "blog\\collapsed-family-boundaries.html",
       "size": "423 bytes",
       "modified": "2026-08-30 13:04",
+      "is_duplicate": false
+    },
+    {
+      "name": "couple-growth-conflict.html",
+      "path": "blog\\couple-growth-conflict.html",
+      "size": "13906 bytes",
+      "modified": "2026-09-01 16:56",
       "is_duplicate": false
     },
     {
@@ -115,6 +150,20 @@
       "path": "blog\\displaced-jealousy-family-conflict.html",
       "size": "444 bytes",
       "modified": "2026-08-30 13:04",
+      "is_duplicate": false
+    },
+    {
+      "name": "domestic-violence-case-01.html",
+      "path": "blog\\domestic-violence-case-01.html",
+      "size": "9246 bytes",
+      "modified": "2026-09-01 16:24",
+      "is_duplicate": false
+    },
+    {
+      "name": "emotional-exhaustion-mothers-family-dynamics.html",
+      "path": "blog\\emotional-exhaustion-mothers-family-dynamics.html",
+      "size": "15118 bytes",
+      "modified": "2026-09-01 16:45",
       "is_duplicate": false
     },
     {
@@ -216,6 +265,13 @@
       "is_duplicate": false
     },
     {
+      "name": "legal-divorce-violence-guide.html",
+      "path": "blog\\legal-divorce-violence-guide.html",
+      "size": "10155 bytes",
+      "modified": "2026-09-01 18:45",
+      "is_duplicate": false
+    },
+    {
       "name": "let-your-child-fail.html",
       "path": "blog\\let-your-child-fail.html",
       "size": "399 bytes",
@@ -260,8 +316,8 @@
     {
       "name": "narcissistic-spouse.html",
       "path": "blog\\narcissistic-spouse.html",
-      "size": "399 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "651 bytes",
+      "modified": "2026-09-01 18:49",
       "is_duplicate": false
     },
     {
@@ -356,6 +412,13 @@
       "is_duplicate": false
     },
     {
+      "name": "safety-plan-domestic-violence.html",
+      "path": "blog\\safety-plan-domestic-violence.html",
+      "size": "8839 bytes",
+      "modified": "2026-09-01 16:27",
+      "is_duplicate": false
+    },
+    {
       "name": "self-sacrifice-trap.html",
       "path": "blog\\self-sacrifice-trap.html",
       "size": "399 bytes",
@@ -400,8 +463,8 @@
     {
       "name": "spousal-infidelity.html",
       "path": "blog\\spousal-infidelity.html",
-      "size": "396 bytes",
-      "modified": "2026-08-30 13:04",
+      "size": "670 bytes",
+      "modified": "2026-09-01 18:44",
       "is_duplicate": false
     },
     {
@@ -566,6 +629,13 @@
       "is_duplicate": false
     },
     {
+      "name": "daughter-recovery-toxic-parent.html",
+      "path": "blog\\blog\\daughter-recovery-toxic-parent.html",
+      "size": "10433 bytes",
+      "modified": "2026-09-01 18:11",
+      "is_duplicate": false
+    },
+    {
       "name": "displaced-grief-silent-aggression.html",
       "path": "blog\\blog\\displaced-grief-silent-aggression.html",
       "size": "21175 bytes",
@@ -577,6 +647,13 @@
       "path": "blog\\brt-driver-conflict\\index.html",
       "size": "10800 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "case-safe-cage.html",
+      "path": "blog\\cases\\case-safe-cage.html",
+      "size": "9536 bytes",
+      "modified": "2026-09-03 09:58",
       "is_duplicate": false
     },
     {

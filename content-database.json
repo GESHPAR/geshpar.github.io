@@ -74,9 +74,9 @@
       "publish_date": "2026-08-25",
       "status": "published",
       "auto_related": [
+        "dependency-narcissism-cycle",
         "family-boundaries",
-        "deformation-male-personality",
-        "long-distance-marriage-reality"
+        "deformation-male-personality"
       ]
     },
     {
@@ -112,9 +112,9 @@
       "publish_date": "2026-08-25",
       "status": "published",
       "auto_related": [
+        "betrayal-systemic-analysis",
         "running-away-survival",
-        "toxic-mother-sensitive-daughter-psychoanalysis",
-        "collapsed-family-boundaries"
+        "toxic-mother-sensitive-daughter-psychoanalysis"
       ]
     },
     {
@@ -340,9 +340,9 @@
       "publish_date": "2026-08-29",
       "status": "published",
       "auto_related": [
+        "push-out-pull-in-paradox",
         "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
+        "masculine-husband-dynamic"
       ]
     },
     {
@@ -383,8 +383,8 @@
       "status": "published",
       "auto_related": [
         "untreated-mood-disorder-marriage",
-        "running-away-survival",
-        "abandoning-mother-psychoanalysis"
+        "betrayal-systemic-analysis",
+        "running-away-survival"
       ]
     },
     {
@@ -488,9 +488,9 @@
       "publish_date": "2026-08-31",
       "status": "published",
       "auto_related": [
-        "infidelity-mental-pit",
+        "abandoning-mother-psychoanalysis",
         "affair-crisis-pregnancy",
-        "collapsed-family-boundaries"
+        "running-away-survival"
       ]
     },
     {
@@ -563,8 +563,8 @@
       "publish_date": "2026-08-31",
       "status": "published",
       "auto_related": [
-        "codependency-marriage",
-        "false-confidence-relationships",
+        "masculine-husband-dynamic",
+        "family-boundaries",
         "deformation-male-personality"
       ]
     },
@@ -862,9 +862,9 @@
       "publish_date": "2026-08-31",
       "status": "published",
       "auto_related": [
+        "ideological-family-conflict",
         "family-boundaries",
-        "collapsed-family-boundaries",
-        "ideological-family-conflict"
+        "masculine-husband-dynamic"
       ]
     },
     {
@@ -1120,8 +1120,8 @@
       "status": "published",
       "auto_related": [
         "family-boundaries",
-        "long-distance-marriage-reality",
-        "masculine-husband-dynamic"
+        "masculine-husband-dynamic",
+        "deformation-male-personality"
       ]
     },
     {
