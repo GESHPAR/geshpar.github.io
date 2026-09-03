@@ -1,1457 +1,2940 @@
-{
-  "meta": {
-    "version": "2.1",
-    "last_updated": "2026-08-31",
-    "total_articles": 83
+[
+  {
+    "slug": "about",
+    "path": "about.html",
+    "url": "https://geshpar.com/about.html",
+    "title": "مفید مقصودی | روانشناس بالینی با ۳۰ سال تجربه | کلینیک پارسنگ",
+    "description": "مفید مقصودی، کارشناس ارشد روانشناسی بالینی از انستیتو روانپزشکی تهران (رتبه ممتاز)، شمارهٔ نظام ۲۱۶۸. بیش از ۳۰ سال تجربه و هزاران جلسه مشاوره با رویکرد ترکیبی روانشناسی مدرن، فلسفه و حکمت ایرانی.",
+    "category": "root",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
   },
-  "articles": [
-    {
-      "id": "family-boundaries",
-      "title": "مرزهای سالم در خانواده: چگونه «نه» بگوییم؟",
-      "path": "blog/family-boundaries/",
-      "keywords": [
-        "مرز",
-        "خانواده",
-        "نه گفتن",
-        "احترام"
-      ],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-20",
-      "status": "published",
-      "auto_related": [
-        "masculine-husband-dynamic",
-        "deformation-male-personality",
-        "long-distance-marriage-reality"
-      ]
-    },
-    {
-      "id": "running-away-survival",
-      "title": "فرار از خانه: وقتی بقا مهم‌تر از قانون است",
-      "path": "blog/running-away-survival/",
-      "keywords": [
-        "خشونت خانگی",
-        "فرار",
-        "حقوق جوانان",
-        "پارانویا"
-      ],
-      "cluster": "تروما و اضطراب",
-      "publish_date": "2026-08-24",
-      "status": "published",
-      "auto_related": [
-        "collapsed-family-boundaries",
-        "untreated-mood-disorder-marriage",
-        "abandoning-mother-psychoanalysis"
-      ]
-    },
-    {
-      "id": "infidelity-mental-pit",
-      "title": "چاله یا چوله؟ وقتی خیانت همسر، ذهن را به سیاه‌چال تبدیل می‌کند",
-      "path": "blog/infidelity-mental-pit/",
-      "keywords": [
-        "خیانت",
-        "نشخوار فکری",
-        "ترس از تنهایی",
-        "وسواس"
-      ],
-      "cluster": "وسواس و اضطراب",
-      "publish_date": "2026-08-24",
-      "status": "published",
-      "auto_related": [
-        "ocd-marriage-decision"
-      ]
-    },
-    {
-      "id": "masculine-husband-dynamic",
-      "title": "مردِ پسرانه: وقتی همسرت با تو مثل یک رفیق حرف می‌زند، نه یک زن",
-      "path": "blog/masculine-husband-dynamic/",
-      "keywords": [
-        "تحقیر",
-        "بلوغ عاطفی",
-        "رابطه زناشویی",
-        "ادبیات مردانه"
-      ],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-25",
-      "status": "published",
-      "auto_related": [
-        "dependency-narcissism-cycle",
-        "family-boundaries",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "deformation-male-personality",
-      "title": "معماری یک فاجعه: مسخ شخصیت مرد",
-      "path": "blog/deformation-male-personality/",
-      "keywords": [
-        "مسخ شخصیت",
-        "کنترل‌گری",
-        "فروید",
-        "یونگ"
-      ],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-25",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "long-distance-marriage-reality"
-      ]
-    },
-    {
-      "id": "abandoning-mother-psychoanalysis",
-      "title": "سقوط از تخت ملکه به زانوگاه کنیز",
-      "path": "blog/abandoning-mother-psychoanalysis/",
-      "keywords": [
-        "مادر",
-        "جدایی",
-        "تروما",
-        "دلبستگی"
-      ],
-      "cluster": "تروما و اضطراب",
-      "publish_date": "2026-08-25",
-      "status": "published",
-      "auto_related": [
-        "betrayal-systemic-analysis",
-        "running-away-survival",
-        "toxic-mother-sensitive-daughter-psychoanalysis"
-      ]
-    },
-    {
-      "id": "toxic-mother-sensitive-daughter-psychoanalysis",
-      "title": "زخم ناسور: وقتی مادر، تیغ می‌زند و دختر، نمک می‌پاشد",
-      "path": "blog/toxic-mother-sensitive-daughter-psychoanalysis/",
-      "keywords": [
-        "مادر سمی",
-        "دختر حساس",
-        "مرزها",
-        "آسیب‌شناسی"
-      ],
-      "cluster": "تروما و اضطراب",
-      "publish_date": "2026-08-25",
-      "status": "published",
-      "auto_related": [
-        "running-away-survival",
-        "abandoning-mother-psychoanalysis",
-        "collapsed-family-boundaries"
-      ]
-    },
-    {
-      "id": "long-distance-marriage-reality",
-      "title": "ازدواج راه دور: توهم نزدیکی در فاصله‌های دور",
-      "path": "blog/long-distance-marriage-reality/",
-      "keywords": [
-        "ازدواج راه دور",
-        "دلتنگی",
-        "ارتباط مجازی",
-        "تنهایی"
-      ],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-24",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "false-confidence-relationships",
-      "title": "اعتماد به نفس کاذب: نقاب قدرت در روابط ناسالم",
-      "path": "blog/false-confidence-relationships/",
-      "keywords": [
-        "اعتماد به نفس",
-        "نارسیسیسم",
-        "دفاع‌های روانی",
-        "خودشیفتگی"
-      ],
-      "cluster": "رشد شخصی",
-      "publish_date": "2026-08-23",
-      "status": "published",
-      "auto_related": []
-    },
-    {
-      "id": "shabgoft-03",
-      "title": "شب‌گفت: پارسنگِ نما و خماریِ درمان",
-      "path": "blog/shabgoft-03/",
-      "keywords": [
-        "تعادل پویا",
-        "حکمت شرق",
-        "پارسنگ",
-        "وسواس",
-        "آگنی",
-        "ساما"
-      ],
-      "cluster": "شب‌گفت",
-      "publish_date": "2026-08-28",
-      "status": "published",
-      "auto_related": []
-    },
-    {
-      "id": "codependency-marriage",
-      "title": "وقتی عشق تبدیل به زندان می‌شود: تحلیل کیس هم‌وابستگی در ازدواج",
-      "path": "blog/codependency-marriage/",
-      "keywords": [
-        "هم وابستگی",
-        "codependency",
-        "ازدواج با مرد افسرده",
-        "نجات‌دهندگی",
-        "روانکاوی روابط"
-      ],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-29",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "social-class-codependency",
-      "title": "فاصله طبقاتی و تله نجات‌دهندگی: تحلیل روانکاوانه یک کیس پیچیده",
-      "path": "blog/social-class-codependency/",
-      "keywords": [
-        "فاصله طبقاتی",
-        "هم‌وابستگی",
-        "اعتیاد به کمک‌رسانی",
-        "روانکاوی اجتماعی",
-        "سوپرویژن بالینی"
-      ],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-29",
-      "status": "published",
-      "auto_related": [
-        "honor-culture-psychoanalysis",
-        "family-boundaries",
-        "masculine-husband-dynamic"
-      ]
-    },
-    {
-      "id": "ceiling-psychoanalysis",
-      "title": "روانکاوی در سقف: تضاد نسل‌ها، فرافکنی و تله‌ی وابستگی",
-      "path": "blog/ceiling-psychoanalysis/",
-      "keywords": [
-        "روانکاوی خانواده",
-        "تعارض نسل‌ها",
-        "وابستگی عاطفی",
-        "فرافکنی",
-        "بلوغ ناقص"
-      ],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-29",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "honor-culture-psychoanalysis",
-      "title": "استبداد آبرو: روانکاوی فرهنگ شرم و تضاد دهات-شهر",
-      "path": "blog/honor-culture-psychoanalysis/",
-      "keywords": [
-        "فرهنگ آبرو",
-        "شرم",
-        "تضاد دهات و شهر",
-        "هویت دوپاره",
-        "روانکاوی اجتماعی"
-      ],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-29",
-      "status": "published",
-      "auto_related": [
-        "social-class-codependency",
-        "family-boundaries",
-        "masculine-husband-dynamic"
-      ]
-    },
-    {
-      "id": "ocd-marriage-decision",
-      "title": "فلجِ انتخاب: روانکاوی وسواس و کمال‌طلبی در تصمیم‌گیری ازدواج",
-      "path": "blog/ocd-marriage-decision/",
-      "keywords": [
-        "وسواس فکری عملی",
-        "تصمیم‌گیری ازدواج",
-        "کمال‌طلبی",
-        "کنترل‌گری والدین",
-        "ترس از تعهد"
-      ],
-      "cluster": "وسواس و اضطراب",
-      "publish_date": "2026-08-29",
-      "status": "published",
-      "auto_related": [
-        "infidelity-mental-pit"
-      ]
-    },
-    {
-      "id": "collapsed-family-boundaries",
-      "title": "زندگی در قفس شیشه‌ای: روانکاوی فروپاشی مرزها و دخالت خانواده گسترده",
-      "path": "blog/collapsed-family-boundaries/",
-      "keywords": [
-        "مرزهای خانوادگی",
-        "دخالت خانواده",
-        "خشونت خانگی",
-        "وابستگی عاطفی",
-        "زندگی مشترک"
-      ],
-      "cluster": "تروما و اضطراب",
-      "publish_date": "2026-08-29",
-      "status": "published",
-      "auto_related": [
-        "running-away-survival",
-        "untreated-mood-disorder-marriage",
-        "abandoning-mother-psychoanalysis"
-      ]
-    },
-    {
-      "id": "pregnancy-rage-guilt",
-      "title": "خشم مقدس: روانکاوی پرخاشگری دوران بارداری و احساس گناه مادرانه",
-      "path": "blog/pregnancy-rage-guilt/",
-      "keywords": [
-        "خشم دوران بارداری",
-        "افسردگی پریناتال",
-        "احساس گناه مادرانه",
-        "تغییرات هورمونی",
-        "روانکاوی زنانه"
-      ],
-      "cluster": "تروما و اضطراب",
-      "publish_date": "2026-08-29",
-      "status": "published",
-      "auto_related": [
-        "running-away-survival",
-        "abandoning-mother-psychoanalysis",
-        "toxic-mother-sensitive-daughter-psychoanalysis"
-      ]
-    },
-    {
-      "id": "ideological-family-conflict",
-      "title": "جنگ نیابتی در اتاق نشیمن: روانکاوی تعارض ایدئولوژیک و وفاداری‌های متضاد",
-      "path": "blog/ideological-family-conflict/",
-      "keywords": [
-        "تعارض خانوادگی",
-        "وفاداری متضاد",
-        "مرزهای زناشویی",
-        "تفاوت نسل‌ها",
-        "ایدئولوژی و خانواده"
-      ],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-29",
-      "status": "published",
-      "auto_related": [
-        "push-out-pull-in-paradox",
-        "family-boundaries",
-        "masculine-husband-dynamic"
-      ]
-    },
-    {
-      "id": "untreated-mood-disorder-marriage",
-      "title": "وقتی خانه میدان جنگ می‌شود: روانکاوی ازدواج با فرد مبتلا به اختلال خلقی درمان‌نشده",
-      "path": "blog/untreated-mood-disorder-marriage/",
-      "keywords": [
-        "اختلال خلقی",
-        "خشونت خانگی",
-        "سرترالین",
-        "آسیب به کودک",
-        "طلاق",
-        "روانپزشکی بالینی"
-      ],
-      "cluster": "تروما و اضطراب",
-      "publish_date": "2026-08-29",
-      "status": "published",
-      "auto_related": [
-        "running-away-survival",
-        "collapsed-family-boundaries",
-        "affair-crisis-pregnancy"
-      ]
-    },
-    {
-      "id": "affair-crisis-pregnancy",
-      "title": "بحران خیانت در آستانه تولد: وقتی یک نوزاد قربانی بزرگسالان می‌شود",
-      "path": "blog/affair-crisis-pregnancy/",
-      "keywords": [
-        "خیانت",
-        "بارداری",
-        "بحران خانوادگی",
-        "کودک‌آزاری عاطفی",
-        "طلاق",
-        "روانشناسی بحران"
-      ],
-      "cluster": "تروما و اضطراب",
-      "publish_date": "2026-08-29",
-      "status": "published",
-      "auto_related": [
-        "untreated-mood-disorder-marriage",
-        "betrayal-systemic-analysis",
-        "running-away-survival"
-      ]
-    },
-    {
-      "id": "modern-tragedy-mother-shadow",
-      "title": "وقتی مادر در آینه‌ی عروس، هیولای درونش را می‌بیند: تحلیل روانکاوانه یک تراژدی مدرن",
-      "path": "blog/modern-tragedy-mother-shadow/",
-      "keywords": [
-        "روانکاوی مادر و پسر",
-        "فرافکنی سایه",
-        "سهراب و رستم",
-        "ترومای بین نسلی",
-        "هیولاسازی",
-        "باج‌گیری عاطفی"
-      ],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-29",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "addictive-mother-controlling-son",
-      "title": "در حال انتقال…",
-      "path": "blog/addictive-mother-controlling-son/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "aggression-trauma-loss-cycle",
-      "title": "وقتی پرخاشگری می‌کُشد: تحلیل یک رابطه سمی با ترومای از دست دادن فرزند",
-      "path": "blog/aggression-trauma-loss-cycle/",
-      "keywords": [],
-      "cluster": "پرخاشگری، تروما، و روابط بیمارگونه",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": []
-    },
-    {
-      "id": "anxious-attachment-pursuer-distancer",
-      "title": "در حال انتقال…",
-      "path": "blog/anxious-attachment-pursuer-distancer/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "anxious-neighbor",
-      "title": "در حال انتقال…",
-      "path": "blog/anxious-neighbor/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "attachment-trauma-abandonment-case",
-      "title": "در حال انتقال…",
-      "path": "blog/attachment-trauma-abandonment-case/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "betrayal-systemic-analysis",
-      "title": "وقتی اعتماد ترک برمی‌دارد: ماندن یا رفتن بعد از خیانت؟",
-      "path": "blog/betrayal-systemic-analysis/",
-      "keywords": [
-        "خیانت",
-        "تروما",
-        "بازسازی اعتماد",
-        "بحران زناشویی"
-      ],
-      "cluster": "تروما و اضطراب",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "abandoning-mother-psychoanalysis",
-        "affair-crisis-pregnancy",
-        "running-away-survival"
-      ]
-    },
-    {
-      "id": "brt-driver-conflict",
-      "title": "در حال انتقال…",
-      "path": "blog/brt-driver-conflict/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "chase-and-run-dance",
-      "title": "در حال انتقال…",
-      "path": "blog/chase-and-run-dance/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "clash-of-cultures-marriage",
-      "title": "در حال انتقال…",
-      "path": "blog/clash-of-cultures-marriage/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "codependency-addiction",
-      "title": "در حال انتقال…",
-      "path": "blog/codependency-addiction/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "dependency-narcissism-cycle",
-      "title": "وقتی وابستگی می‌کُشد: تحلیل یک رابطه سمی | اختلال شخصیت وابسته",
-      "path": "blog/dependency-narcissism-cycle/",
-      "keywords": [
-        "اختلال شخصیت وابسته",
-        "نارسیسیسم",
-        "تحقیر",
-        "طرحواره رهاشدگی"
-      ],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "masculine-husband-dynamic",
-        "family-boundaries",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "depression-hidden-in-wife",
-      "title": "در حال انتقال…",
-      "path": "blog/depression-hidden-in-wife/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "diagnosing-pathological-lying",
-      "title": "در حال انتقال…",
-      "path": "blog/diagnosing-pathological-lying/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "displaced-jealousy-family-conflict",
-      "title": "در حال انتقال…",
-      "path": "blog/displaced-jealousy-family-conflict/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "enmeshment-and-triangulation",
-      "title": "در حال انتقال…",
-      "path": "blog/enmeshment-and-triangulation/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "ethics-of-truth-telling",
-      "title": "در حال انتقال…",
-      "path": "blog/ethics-of-truth-telling/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "family-boundaries-assertiveness",
-      "title": "در حال انتقال…",
-      "path": "blog/family-boundaries-assertiveness/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "generation-gap-parenting",
-      "title": "در حال انتقال…",
-      "path": "blog/generation-gap-parenting/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "husband-success-fear",
-      "title": "در حال انتقال…",
-      "path": "blog/husband-success-fear/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "husband-sulking",
-      "title": "در حال انتقال…",
-      "path": "blog/husband-sulking/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "in-laws-interference",
-      "title": "در حال انتقال…",
-      "path": "blog/in-laws-interference/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "index",
-      "title": "وبلاگ گشپار",
-      "path": "blog/index/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "intergenerational-trauma-loyalty",
-      "title": "در حال انتقال…",
-      "path": "blog/intergenerational-trauma-loyalty/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "let-your-child-fail",
-      "title": "در حال انتقال…",
-      "path": "blog/let-your-child-fail/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "mindfulness",
-      "title": "در حال انتقال…",
-      "path": "blog/mindfulness/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "mutual-anger-cycle-psychoanalysis",
-      "title": "در حال انتقال…",
-      "path": "blog/mutual-anger-cycle-psychoanalysis/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "narcissistic-spouse",
-      "title": "در حال انتقال…",
-      "path": "blog/narcissistic-spouse/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "obsessive-surveillance-psychoanalysis",
-      "title": "در حال انتقال…",
-      "path": "blog/obsessive-surveillance-psychoanalysis/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "online-counseling",
-      "title": "در حال انتقال…",
-      "path": "blog/online-counseling/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "preemptive-breakup-test",
-      "title": "در حال انتقال…",
-      "path": "blog/preemptive-breakup-test/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "preemptive-breakup",
-      "title": "در حال انتقال…",
-      "path": "blog/preemptive-breakup/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "push-out-pull-in-paradox",
-      "title": "دو زن، یک در: فرمان «برو» و فرمان «نرو» چه چیزی را پنهان می‌کنند؟",
-      "path": "blog/push-out-pull-in-paradox/",
-      "keywords": [
-        "کنترل",
-        "خودمختاری",
-        "پیام دوگانه",
-        "مرزهای زناشویی"
-      ],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "ideological-family-conflict",
-        "family-boundaries",
-        "masculine-husband-dynamic"
-      ]
-    },
-    {
-      "id": "rebuilding-trust-after-conflict",
-      "title": "در حال انتقال…",
-      "path": "blog/rebuilding-trust-after-conflict/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "regular-man",
-      "title": "در حال انتقال…",
-      "path": "blog/regular-man/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "repeated-betrayal-cycle-psychoanalysis",
-      "title": "در حال انتقال…",
-      "path": "blog/repeated-betrayal-cycle-psychoanalysis/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "right-choice",
-      "title": "در حال انتقال…",
-      "path": "blog/right-choice/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "right-path",
-      "title": "در حال انتقال…",
-      "path": "blog/right-path/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "right-return",
-      "title": "در حال انتقال…",
-      "path": "blog/right-return/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "self-sacrifice-trap",
-      "title": "در حال انتقال…",
-      "path": "blog/self-sacrifice-trap/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "shabgoft-01",
-      "title": "در حال انتقال…",
-      "path": "blog/shabgoft-01/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "shabgoft-02",
-      "title": "در حال انتقال…",
-      "path": "blog/shabgoft-02/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "sohrab-tragedy-shadow",
-      "title": "در حال انتقال…",
-      "path": "blog/sohrab-tragedy-shadow/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "spousal-infidelity",
-      "title": "در حال انتقال…",
-      "path": "blog/spousal-infidelity/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "spouse-family-dependency",
-      "title": "در حال انتقال…",
-      "path": "blog/spouse-family-dependency/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "spouse-neglect",
-      "title": "در حال انتقال…",
-      "path": "blog/spouse-neglect/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "supervision-attachment-trauma",
-      "title": "در حال انتقال…",
-      "path": "blog/supervision-attachment-trauma/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "supervision-avoidant-anxious",
-      "title": "در حال انتقال…",
-      "path": "blog/supervision-avoidant-anxious/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "suspicion-control-trap",
-      "title": "در حال انتقال…",
-      "path": "blog/suspicion-control-trap/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "suspicion-or-betrayal",
-      "title": "در حال انتقال…",
-      "path": "blog/suspicion-or-betrayal/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "weekend-alone",
-      "title": "آخر هفته‌های تنها: چرا همسرم وقت نمی‌ذاره؟",
-      "path": "blog/weekend-alone/",
-      "keywords": [
-        "خستگی شوهر",
-        "تنهایی زن",
-        "تعامل زناشویی",
-        "فرسودگی شغلی"
-      ],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "when-reconciliation-is-dangerous",
-      "title": "در حال انتقال…",
-      "path": "blog/when-reconciliation-is-dangerous/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "why-husband-starts-fights",
-      "title": "در حال انتقال…",
-      "path": "blog/why-husband-starts-fights/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "you-are-not-the-main-actor",
-      "title": "در حال انتقال…",
-      "path": "blog/you-are-not-the-main-actor/",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "domestic-violence-case-01",
-      "title": "کیس مشاوره: فرار از چرخه خشونت و کنترل‌گری همسر",
-      "path": "blog/domestic-violence-case-01.html",
-      "keywords": [
-        "خشونت خانگی",
-        "طلاق از مرد خشونت گر",
-        "کنترل گری همسر",
-        "حق طلاق زن",
-        "مشاوره خانواده",
-        "آزار کلامی و فیزیکی",
-        "طراحی طرح ایمنی",
-        "عسر و حرج",
-        "مشاوره روانشناسی آنلاین"
-      ],
-      "cluster": "Family_Violence_Emergency",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": []
-    },
-    {
-      "id": "legal-divorce-violence-guide",
-      "title": "legal-divorce-violence-guide",
-      "path": "blog/legal-divorce-violence-guide.html",
-      "keywords": [],
-      "cluster": "روابط و خانواده",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": [
-        "family-boundaries",
-        "masculine-husband-dynamic",
-        "deformation-male-personality"
-      ]
-    },
-    {
-      "id": "safety-plan-domestic-violence",
-      "title": "راهنمای خروج امن: چگونه از چنگال همسر خشونت‌گر فرار کنیم؟",
-      "path": "blog/safety-plan-domestic-violence.html",
-      "keywords": [
-        "طرح ایمنی خشونت خانگی",
-        "خروج امن از خانه",
-        "فرار از همسر خشونت گر",
-        "کمک به زنان قربانی",
-        "کیف اضطراری طلاق",
-        "نشانه های خشونت",
-        "مشاوره ترک رابطه سمی"
-      ],
-      "cluster": "Safety_Planning_Domestic_Violence",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": []
-    },
-    {
-      "id": "abusive-relationship-thyroid-depression",
-      "title": "وقتی همسرتان خیانت می‌کند و شما را مقصر می‌داند: تحلیل کیس کنترل‌گری و افسردگی",
-      "path": "blog/abusive-relationship-thyroid-depression.html",
-      "keywords": [
-        "خیانت همسر و افسردگی",
-        "کنترل گری شوهر",
-        "کم کاری تیروئید و افسردگی",
-        "وسواس فکری در زنان",
-        "ازدواج تحمیلی",
-        "gaslighting در روابط",
-        "استقلال مادران",
-        "سلامت روان زنان",
-        "مشکلات زناشویی و تیروئید"
-      ],
-      "cluster": "Abusive_Relationship_Thyroid_Depression",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": []
-    },
-    {
-      "id": "autism-caregiver-burnout",
-      "title": "مادران کودکان اتیسم و فرسودگی خاموش: وقتی دیگر نایی برای پارو زدن ندارید",
-      "path": "blog/autism-caregiver-burnout.html",
-      "keywords": [
-        "فرسودگی مراقب اوتیسم",
-        "کمک به مادران کودکان特殊",
-        "درخواست کمک از خانواده",
-        "اتاق امن برای کودک اوتیسم",
-        "تعارض زناشویی و اوتیسم",
-        "سلامت روان مادران",
-        "مراقبت موقت اوتیسم",
-        "احساس تنهایی در مادران"
-      ],
-      "cluster": "Autism_Caregiver_Burnout",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": []
-    },
-    {
-      "id": "codependency-success-fear",
-      "title": "وقتی حمایت شما مانع رشد عزیزانتان می‌شود: تحلیل الگوی وابستگی مخرب",
-      "path": "blog/codependency-success-fear.html",
-      "keywords": [
-        "وابستگی متقابل خانوادگی",
-        "ترس از موفقیت",
-        "حمایت مخرب",
-        "رها کردن فرزند بالغ",
-        "الگوهای تکراری شکست",
-        "مشاوره خانواده",
-        "دلسوزی مخرب",
-        "استقلال فرزندان",
-        "افسردگی و مهاجرت"
-      ],
-      "cluster": "Codependency_Success_Fear",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": []
-    },
-    {
-      "id": "emotional-exhaustion-mothers-family-dynamics",
-      "title": "وقتی در خانه احساس تنهایی می‌کنید: راهنمای زنانی که بین سکوت و فریاد گیر کرده‌اند",
-      "path": "blog/emotional-exhaustion-mothers-family-dynamics.html",
-      "keywords": [
-        "فرسودگی عاطفی مادران",
-        "مدیریت قهر همسر",
-        "ارتباط با دختر نوجوان",
-        "تعیین مرز در خانواده",
-        "واسطه‌گری در تعارضات خانوادگی",
-        "سلامت روان زنان",
-        "مشاوره خانواده سنتی",
-        "خستگی از دلجویی"
-      ],
-      "cluster": "Emotional_Exhaustion_Mothers_Family_Dynamics",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": []
-    },
-    {
-      "id": "clinical-roadmap-toxic-family-intervention",
-      "title": "از سکوت تا اقدام: نقشه راه درمانی کیس وابستگی شدید و مداخله خانواده",
-      "path": "blog/clinical-roadmap-toxic-family-intervention.html",
-      "keywords": [
-        "نقشه راه درمانی",
-        "وابستگی مرضی همسر",
-        "مداخله خانواده",
-        "خشونت خانگی",
-        "مرزبندی در روابط",
-        "اعتباربخشی رادیکال",
-        "مشاوره خانواده پیچیده",
-        "توانمندسازی زنان"
-      ],
-      "cluster": "Clinical_Roadmap_Empowerment",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": []
-    },
-    {
-      "id": "couple-growth-conflict",
-      "title": "وقتی پیشرفت شما با مقاومت همسرتان روبرو می‌شود: تحلیل الگوهای تعارض در روابط زناشویی",
-      "path": "blog/couple-growth-conflict.html",
-      "keywords": [
-        "تعارض رشد فردی در ازدواج",
-        "حسادت همسر به موفقیت زن",
-        "مدیریت اختلاف نظر زناشویی",
-        "رابطه و تحصیلات عالی",
-        "احساس ناامنی در مردان",
-        "مشاوره زوجین",
-        "رشد مشترک در ازدواج",
-        "ارتباط موثر با همسر"
-      ],
-      "cluster": "Couple_Growth_Conflict",
-      "publish_date": "2026-08-31",
-      "status": "published",
-      "auto_related": []
-    }
-  ],
-  "clusters": {
-    "تروما و اضطراب": [
-      "running-away-survival",
-      "abandoning-mother-psychoanalysis",
-      "toxic-mother-sensitive-daughter-psychoanalysis",
-      "collapsed-family-boundaries",
-      "pregnancy-rage-guilt",
-      "untreated-mood-disorder-marriage",
-      "affair-crisis-pregnancy",
-      "betrayal-systemic-analysis"
+  {
+    "slug": "",
+    "path": "index.html",
+    "url": "https://geshpar.com/",
+    "title": "پارسنگ | مشاوره روانشناسی آنلاین با رویکرد کل‌نگر",
+    "description": "مشاوره روانشناسی آنلاین با رویکرد کل‌نگر؛ درمان اضطراب، استرس، افسردگی و مشکلات خواب. مفید مقصودی، روانشناس بالینی — پروانه نظام روانشناسی: ۱۶۸. رزرو نوبت آنلاین.",
+    "category": "root",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/guides/marriage-therapy-guide/"
     ],
-    "وسواس و اضطراب": [
-      "infidelity-mental-pit",
-      "ocd-marriage-decision"
-    ],
-    "روابط و خانواده": [
-      "family-boundaries",
-      "masculine-husband-dynamic",
-      "deformation-male-personality",
-      "long-distance-marriage-reality",
-      "codependency-marriage",
-      "social-class-codependency",
-      "ceiling-psychoanalysis",
-      "honor-culture-psychoanalysis",
-      "ideological-family-conflict",
-      "modern-tragedy-mother-shadow",
-      "addictive-mother-controlling-son",
-      "anxious-attachment-pursuer-distancer",
-      "anxious-neighbor",
-      "attachment-trauma-abandonment-case",
-      "brt-driver-conflict",
-      "chase-and-run-dance",
-      "clash-of-cultures-marriage",
-      "codependency-addiction",
-      "dependency-narcissism-cycle",
-      "depression-hidden-in-wife",
-      "diagnosing-pathological-lying",
-      "displaced-jealousy-family-conflict",
-      "enmeshment-and-triangulation",
-      "ethics-of-truth-telling",
-      "family-boundaries-assertiveness",
-      "generation-gap-parenting",
-      "husband-success-fear",
-      "husband-sulking",
-      "in-laws-interference",
-      "index",
-      "intergenerational-trauma-loyalty",
-      "let-your-child-fail",
-      "mindfulness",
-      "mutual-anger-cycle-psychoanalysis",
-      "narcissistic-spouse",
-      "obsessive-surveillance-psychoanalysis",
-      "online-counseling",
-      "preemptive-breakup-test",
-      "preemptive-breakup",
-      "push-out-pull-in-paradox",
-      "rebuilding-trust-after-conflict",
-      "regular-man",
-      "repeated-betrayal-cycle-psychoanalysis",
-      "right-choice",
-      "right-path",
-      "right-return",
-      "self-sacrifice-trap",
-      "shabgoft-01",
-      "shabgoft-02",
-      "sohrab-tragedy-shadow",
-      "spousal-infidelity",
-      "spouse-family-dependency",
-      "spouse-neglect",
-      "supervision-attachment-trauma",
-      "supervision-avoidant-anxious",
-      "suspicion-control-trap",
-      "suspicion-or-betrayal",
-      "weekend-alone",
-      "when-reconciliation-is-dangerous",
-      "why-husband-starts-fights",
-      "you-are-not-the-main-actor",
-      "legal-divorce-violence-guide"
-    ],
-    "رشد شخصی": [
-      "false-confidence-relationships"
-    ],
-    "شب‌گفت": [
-      "shabgoft-03"
-    ],
-    "پرخاشگری، تروما، و روابط بیمارگونه": [
-      "aggression-trauma-loss-cycle"
-    ],
-    "Family_Violence_Emergency": [
-      "domestic-violence-case-01"
-    ],
-    "Safety_Planning_Domestic_Violence": [
-      "safety-plan-domestic-violence"
-    ],
-    "Abusive_Relationship_Thyroid_Depression": [
-      "abusive-relationship-thyroid-depression"
-    ],
-    "Autism_Caregiver_Burnout": [
-      "autism-caregiver-burnout"
-    ],
-    "Codependency_Success_Fear": [
-      "codependency-success-fear"
-    ],
-    "Emotional_Exhaustion_Mothers_Family_Dynamics": [
-      "emotional-exhaustion-mothers-family-dynamics"
-    ],
-    "Clinical_Roadmap_Empowerment": [
-      "clinical-roadmap-toxic-family-intervention"
-    ],
-    "Couple_Growth_Conflict": [
-      "couple-growth-conflict"
-    ]
+    "status": "published"
   },
-  "linking_rules": {
-    "same_cluster_priority": 0.8,
-    "keyword_overlap_min": 1,
-    "max_links_per_article": 3,
-    "min_similarity_score": 0.5
+  {
+    "slug": "abusive-relationship-thyroid-depression",
+    "path": "blog/abusive-relationship-thyroid-depression.html",
+    "url": "https://geshpar.com/blog/abusive-relationship-thyroid-depression.html",
+    "title": "وقتی همسرتان خیانت می‌کند و شما را مقصر می‌داند: تحلیل کیس کنترل‌گری و افسردگی | گشپار",
+    "description": "تحلیل موردی زنی که با خیانت همسر، کنترل‌گری مالی، انزوا از خانواده و مشکلات روحی (تیروئید، افسردگی، وسواس) دست‌وپنج نرم می‌کند. راهکارهای بازسازی اعتمادبه‌نفس و خروج از چرخه سرزنش.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
+  },
+  {
+    "slug": "addictive-mother-controlling-son",
+    "path": "blog/addictive-mother-controlling-son.html",
+    "url": "https://geshpar.com/blog/addictive-mother-controlling-son.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/addictive-mother-controlling-son/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "affair-crisis-pregnancy",
+    "path": "blog/affair-crisis-pregnancy.html",
+    "url": "https://geshpar.com/blog/affair-crisis-pregnancy.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/affair-crisis-pregnancy/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "anxious-attachment-pursuer-distancer",
+    "path": "blog/anxious-attachment-pursuer-distancer.html",
+    "url": "https://geshpar.com/blog/anxious-attachment-pursuer-distancer.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/anxious-attachment-pursuer-distancer/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "anxious-neighbor",
+    "path": "blog/anxious-neighbor.html",
+    "url": "https://geshpar.com/blog/anxious-neighbor.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/anxious-neighbor/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "attachment-trauma-abandonment-case",
+    "path": "blog/attachment-trauma-abandonment-case.html",
+    "url": "https://geshpar.com/blog/attachment-trauma-abandonment-case.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/attachment-trauma-abandonment-case/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "autism-caregiver-burnout",
+    "path": "blog/autism-caregiver-burnout.html",
+    "url": "https://geshpar.com/blog/autism-caregiver-burnout.html",
+    "title": "مادران کودکان اتیسم و فرسودگی خاموش: وقتی دیگر نایی برای پارو زدن ندارید | گشپار",
+    "description": "تحلیل کیس مادری که به دلیل مراقبت از کودک اتیسم و عدم حمایت همسر، دچار فرسودگی شدید و احساس حبس شده است. راهکارهایی برای درخواست کمک موثر و مدیریت بحران.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
+  },
+  {
+    "slug": "brt-driver-conflict",
+    "path": "blog/brt-driver-conflict.html",
+    "url": "https://geshpar.com/blog/brt-driver-conflict.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/brt-driver-conflict/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "ceiling-psychoanalysis",
+    "path": "blog/ceiling-psychoanalysis.html",
+    "url": "https://geshpar.com/blog/ceiling-psychoanalysis.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/ceiling-psychoanalysis/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "chase-and-run-dance",
+    "path": "blog/chase-and-run-dance.html",
+    "url": "https://geshpar.com/blog/chase-and-run-dance.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/chase-and-run-dance/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "clash-of-cultures-marriage",
+    "path": "blog/clash-of-cultures-marriage.html",
+    "url": "https://geshpar.com/blog/clash-of-cultures-marriage.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/clash-of-cultures-marriage/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "clinical-roadmap-toxic-family-intervention",
+    "path": "blog/clinical-roadmap-toxic-family-intervention.html",
+    "url": "https://geshpar.com/blog/clinical-roadmap-toxic-family-intervention.html",
+    "title": "از سکوت تا اقدام: نقشه راه درمانی کیس وابستگی شدید و مداخله خانواده | گشپار",
+    "description": "تحلیل بالینی یک کیس واقعی: چگونه درمانگر پس از تشخیص الگوی سکوت ناخواسته، یک نقشه راه ۳ مرحله‌ای (تثبیت، مرزبندی، تصمیم‌گیری) برای مراجع تحت سلطه خانواده همسر طراحی می‌کند؟",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
+  },
+  {
+    "slug": "codependency-addiction",
+    "path": "blog/codependency-addiction.html",
+    "url": "https://geshpar.com/blog/codependency-addiction.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/codependency-addiction/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "codependency-success-fear",
+    "path": "blog/codependency-success-fear.html",
+    "url": "https://geshpar.com/blog/codependency-success-fear.html",
+    "title": "وقتی حمایت شما مانع رشد عزیزانتان می‌شود: تحلیل الگوی وابستگی مخرب | گشپار",
+    "description": "تحلیل موردی خانواده‌ای که با وجود نیت خیر، با حمایت‌های مالی و عاطفی بی‌جا، یکی از اعضا را در چرخه شکست و ناامیدی نگه داشته‌اند. راهکارهای رهایی از دلسوزی‌های مخرب.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
+  },
+  {
+    "slug": "collapsed-family-boundaries",
+    "path": "blog/collapsed-family-boundaries.html",
+    "url": "https://geshpar.com/blog/collapsed-family-boundaries.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/collapsed-family-boundaries/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "couple-growth-conflict",
+    "path": "blog/couple-growth-conflict.html",
+    "url": "https://geshpar.com/blog/couple-growth-conflict.html",
+    "title": "وقتی پیشرفت شما با مقاومت همسرتان روبرو می‌شود: تحلیل الگوهای تعارض در روابط زناشویی | گشپار",
+    "description": "تحلیل موردی زنی که احساس می‌کند موفقیت‌های تحصیلی و مالی‌اش با حسادت و مقاومت همسرش روبرو شده است. بررسی الگوهای تعارض و راهکارهای مدیریت اختلاف نظر بدون قضاوت زودهنگام.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
+  },
+  {
+    "slug": "depression-hidden-in-wife",
+    "path": "blog/depression-hidden-in-wife.html",
+    "url": "https://geshpar.com/blog/depression-hidden-in-wife.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/depression-hidden-in-wife/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "diagnosing-pathological-lying",
+    "path": "blog/diagnosing-pathological-lying.html",
+    "url": "https://geshpar.com/blog/diagnosing-pathological-lying.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/diagnosing-pathological-lying/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "displaced-jealousy-family-conflict",
+    "path": "blog/displaced-jealousy-family-conflict.html",
+    "url": "https://geshpar.com/blog/displaced-jealousy-family-conflict.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/displaced-jealousy-family-conflict/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "domestic-violence-case-01",
+    "path": "blog/domestic-violence-case-01.html",
+    "url": "https://geshpar.com/blog/domestic-violence-case-01.html",
+    "title": "کیس مشاوره: فرار از چرخه خشونت و کنترل‌گری همسر | گشپار",
+    "description": "مطالعه موردی زنی که توسط همسرش تحت خشونت فیزیکی، کلامی و انزوای اجتماعی قرار گرفته است. تحلیل روانشناختی رفتارهای کنترل‌گرانه و راهکارهای خروج از این وضعیت.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
+  },
+  {
+    "slug": "emotional-exhaustion-mothers-family-dynamics",
+    "path": "blog/emotional-exhaustion-mothers-family-dynamics.html",
+    "url": "https://geshpar.com/blog/emotional-exhaustion-mothers-family-dynamics.html",
+    "title": "وقتی در خانه احساس تنهایی می‌کنید: راهنمای زنانی که بین سکوت و فریاد گیر کرده‌اند | گشپار",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
+  },
+  {
+    "slug": "enmeshment-and-triangulation",
+    "path": "blog/enmeshment-and-triangulation.html",
+    "url": "https://geshpar.com/blog/enmeshment-and-triangulation.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/enmeshment-and-triangulation/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "ethics-of-truth-telling",
+    "path": "blog/ethics-of-truth-telling.html",
+    "url": "https://geshpar.com/blog/ethics-of-truth-telling.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/ethics-of-truth-telling/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "family-boundaries-assertiveness",
+    "path": "blog/family-boundaries-assertiveness.html",
+    "url": "https://geshpar.com/blog/family-boundaries-assertiveness.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/family-boundaries-assertiveness/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "generation-gap-parenting",
+    "path": "blog/generation-gap-parenting.html",
+    "url": "https://geshpar.com/blog/generation-gap-parenting.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/generation-gap-parenting/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "honor-culture-psychoanalysis",
+    "path": "blog/honor-culture-psychoanalysis.html",
+    "url": "https://geshpar.com/blog/honor-culture-psychoanalysis.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/honor-culture-psychoanalysis/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "husband-success-fear",
+    "path": "blog/husband-success-fear.html",
+    "url": "https://geshpar.com/blog/husband-success-fear.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/husband-success-fear/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "husband-sulking",
+    "path": "blog/husband-sulking.html",
+    "url": "https://geshpar.com/blog/husband-sulking.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/husband-sulking/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "ideological-family-conflict",
+    "path": "blog/ideological-family-conflict.html",
+    "url": "https://geshpar.com/blog/ideological-family-conflict.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/ideological-family-conflict/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "in-laws-interference",
+    "path": "blog/in-laws-interference.html",
+    "url": "https://geshpar.com/blog/in-laws-interference.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/in-laws-interference/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "blog",
+    "path": "blog/index.html",
+    "url": "https://geshpar.com/blog/",
+    "title": "وبلاگ گشپار | مقالات روانشناسی رابطه، خانواده و خودشناسی",
+    "description": "مقالات تخصصی روانشناسی با قلم مفید مقصودی، روانشناس بالینی با ۳۰ سال تجربه: قهر و سکوت همسر، خیانت، بی‌توجهی، وابستگی به خانواده، همسر خودشیفته، اعتیاد و استقلال فرزند، ازدواج سنتی، ذهن‌آگاهی و مشاوره آنلاین.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "intergenerational-trauma-loyalty",
+    "path": "blog/intergenerational-trauma-loyalty.html",
+    "url": "https://geshpar.com/blog/intergenerational-trauma-loyalty.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/intergenerational-trauma-loyalty/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "legal-divorce-violence-guide",
+    "path": "blog/legal-divorce-violence-guide.html",
+    "url": "https://geshpar.com/blog/legal-divorce-violence-guide.html",
+    "title": "طلاق از همسر خشونت‌گر: آیا باید مهریه را ببخشم؟ | راهنمای حقوقی و روانشناسی",
+    "description": "پاسخ به سوالات مهم زنان قربانی خشونت: آیا بخشیدن مهریه شرط طلاق است؟ چگونه با تهدید به آبروریزی مقابله کنیم؟ پروسه طلاق در خارج از کشور و اثبات عسر و حرج.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
+  },
+  {
+    "slug": "let-your-child-fail",
+    "path": "blog/let-your-child-fail.html",
+    "url": "https://geshpar.com/blog/let-your-child-fail.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/let-your-child-fail/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "mindfulness",
+    "path": "blog/mindfulness.html",
+    "url": "https://geshpar.com/blog/mindfulness.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/mindfulness/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "modern-tragedy-mother-shadow",
+    "path": "blog/modern-tragedy-mother-shadow.html",
+    "url": "https://geshpar.com/blog/modern-tragedy-mother-shadow.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/modern-tragedy-mother-shadow/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "mutual-anger-cycle-psychoanalysis",
+    "path": "blog/mutual-anger-cycle-psychoanalysis.html",
+    "url": "https://geshpar.com/blog/mutual-anger-cycle-psychoanalysis.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/mutual-anger-cycle-psychoanalysis/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "narcissistic-spouse",
+    "path": "blog/narcissistic-spouse.html",
+    "url": "https://geshpar.com/blog/narcissistic-spouse.html",
+    "title": "انتقال به نشانی جدید",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
+  },
+  {
+    "slug": "obsessive-surveillance-psychoanalysis",
+    "path": "blog/obsessive-surveillance-psychoanalysis.html",
+    "url": "https://geshpar.com/blog/obsessive-surveillance-psychoanalysis.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/obsessive-surveillance-psychoanalysis/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "ocd-marriage-decision",
+    "path": "blog/ocd-marriage-decision.html",
+    "url": "https://geshpar.com/blog/ocd-marriage-decision.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/ocd-marriage-decision/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "online-counseling",
+    "path": "blog/online-counseling.html",
+    "url": "https://geshpar.com/blog/online-counseling.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/online-counseling/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "preemptive-breakup-test",
+    "path": "blog/preemptive-breakup-test.html",
+    "url": "https://geshpar.com/blog/preemptive-breakup-test.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/preemptive-breakup-test/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "preemptive-breakup",
+    "path": "blog/preemptive-breakup.html",
+    "url": "https://geshpar.com/blog/preemptive-breakup.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/preemptive-breakup/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "pregnancy-rage-guilt",
+    "path": "blog/pregnancy-rage-guilt.html",
+    "url": "https://geshpar.com/blog/pregnancy-rage-guilt.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/pregnancy-rage-guilt/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "rebuilding-trust-after-conflict",
+    "path": "blog/rebuilding-trust-after-conflict.html",
+    "url": "https://geshpar.com/blog/rebuilding-trust-after-conflict.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/rebuilding-trust-after-conflict/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "regular-man",
+    "path": "blog/regular-man.html",
+    "url": "https://geshpar.com/blog/regular-man.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/regular-man/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "repeated-betrayal-cycle-psychoanalysis",
+    "path": "blog/repeated-betrayal-cycle-psychoanalysis.html",
+    "url": "https://geshpar.com/blog/repeated-betrayal-cycle-psychoanalysis.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/repeated-betrayal-cycle-psychoanalysis/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "right-choice",
+    "path": "blog/right-choice.html",
+    "url": "https://geshpar.com/blog/right-choice.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/right-choice/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "right-path",
+    "path": "blog/right-path.html",
+    "url": "https://geshpar.com/blog/right-path.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/right-path/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "right-return",
+    "path": "blog/right-return.html",
+    "url": "https://geshpar.com/blog/right-return.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/right-return/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "safety-plan-domestic-violence",
+    "path": "blog/safety-plan-domestic-violence.html",
+    "url": "https://geshpar.com/blog/safety-plan-domestic-violence.html",
+    "title": "راهنمای خروج امن: چگونه از چنگال همسر خشونت‌گر فرار کنیم؟ | گشپار",
+    "description": "اگر همسرتان شما را تهدید می‌کند یا کنترل‌گری می‌کند، این مقاله نجات‌بخش است. یاد بگیرید چگونه یک «طرح ایمنی» طراحی کنید، مدارک جمع‌آوری کنید و بدون خطر جانی خانه را ترک کنید.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
+  },
+  {
+    "slug": "self-sacrifice-trap",
+    "path": "blog/self-sacrifice-trap.html",
+    "url": "https://geshpar.com/blog/self-sacrifice-trap.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/self-sacrifice-trap/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "shabgoft-01",
+    "path": "blog/shabgoft-01.html",
+    "url": "https://geshpar.com/blog/shabgoft-01.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/shabgoft-01/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "shabgoft-02",
+    "path": "blog/shabgoft-02.html",
+    "url": "https://geshpar.com/blog/shabgoft-02.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/shabgoft-02/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "social-class-codependency",
+    "path": "blog/social-class-codependency.html",
+    "url": "https://geshpar.com/blog/social-class-codependency.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/social-class-codependency/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "sohrab-tragedy-shadow",
+    "path": "blog/sohrab-tragedy-shadow.html",
+    "url": "https://geshpar.com/blog/sohrab-tragedy-shadow.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/sohrab-tragedy-shadow/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "spousal-infidelity",
+    "path": "blog/spousal-infidelity.html",
+    "url": "https://geshpar.com/blog/spousal-infidelity.html",
+    "title": "انتقال به نشانی جدید",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
+  },
+  {
+    "slug": "spouse-family-dependency",
+    "path": "blog/spouse-family-dependency.html",
+    "url": "https://geshpar.com/blog/spouse-family-dependency.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/spouse-family-dependency/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "spouse-neglect",
+    "path": "blog/spouse-neglect.html",
+    "url": "https://geshpar.com/blog/spouse-neglect.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/spouse-neglect/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "supervision-attachment-trauma",
+    "path": "blog/supervision-attachment-trauma.html",
+    "url": "https://geshpar.com/blog/supervision-attachment-trauma.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/supervision-attachment-trauma/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "supervision-avoidant-anxious",
+    "path": "blog/supervision-avoidant-anxious.html",
+    "url": "https://geshpar.com/blog/supervision-avoidant-anxious.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/supervision-avoidant-anxious/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "suspicion-control-trap",
+    "path": "blog/suspicion-control-trap.html",
+    "url": "https://geshpar.com/blog/suspicion-control-trap.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/suspicion-control-trap/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "suspicion-or-betrayal",
+    "path": "blog/suspicion-or-betrayal.html",
+    "url": "https://geshpar.com/blog/suspicion-or-betrayal.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/suspicion-or-betrayal/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "untreated-mood-disorder-marriage",
+    "path": "blog/untreated-mood-disorder-marriage.html",
+    "url": "https://geshpar.com/blog/untreated-mood-disorder-marriage.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/untreated-mood-disorder-marriage/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "when-reconciliation-is-dangerous",
+    "path": "blog/when-reconciliation-is-dangerous.html",
+    "url": "https://geshpar.com/blog/when-reconciliation-is-dangerous.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/when-reconciliation-is-dangerous/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "why-husband-starts-fights",
+    "path": "blog/why-husband-starts-fights.html",
+    "url": "https://geshpar.com/blog/why-husband-starts-fights.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/why-husband-starts-fights/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "you-are-not-the-main-actor",
+    "path": "blog/you-are-not-the-main-actor.html",
+    "url": "https://geshpar.com/blog/you-are-not-the-main-actor.html",
+    "title": "در حال انتقال…",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/you-are-not-the-main-actor/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "case-the-dangerous-dream",
+    "path": "cases/case-the-dangerous-dream.html",
+    "url": "https://geshpar.com/cases/case-the-dangerous-dream.html",
+    "title": "رویای خطرناک: وقتی بلندپروازی جوان با ترسِ بزرگترها برخورد می‌کند | پارسنگ",
+    "description": "واکاوی روانکاوانهٔ تضاد میان آرزوهای استقلال‌طلبانهٔ یک دختر جوان و هشدارهای محافظه‌کارانهٔ بزرگترها؛ بررسی مرز باریک میان رشد و خطر در دنیای امروز.",
+    "category": "cases",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/mindfulness.html",
+      "/contact/",
+      "/css/parsang.css",
+      "/guides/marriage-therapy-guide/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "contact",
+    "path": "contact/index.html",
+    "url": "https://geshpar.com/contact/",
+    "title": "تماس و رزرو نوبت | کلینیک پارسنگ",
+    "description": "رزرو جلسه مشاوره با مفید مقصودی، روانشناس بالینی؛ تماس مستقیم، واتساپ و ساعات پاسخگویی.",
+    "category": "contact",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "marriage-therapy-guide",
+    "path": "guides/marriage-therapy-guide/index.html",
+    "url": "https://geshpar.com/guides/marriage-therapy-guide/",
+    "title": "راهنمای جامع درمان مشکلات زناشویی | تحلیل بالینی و راهکارهای عملی | کلینیک پارسنگ",
+    "description": "مرجع کامل تحلیل و درمان مشکلات زناشویی: از کنترل‌گری، سوءظن و وسواس فکری تا تعارضات مالی و جنگ قدرت. راهکارهای علمی دکتر مفید مقصودی بر اساس هزاران جلسه درمان.",
+    "category": "guides",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/",
+      "/blog/control-freak-marriage/",
+      "/blog/control-war-marriage/",
+      "/blog/denial-and-repetition/",
+      "/blog/emotional-addiction/",
+      "/blog/family-boundaries-assertiveness/",
+      "/blog/family-boundaries/",
+      "/blog/financial-management-anxiety/",
+      "/blog/love-as-transaction/",
+      "/blog/marital-paranoia/",
+      "/blog/marriage-boundaries-humor/",
+      "/blog/marriage-control-dynamic/",
+      "/blog/obsessive-thoughts-marriage/",
+      "/blog/toxic-marriage/",
+      "/blog/workplace-boundaries-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "abandoning-mother-psychoanalysis",
+    "path": "blog/abandoning-mother-psychoanalysis/index.html",
+    "url": "https://geshpar.com/blog/abandoning-mother-psychoanalysis/",
+    "title": "سقوط از تخت ملکه به زانوگاه کنیز",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "abandoning-mother-psychoanalysis.html",
+    "path": "blog/abandoning-mother-psychoanalysis.html/index.html",
+    "url": "https://geshpar.com/blog/abandoning-mother-psychoanalysis.html/",
+    "title": "سقوط از تخت ملکه به زانوگاه کنیز",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "addictive-mother-controlling-son",
+    "path": "blog/addictive-mother-controlling-son/index.html",
+    "url": "https://geshpar.com/blog/addictive-mother-controlling-son/",
+    "title": "پشت هر پسر معتاد، مادری معتاد به کنترل است | گِسپَر",
+    "description": "چگونه کنترل‌گری والدین فرزندان را به سمت اعتیاد هل می‌دهد؟ تحلیل روانشناختی «اعتیاد به کنترل» در مادران و راه‌حل هنرِ رها کردن.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "affair-crisis-pregnancy",
+    "path": "blog/affair-crisis-pregnancy/index.html",
+    "url": "https://geshpar.com/blog/affair-crisis-pregnancy/",
+    "title": "بحران خیانت در آستانه تولد: وقتی یک نوزاد قربانی بزرگسالان می‌شود | گشپار",
+    "description": "تحلیل عمیق یک کیس بحرانی: مردی که همسر باردارش را مجبور به ترک فرزند می‌کند تا با زن دیگری زندگی کند. بررسی روانکاوانه تأثیر مخرب بر نوزاد، مادر و ساختار خانواده.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "aggression-trauma-loss-cycle",
+    "path": "blog/aggression-trauma-loss-cycle/index.html",
+    "url": "https://geshpar.com/blog/aggression-trauma-loss-cycle/",
+    "title": "وقتی پرخاشگری می‌کُشد: تحلیل یک رابطه سمی با ترومای از دست دادن فرزند",
+    "description": "تحلیل چندلایه روانکاوی یک کیس واقعی: پرخاشگری مزمن، ترومای ۲۱ ساله از دست دادن فرزند، الگوهای ارتباطی ناسالم دوطرفه، و چرخه تحقیر. با رویکرد فروید، بولبی، بوون، و واتزلاویک.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/betrayal-systemic-analysis.html",
+      "/blog/dependency-narcissism-cycle.html",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "anxious-attachment-pursuer-distancer",
+    "path": "blog/anxious-attachment-pursuer-distancer/index.html",
+    "url": "https://geshpar.com/blog/anxious-attachment-pursuer-distancer/",
+    "title": "وقتی در ابهام رابطه گیر کرده‌اید: روانکاوی دلبستگی اضطرابی | پارسنگ",
+    "description": "تحلیل روانکاوانه کیس بالینی: چرا برخی افراد در چرخه معیوب تعقیب-گریز گرفتار می‌شوند؟ بررسی دلبستگی اضطرابی، خطاهای شناختی و فرافکنی ترس.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "anxious-elderly-neighbor",
+    "path": "blog/anxious-elderly-neighbor/index.html",
+    "url": "https://geshpar.com/blog/anxious-elderly-neighbor/",
+    "title": "ترس از همسایه معتاد: وقتی اضطراب، واقعیت را تحریف می‌کند | روانشناسی اضطراب",
+    "description": "آیا همسایه شما واقعاً خطرناک است یا اضطراب شما واقعیت را بزرگ‌نمایی می‌کند؟ تحلیل روانشناختی ترس‌های سالمندان و راهکارهای مدیریت ناامنی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/apology-anxiety-teen/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "anxious-neighbor",
+    "path": "blog/anxious-neighbor/index.html",
+    "url": "https://geshpar.com/blog/anxious-neighbor/",
+    "title": "وقتی ترس از همسایه، تمام خانه را تسخیر می‌کند | پارسنگ",
+    "description": "داستان زنی که دو ساعت مرده بود و برگشت؛ حالا هر صدایی از پله‌ها برایش صدای همان دو ساعت است. خوانش روانکاوانهٔ ترس، تنهایی و اهلی‌کردنِ اضطراب. مفید مقصودی، روانشناس بالینی — پروانهٔ ۲۱۶.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "apology-anxiety-teen",
+    "path": "blog/apology-anxiety-teen/index.html",
+    "url": "https://geshpar.com/blog/apology-anxiety-teen/",
+    "title": "وقتی عذرخواهی تبدیل به زندان می‌شود: تحلیل کیس اضطراب جدایی در نوجوانی | گشپار",
+    "description": "تحلیل روانکاوانه یک جلسه درمان: چرا برخی نوجوانان پس از هر تعارض کوچکی دچار اضطراب شدید می‌شوند؟ بررسی دینامیک‌های اضطراب جدایی، عذرخواهی وسواسی و نیاز به تأیید والدین.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/anxious-elderly-neighbor/",
+      "/blog/emotional-addiction/",
+      "/blog/family-boundaries-assertiveness/",
+      "/blog/ocd-addiction-spouse/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "attachment-trauma-abandonment-case",
+    "path": "blog/attachment-trauma-abandonment-case/index.html",
+    "url": "https://geshpar.com/blog/attachment-trauma-abandonment-case/",
+    "title": "کیس بالینی: تروما دلبستگی و ترس از رهاشدگی | پارسنگ",
+    "description": "تحلیل یک کیس بالینی واقعی با محوریت تروما دلبستگی، ترس از رهاشدگی، رفتارهای خودآسیب‌رسان و وفاداری دوگانه. رویکرد درمانی پارسنگ با تلفیق روانشناسی مدرن و خرد کهن.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "betrayal-systemic-analysis",
+    "path": "blog/betrayal-systemic-analysis/index.html",
+    "url": "https://geshpar.com/blog/betrayal-systemic-analysis/",
+    "title": "وقتی اعتماد ترک برمی‌دارد: ماندن یا رفتن بعد از خیانت؟ | تحلیل یک کیس واقعی",
+    "description": "تحلیل روانکاوی یک مکالمه واقعی دربارهٔ خیانت زناشویی: ترومای خیانت، پارادوکس شفافیت، نقش کودک در تصمیم، و تفاوت ماندنِ از سرِ ترس با ماندنِ از سرِ انتخاب. با ۳۰ سال تجربه بالینی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "daughter-recovery-toxic-parent",
+    "path": "blog/blog/daughter-recovery-toxic-parent.html",
+    "url": "https://geshpar.com/blog/blog/daughter-recovery-toxic-parent.html",
+    "title": "وقتی دختر بیمار است: عبور از وابستگی به والد سمی و بازیابی هویت | گشپار",
+    "description": "تحلیل بالینی کیس واقعی: چرا تمرکز بر تغییر مادر سمی اشتباه است؟ مسیر درمانی برای دختری که در چرخه وابستگی عاطفی و آسیب‌شناسی روانی گرفتار شده و نیاز به بازسازی هویت مستقل دارد.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
+  },
+  {
+    "slug": "displaced-grief-silent-aggression",
+    "path": "blog/blog/displaced-grief-silent-aggression.html",
+    "url": "https://geshpar.com/blog/blog/displaced-grief-silent-aggression.html",
+    "title": "دو زبان، یک دعوا: وقتی سوگ با خشم حرف می‌زند و سکوت با پرخاشگری",
+    "description": "تحلیل یک کیس واقعی زوجی که یک درد دارند و دو زبان: شوهری که سوگِ نشنیده‌اش با خشم حرف می‌زند و همسری که سکوتش بلندترین پرخاشگری است. با رویکرد واتزلاویک و روان‌تحلیلگری.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/betrayal-systemic-analysis.html",
+      "/blog/weekend-alone.html",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "brt-driver-conflict",
+    "path": "blog/brt-driver-conflict/index.html",
+    "url": "https://geshpar.com/blog/brt-driver-conflict/",
+    "title": "خشم در اتوبوس شلوغ: وقتی فشار کار به خانه تسری می‌یابد",
+    "description": "تحلیل روانشناختی تعارضات زوجین در مشاغل پرفشار. بررسی تأثیر خشم فروخورده شغلی، فرسودگی روانی و مسائل اقتصادی بر صمیمیت زناشویی در کیس راننده BRT.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "case-safe-cage",
+    "path": "blog/cases/case-safe-cage.html",
+    "url": "https://geshpar.com/blog/cases/case-safe-cage.html",
+    "title": "«قفسِ امن»؛ واکاوی روانکاوانهٔ یک پرونده | پارسنگ",
+    "description": "تحلیل روانکاوانهٔ پرونده زنی میان گذشتهٔ پرمعامله، حامیِ مراقب و مادرِ بیمار؛ دربارهٔ مرز باریک میان حمایت و کنترل و دیالکتیک استقلال و امنیت.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/mindfulness.html",
+      "/contact/",
+      "/css/parsang.css",
+      "/guides/marriage-therapy-guide/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "case-the-absent-voice",
+    "path": "blog/cases/case-the-absent-voice.html",
+    "url": "https://geshpar.com/blog/cases/case-the-absent-voice.html",
+    "title": "صدای غایب: چرا همیشه حق با کسی نیست که در اتاق مشاوره نشسته؟ | پارسنگ",
+    "description": "واکاوی روانکاوانهٔ اصل مهم «بی‌طرفی» در درمان؛ بررسی اینکه چرا روایت یک‌جانبه کافی نیست و حقوق افراد غایب چگونه باید در فرآیند درمان محفوظ بماند.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/mindfulness.html",
+      "/contact/",
+      "/css/parsang.css",
+      "/guides/marriage-therapy-guide/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "case-the-biology-excuse",
+    "path": "blog/cases/case-the-biology-excuse.html",
+    "url": "https://geshpar.com/blog/cases/case-the-biology-excuse.html",
+    "title": "دامِ «طبیعی بودن خیانت»: وقتی زیست‌شناسی سپرِ بی‌مسئولیتی می‌شود | پارسنگ",
+    "description": "نقد روانکاوانهٔ توجیه زیست‌شناختی خیانت؛ چرا تقلیل وفاداری به «انتخاب اخلاقی» به جای «میل زیستی»، هم به نفع زنان و هم به نفع مردان است.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/mindfulness.html",
+      "/contact/",
+      "/css/parsang.css",
+      "/guides/marriage-therapy-guide/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "case-the-guardian-paradox",
+    "path": "blog/cases/case-the-guardian-paradox.html",
+    "url": "https://geshpar.com/blog/cases/case-the-guardian-paradox.html",
+    "title": "پارادوکس نگهبان: وقتی حمایت، قفس می‌شود | پارسنگ",
+    "description": "واکاوی روانکاوانهٔ دغدغه برادری که می‌خواهد خواهر مطلقه‌اش را از دامِ همسر خیانتکار نجات دهد؛ مرز باریک میان دلسوزی و سلب استقلال.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/mindfulness.html",
+      "/contact/",
+      "/css/parsang.css",
+      "/guides/marriage-therapy-guide/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "case-the-impossible-request",
+    "path": "blog/cases/case-the-impossible-request.html",
+    "url": "https://geshpar.com/blog/cases/case-the-impossible-request.html",
+    "title": "درخواست غیرممکن: وقتی پسر ۱۹ ساله از مادر می‌خواهد برایش همسر پیدا کند | پارسنگ",
+    "description": "واکاوی روانکاوانهٔ درخواست عجیب یک نوجوان افسرده برای یافتن همسر؛ تحلیل مکانیسم انحراف توجه از بحران والدین و مثلث‌سازی در خانواده.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/mindfulness.html",
+      "/contact/",
+      "/css/parsang.css",
+      "/guides/marriage-therapy-guide/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "case-the-role-reversal",
+    "path": "blog/cases/case-the-role-reversal.html",
+    "url": "https://geshpar.com/blog/cases/case-the-role-reversal.html",
+    "title": "معکوس شدن نقش‌ها: وقتی «مادرِ رابطه» به «کودکِ نیازمند» تبدیل می‌شود | پارسنگ",
+    "description": "واکاوی روانکاوانهٔ تغییر ناگهانی نقش‌ها پس از ازدواج؛ بررسی اینکه چرا برخی زنان پس از رسیدن به هدف (ازدواج)، از نقش حامی به نقش نیازمند تغییر وضعیت می‌دهند و چگونه این بحران را مدیریت کنیم.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/mindfulness.html",
+      "/contact/",
+      "/css/parsang.css",
+      "/guides/marriage-therapy-guide/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "ceiling-psychoanalysis",
+    "path": "blog/ceiling-psychoanalysis/index.html",
+    "url": "https://geshpar.com/blog/ceiling-psychoanalysis/",
+    "title": "روانکاوی در سقف: تضاد نسل‌ها، فرافکنی و تله‌ی وابستگی | گشپار",
+    "description": "تحلیل عمیق یک کیس خانوادگی پیچیده: پسری ۳۰ ساله که ادعای استقلال اروپایی دارد اما از جیب پدر خرج می‌کند؛ مادری که در دام تناقض گرفتار شده و رابطه‌ای که آینه‌ی تمام‌نمای تعارضات درونی خانواده است.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "chase-and-run-dance",
+    "path": "blog/chase-and-run-dance/index.html",
+    "url": "https://geshpar.com/blog/chase-and-run-dance/",
+    "title": "رقابت در فرار: چرا عاشق هم هستیم اما مدام از هم دور می‌شویم؟",
+    "description": "تحلیل روانکاوانه الگوی تعقیب و گریز در روابط عاطفی. چرا برخی زوجین مدام در حال تست کردن وفاداری یکدیگرند و چگونه می‌توان از چرخه‌ی ترس و فرار خارج شد؟",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "cigarette-as-excuse",
+    "path": "blog/cigarette-as-excuse/index.html",
+    "url": "https://geshpar.com/blog/cigarette-as-excuse/",
+    "title": "کنترل‌گری در ازدواج: وقتی سیگار بهانه‌ای برای جنگ قدرت می‌شود | روانشناسی روابط",
+    "description": "تحلیل روانشناختی الگوی کنترل‌گری در روابط زناشویی؛ بررسی ریشه‌های ناامنی و راهکارهای عبور از چرخه معیوب انتقاد و دفاع.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "clash-of-cultures-marriage",
+    "path": "blog/clash-of-cultures-marriage/index.html",
+    "url": "https://geshpar.com/blog/clash-of-cultures-marriage/",
+    "title": "وقتی دو فرهنگ با هم ازدواج می‌کنند | تضادِ خانوادهٔ مخفی‌کار و صادق | گِسپَر",
+    "description": "تحلیل روانشناختی تقابل دو سبک خانوادگی در ازدواج: چرا ما به آدم‌های ساده برچسب «دهن‌لق» می‌زنیم؟ تفاوت کنترل‌گری با صداقت رادیکال چیست؟",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "codependency-addiction",
+    "path": "blog/codependency-addiction/index.html",
+    "url": "https://geshpar.com/blog/codependency-addiction/",
+    "title": "وقتی نجات دادن، خودش زندان می‌شود | تلهٔ هم‌وابستگی با فرد معتاد | گِسپَر",
+    "description": "چرا هرچه بیشتر برای ترک اعتیاد همسرتان تلاش می‌کنید، اوضاع بدتر می‌شود؟ تحلیل روانشناختی هم‌وابستگی (Codependency) و راهکار رهایی از چرخهٔ نجات‌دهنده.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "codependency-marriage",
+    "path": "blog/codependency-marriage/index.html",
+    "url": "https://geshpar.com/blog/codependency-marriage/",
+    "title": "وقتی عشق تبدیل به زندان می‌شود: تحلیل کیس هم‌وابستگی در ازدواج | گشپار",
+    "description": "تحلیل روانکاوانه یک کیس واقعی از هم‌وابستگی (Codependency)؛ بررسی چرایی جذب زنان به مردان آسیب‌پذیر و راهکارهای شکستن چرخه نجات‌دهندگی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/apology-anxiety-teen/",
+      "/blog/decision-paralysis-divorce/",
+      "/blog/emotional-addiction/",
+      "/blog/family-boundaries-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "collapsed-family-boundaries",
+    "path": "blog/collapsed-family-boundaries/index.html",
+    "url": "https://geshpar.com/blog/collapsed-family-boundaries/",
+    "title": "زندگی در قفس شیشه‌ای: روانکاوی فروپاشی مرزها و دخالت خانواده گسترده | گشپار",
+    "description": "تحلیل عمیق یک کیس خانوادگی پیچیده: زنی که در خانه خودش غریبه است. بررسی روانکاوانه وابستگی بیمارگونه همسر، خشونت خانگی و نقش مخرب زندگی مشترک در یک ساختمان با خانواده گسترده.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "control-freak-marriage",
+    "path": "blog/control-freak-marriage/index.html",
+    "url": "https://geshpar.com/blog/control-freak-marriage/",
+    "title": "کنترل‌گری در ازدواج: وقتی عشق تبدیل به زندان می‌شود | کلینیک پارسنگ",
+    "description": "تحلیل روانشناختی کنترل‌گری بیمارگونه در روابط زناشویی؛ بررسی ریشه‌های ناامنی و راهکارهای درمان ریشه‌ای.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/control-war-marriage/",
+      "/blog/marital-paranoia/",
+      "/blog/obsessive-thoughts-marriage/",
+      "/blog/therapy-mirror-projection/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "control-war-marriage",
+    "path": "blog/control-war-marriage/index.html",
+    "url": "https://geshpar.com/blog/control-war-marriage/",
+    "title": "جنگ کنترل در ازدواج: وقتی هر کلمه تبدیل به سلاح می‌شود | کلینیک پارسنگ",
+    "description": "تحلیل روانشناختی جنگ‌های کنترل در روابط زناشویی؛ بررسی نقش خانواده‌های گسترده و راهکارهای شکستن چرخه کنترل.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/control-freak-marriage/",
+      "/blog/family-boundaries/",
+      "/blog/toxic-marriage/",
+      "/blog/verbal-violence-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "crisis-generator-personality",
+    "path": "blog/crisis-generator-personality/index.html",
+    "url": "https://geshpar.com/blog/crisis-generator-personality/",
+    "title": "وقتی خودت تولیدکننده بحران هستی: تحلیل کیس شخصیت کنترل‌گر | گشپار",
+    "description": "تحلیل روانکاوانه یک کیس واقعی از شخصیت کنترل‌گر و وسواسی؛ بررسی چگونه افراد خودشان بحران‌های رابطه را تولید می‌کنند و راهکارهای درمان.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/apology-anxiety-teen/",
+      "/blog/codependency-marriage/",
+      "/blog/emotional-addiction/",
+      "/blog/hidden-signals-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "decision-paralysis-divorce",
+    "path": "blog/decision-paralysis-divorce/index.html",
+    "url": "https://geshpar.com/blog/decision-paralysis-divorce/",
+    "title": "blog/decision-paralysis-divorce/index.html",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/blog/decision-paralysis-divorce/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "deformation-male-personality",
+    "path": "blog/deformation-male-personality/index.html",
+    "url": "https://geshpar.com/blog/deformation-male-personality/",
+    "title": "معماری یک فاجعه: مسخ شخصیت مرد",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "deformation-male-personality.html",
+    "path": "blog/deformation-male-personality.html/index.html",
+    "url": "https://geshpar.com/blog/deformation-male-personality.html/",
+    "title": "معماری یک فاجعه: مسخ شخصیت مرد",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "denial-and-repetition",
+    "path": "blog/denial-and-repetition/index.html",
+    "url": "https://geshpar.com/blog/denial-and-repetition/",
+    "title": "انکار و تکرار الگوهای خانوادگی: وقتی خیانت، آینه‌ای از گذشته می‌شود | کلینیک پارسنگ",
+    "description": "تحلیل روانشناختی الگوهای تکراری در ازدواج؛ بررسی ریشه‌های انکار واقعیت و راهکارهای شکستن چرخه معیوب بین‌نسلی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/emotional-addiction/",
+      "/blog/long-distance-marriage-reality/",
+      "/blog/marital-paranoia/",
+      "/blog/obsessive-thoughts-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "dependency-narcissism-cycle",
+    "path": "blog/dependency-narcissism-cycle/index.html",
+    "url": "https://geshpar.com/blog/dependency-narcissism-cycle/",
+    "title": "وقتی وابستگی می‌کُشد: تحلیل یک رابطه سمی | اختلال شخصیت وابسته",
+    "description": "تحلیل چندلایه روانکاوی یک کیس واقعی: اختلال شخصیت وابسته، نارسیسیسم همسر، خشم سرکوب‌شده، و چرخهٔ تحقیر. با رویکرد فروید، بولبی، و کوهوت.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/betrayal-systemic-analysis.html",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "depression-hidden-in-wife",
+    "path": "blog/depression-hidden-in-wife/index.html",
+    "url": "https://geshpar.com/blog/depression-hidden-in-wife/",
+    "title": "وقتی همسر شلخته و کم‌حوصله می‌شود: افسردگی پنهان پشت بی‌نظمی خانه | گِسپَر",
+    "description": "چرا همسرتان از یک زن منظم به «شلختهٔ بی‌حوصله» تبدیل شده است؟ تحلیل روانشناختی افسردگی پنهان زنان و راهنمای شوهران برای نجات زندگی مشترک.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "diagnosing-pathological-lying",
+    "path": "blog/diagnosing-pathological-lying/index.html",
+    "url": "https://geshpar.com/blog/diagnosing-pathological-lying/",
+    "title": "تشخیص فریب‌کاری پاتولوژیک در اتاق درمان | سوپرویژن بالینی",
+    "description": "تحلیل روانکاوانه مکانیسم‌های دفاعی در مراجعان دروغگو: تمایز بین Mythomania، ساختار شخصیت مرزی-هیستریونیک و تکنیک‌های دستکاری درمانگر.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "displaced-jealousy-family-conflict",
+    "path": "blog/displaced-jealousy-family-conflict/index.html",
+    "url": "https://geshpar.com/blog/displaced-jealousy-family-conflict/",
+    "title": "وقتی همسرت به خانواده‌اش وابسته است: روانکاوی حسادت جابجایی‌شده | پارسنگ",
+    "description": "تحلیل روانکاوانه کیس بالینی: چرا برخی زنان نسبت به رابطه همسرشان با خواهر/برادر شوهر حسادت شدید می‌کنند؟ بررسی حسادت جابجایی‌شده و تعارض وفاداری.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "domestic-violence-psychoanalysis",
+    "path": "blog/domestic-violence-psychoanalysis/index.html",
+    "url": "https://geshpar.com/blog/domestic-violence-psychoanalysis/",
+    "title": "وقتی عشق به میدان جنگ تبدیل می‌شود: کالبدشکافی روانکاوانه یک رابطه سمی | گشپار",
+    "description": "تحلیل چندلایه فرویدی، یونگی و لاکانی از دینامیک کنترل، خشونت خانگی و ترومای بین‌نسلی در یک ازدواج طولانی‌مدت",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog",
+      "/blog/intergenerational-trauma/",
+      "/blog/narcissistic-abuse/",
+      "/blog/obsessive-cleaning-analysis/",
+      "/css/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "domestic-violence-trauma",
+    "path": "blog/domestic-violence-trauma/index.html",
+    "url": "https://geshpar.com/blog/domestic-violence-trauma/",
+    "title": "ترومای خشونت خانگی: زخم‌های نامرئی | گشپار",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/running-away-survival/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "emotional-addiction",
+    "path": "blog/emotional-addiction/index.html",
+    "url": "https://geshpar.com/blog/emotional-addiction/",
+    "title": "وابستگی عاطفی به عنوان اعتیاد: وقتی عشق تبدیل به ماده مخدر می‌شود | کلینیک پارسنگ",
+    "description": "تحلیل روانشناختی وابستگی‌های بیمارگونه؛ بررسی تفاوت عشق سالم و اعتیاد عاطفی و راهکارهای درمان ریشه‌ای.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/denial-and-repetition/",
+      "/blog/false-confidence-relationships/",
+      "/blog/infidelity-mental-pit/",
+      "/blog/obsessive-thoughts-marriage/",
+      "/blog/ocd-addiction-spouse/",
+      "/blog/toxic-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "enmeshment-and-triangulation",
+    "path": "blog/enmeshment-and-triangulation/index.html",
+    "url": "https://geshpar.com/blog/enmeshment-and-triangulation/",
+    "title": "درهم‌تنیدگی و فقدان تفکیک‌یافتگی | تحلیل روانکاوانه وابستگی به خانواده",
+    "description": "تحلیل روانکاوانه وابستگی افراطی همسر به خانواده اصلی. بررسی مفاهیم Enmeshment، فقدان تفکیک‌یافتگی خود و مثلث‌سازی در روابط زناشویی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "ethics-of-truth-telling",
+    "path": "blog/ethics-of-truth-telling/index.html",
+    "url": "https://geshpar.com/blog/ethics-of-truth-telling/",
+    "title": "اخلاقِ حقیقت‌گویی و بارِ راز | دیلمای افشای پیشینه در ازدواج",
+    "description": "تحلیل روانکاوانه زمان و نحوه افشای رازهای گذشته (ازدواج قبلی، بیماری) در فرآیند خواستگاری. بررسی مفاهیم Object Relations و Projection.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "false-confidence-relationships",
+    "path": "blog/false-confidence-relationships/index.html",
+    "url": "https://geshpar.com/blog/false-confidence-relationships/",
+    "title": "اعتماد به نفس کاذب: نقاب قدرت در روابط ناسالم",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "false-confidence-relationships.html",
+    "path": "blog/false-confidence-relationships.html/index.html",
+    "url": "https://geshpar.com/blog/false-confidence-relationships.html/",
+    "title": "اعتماد به نفس کاذب: نقاب قدرت در روابط ناسالم",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "family-boundaries",
+    "path": "blog/family-boundaries/index.html",
+    "url": "https://geshpar.com/blog/family-boundaries/",
+    "title": "مرزهای سالم در خانواده: چگونه «نه» بگوییم؟",
+    "description": "آموزش تعیین مرزهای سالم در خانواده و مهارت نه گفتن بدون احساس گناه",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "family-boundaries-assertiveness",
+    "path": "blog/family-boundaries-assertiveness/index.html",
+    "url": "https://geshpar.com/blog/family-boundaries-assertiveness/",
+    "title": "مرزهای خانوادگی در ازدواج: وقتی \"خونه یکی\" شدن به قیمت فرسایش روانی تمام می‌شود | کلینیک پارسنگ",
+    "description": "تحلیل روانشناختی تداخل مرزها در خانواده‌های گسترده؛ بررسی ریشه‌های ناامنی و راهکارهای تعیین حد و مرز سالم بدون احساس گناه.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/family-boundaries-assertiveness/",
+      "/blog/marriage-boundaries-humor/",
+      "/blog/workplace-boundaries-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "family-boundaries-marriage",
+    "path": "blog/family-boundaries-marriage/index.html",
+    "url": "https://geshpar.com/blog/family-boundaries-marriage/",
+    "title": "وقتی خانواده مانع ازدواج می‌شود: تحلیل روانکاوانه بی‌مرزی و دخالت‌گری | گشپار",
+    "description": "تحلیل روانکاوانه پرونده یک خانم ۴۰ ساله مطلقه؛ بررسی تاثیر دخالت‌های خانواده، نبود حریم خصوصی و ترس از قضاوت بر شکست روابط عاطفی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/anxious-elderly-neighbor/",
+      "/blog/apology-anxiety-teen/",
+      "/blog/emotional-addiction/",
+      "/blog/ocd-addiction-spouse/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "family-boundaries.html",
+    "path": "blog/family-boundaries.html/index.html",
+    "url": "https://geshpar.com/blog/family-boundaries.html/",
+    "title": "مرزهای سالم در خانواده: چگونه «نه» بگوییم؟",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "family-enmeshment-analysis",
+    "path": "blog/family-enmeshment-analysis/index.html",
+    "url": "https://geshpar.com/blog/family-enmeshment-analysis/",
+    "title": "اسارت در مثلث خانوادگی: تحلیل روانکاوانه وابستگی بیمارگونه و طرد همسر | گشپار",
+    "description": "تحلیل عمیق دینامیک خانواده‌های درهم‌تنیده، وابستگی بیمارگونه مرد ۴۰ ساله به خواهران و مکانیسم طرد همسر در سیستم‌های بسته خانوادگی",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog",
+      "/blog/domestic-violence-psychoanalysis/",
+      "/blog/emotional-boundaries/",
+      "/blog/narcissistic-family-dynamics/",
+      "/contact",
+      "/css/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "financial-management-anxiety",
+    "path": "blog/financial-management-anxiety/index.html",
+    "url": "https://geshpar.com/blog/financial-management-anxiety/",
+    "title": "مدیریت مالی در ازدواج: وقتی اضطراب همسر مانع برنامه‌ریزی می‌شود | کلینیک پارسنگ",
+    "description": "تحلیل روانشناختی تعارضات مالی در ازدواج؛ بررسی نقش اضطراب در مقاومت در برابر برنامه‌ریزی و راهکارهای مدیریت آن.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/control-freak-marriage/",
+      "/blog/control-war-marriage/",
+      "/blog/toxic-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "forced-marriage-patching",
+    "path": "blog/forced-marriage-patching/index.html",
+    "url": "https://geshpar.com/blog/forced-marriage-patching/",
+    "title": "ازدواج وصله‌پینه؛ وقتی اصرار مادر، پارچه‌ی پوسیده را پاره‌تر می‌کند | گشپار",
+    "description": "مادر اصرار دارد ازدواج سنتی پسرش را نجات دهد، اما پسر می‌گوید «نمی‌خواهم». تحلیلی بر خطر وصله پینه کردن رابطه و درسِ رها کردن برای مادران.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "generation-gap-parenting",
+    "path": "blog/generation-gap-parenting/index.html",
+    "url": "https://geshpar.com/blog/generation-gap-parenting/",
+    "title": "«در زمان ما» استدلال نیست | شکاف نسل‌ها و فرزند بالغ | گِسپَر",
+    "description": "چرا معیارهای نسل قبل برای فرزندان امروز کار نمی‌کند؟ تحلیل روانشناختی شکاف نسلی و هنر گفت‌وگو بین دو نسل.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "hidden-signals-marriage",
+    "path": "blog/hidden-signals-marriage/index.html",
+    "url": "https://geshpar.com/blog/hidden-signals-marriage/",
+    "title": "راز دعواهای تکراری: چگونه سیگنال‌های پنهان رابطه را نابود می‌کنند؟ | گشپار",
+    "description": "تحلیل روانکاوانه یک کیس واقعی از دعواهای تکراری زناشویی؛ بررسی نقش سیگنال‌های پنهان پشت صحنه و راهکارهای شکستن چرخه معیوب.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/apology-anxiety-teen/",
+      "/blog/codependency-marriage/",
+      "/blog/emotional-addiction/",
+      "/blog/family-boundaries-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "honor-culture-psychoanalysis",
+    "path": "blog/honor-culture-psychoanalysis/index.html",
+    "url": "https://geshpar.com/blog/honor-culture-psychoanalysis/",
+    "title": "استبداد آبرو: روانکاوی فرهنگ شرم و تضاد دهات-شهر | گشپار",
+    "description": "تحلیل عمیق یک کیس خانوادگی: چرا شوهری که برای خانواده‌اش جان می‌دهد، همسر و فرزندانش را نادیده می‌گیرد؟ بررسی روانکاوانه فرهنگ آبرو، شرم و هویت دوپاره در مهاجران شهری.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "husband-success-fear",
+    "path": "blog/husband-success-fear/index.html",
+    "url": "https://geshpar.com/blog/husband-success-fear/",
+    "title": "وقتی همسر موفق می‌شود، من می‌ترسم | تحلیل روانکاوی ترس از رها شدن",
+    "description": "چرا وقتی همسرمان شغل خوب و پرستیژ اجتماعی پیدا می‌کند، ما احساس ناامنی و ترس از رها شدن می‌کنیم؟ تحلیل روانکاوانه تغییر نقش‌ها در رابطه و راهکارهای بازسازی امنیت.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "husband-sulking",
+    "path": "blog/husband-sulking/index.html",
+    "url": "https://geshpar.com/blog/husband-sulking/",
+    "title": "وقتی شوهر قهر می‌کند | چرا مردان قهر می‌کنند و چه باید کرد؟ | گشپار",
+    "description": "قهر کردن شوهر یکی از پرتکرارترین دردهای زناشویی است. در این مقاله با ریشه‌های قهر مردان آشنا می‌شوید و یاد می‌گیرید چگونه سکوت را به گفت‌وگو تبدیل کنید.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "ideological-family-conflict",
+    "path": "blog/ideological-family-conflict/index.html",
+    "url": "https://geshpar.com/blog/ideological-family-conflict/",
+    "title": "جنگ نیابتی در اتاق نشیمن: روانکاوی تعارض ایدئولوژیک و وفاداری‌های متضاد | گشپار",
+    "description": "تحلیل عمیق یک کیس خانوادگی پیچیده: زنی که بین پدر و همسرش له می‌شود. بررسی روانکاوانه نقش مراجع در تثبیت تعارض، تفاوت‌های نسلی و ایدئولوژیک، و ضرورت ایجاد مرزهای قاطع.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "in-laws-interference",
+    "path": "blog/in-laws-interference/index.html",
+    "url": "https://geshpar.com/blog/in-laws-interference/",
+    "title": "دخالت خانواده همسر | چگونه بدون جنگ، حریم زندگی‌مان را حفظ کنیم؟ | گشپار",
+    "description": "دخالت خانواده همسر، از مادرشوهر تا اطرافیان، یکی از پرتکرارترین تنش‌های زناشویی است. در این مقاله ریشه‌های دخالت، نقش کلیدی همسر و راه‌های عملی ساختن حریم خصوصی زندگی دونفره را می‌خوانید.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "index",
+    "path": "blog/index/index.html",
+    "url": "https://geshpar.com/blog/index/",
+    "title": "وبلاگ گشپار",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "infant-in-crossfire-family-crisis",
+    "path": "blog/infant-in-crossfire-family-crisis/index.html",
+    "url": "https://geshpar.com/blog/infant-in-crossfire-family-crisis/",
+    "title": "نوزاد در میدان جنگ: تحلیل روانکاوانه بحران خانوادگی | گشپار",
+    "description": "تحلیل روانکاوانه یک بحران خانوادگی حاد: پسری با سابقه ازدواج‌های فاجعه‌بار، زنی باردار در آستانه طلاق، و نوزادی که قربانی جنگ والدین شده است. راهکارهای مداخله فوری",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/articles/child-custody-divorce",
+      "/articles/codependency-family-systems",
+      "/articles/domestic-violence-psychology",
+      "/articles/narcissistic-personality-disorder-couples",
+      "/blog",
+      "/blog/deformation-male-personality/",
+      "/blog/toxic-mother-sensitive-daughter-psychoanalysis/",
+      "/contact"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "infidelity-mental-pit",
+    "path": "blog/infidelity-mental-pit/index.html",
+    "url": "https://geshpar.com/blog/infidelity-mental-pit/",
+    "title": "چاله یا چوله؟ وقتی خیانت همسر، ذهن را به سیاه‌چال تبدیل می‌کند",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "infidelity-mental-pit.html",
+    "path": "blog/infidelity-mental-pit.html/index.html",
+    "url": "https://geshpar.com/blog/infidelity-mental-pit.html/",
+    "title": "چاله یا چوله؟ وقتی خیانت همسر، ذهن را به سیاه‌چال تبدیل می‌کند",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "infidelity-trust-crisis-family-destruction",
+    "path": "blog/infidelity-trust-crisis-family-destruction/index.html",
+    "url": "https://geshpar.com/blog/infidelity-trust-crisis-family-destruction/",
+    "title": "وقتی شک به خیانت، خانواده را نابود می‌کند | تحلیل روانکاوانه | گشپار",
+    "description": "تحلیل روانکاوانه یک مکالمه واقعی: وقتی شک به خیانت، خانواده را نابود می‌کند. بررسی دینامیک پارانویا، فرافکنی و تأثیر مخرب بی‌اعتمادی بر کودکان",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/articles/children-divorce-impact",
+      "/articles/couples-therapy-benefits",
+      "/articles/emotional-violence-recognition",
+      "/articles/paranoia-relationships",
+      "/articles/trust-rebuilding-guide",
+      "/blog",
+      "/blog/repetition-compulsion-control-freedom-psychoanalysis/",
+      "/contact"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "intergenerational-trauma-loyalty",
+    "path": "blog/intergenerational-trauma-loyalty/index.html",
+    "url": "https://geshpar.com/blog/intergenerational-trauma-loyalty/",
+    "title": "ترومای بین‌نسلی و تعارض وفاداری | روانکاوی رازهای خانوادگی",
+    "description": "تحلیل روانکاوانه تأثیر خیانت والدین بر فرزندان. بررسی مفاهیم Intergenerational Trauma، Loyalty Conflict و انتقال بین‌نسلی رازهای سمی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "khastegari-complete-guide",
+    "path": "blog/khastegari-complete-guide/index.html",
+    "url": "https://geshpar.com/blog/khastegari-complete-guide/",
+    "title": "راهنمای کامل خواستگاری: چه بپرسیم، کی بپرسیم، چه بگوییم؟ | مفید مقصودی",
+    "description": "راهنمای روانشناس دارای پروانه برای خواستگاری و آشنایی قبل از ازدواج: نشانه‌های هشدار، سوال‌های قرار اول، زمان درست مسائل مالی، گفتنِ عقد قبلی و بیماری.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "let-your-child-fail",
+    "path": "blog/let-your-child-fail/index.html",
+    "url": "https://geshpar.com/blog/let-your-child-fail/",
+    "title": "بگذار فرزندت شکست بخورد | حقِ شکست و رشد | گِسپَر",
+    "description": "چرا نباید جلوی شکست فرزند بالغ را بگیریم؟ تحلیل روانشناختی ترس والدین از شکست فرزند و پارادوکس نجات دادن.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "long-distance-marriage-reality",
+    "path": "blog/long-distance-marriage-reality/index.html",
+    "url": "https://geshpar.com/blog/long-distance-marriage-reality/",
+    "title": "ازدواج راه دور: توهم نزدیکی در فاصله‌های دور",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "long-distance-marriage-reality.html",
+    "path": "blog/long-distance-marriage-reality.html/index.html",
+    "url": "https://geshpar.com/blog/long-distance-marriage-reality.html/",
+    "title": "ازدواج راه دور: توهم نزدیکی در فاصله‌های دور",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "love-as-transaction",
+    "path": "blog/love-as-transaction/index.html",
+    "url": "https://geshpar.com/blog/love-as-transaction/",
+    "title": "محبت به مثابه معامله: وقتی عشق تبدیل به دادوستد می‌شود | کلینیک پارسنگ",
+    "description": "تحلیل روانشناختی روابط معامله‌ای در ازدواج؛ بررسی ریشه‌های عشق مشروط و راهکارهای خروج از چرخه حساب‌کشی عاطفی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/control-freak-marriage/",
+      "/blog/emotional-addiction/",
+      "/blog/toxic-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "marital-paranoia",
+    "path": "blog/marital-paranoia/index.html",
+    "url": "https://geshpar.com/blog/marital-paranoia/",
+    "title": "سوءظن زناشویی: وقتی شک تبدیل به واقعیت جایگزین می‌شود | کلینیک پارسنگ",
+    "description": "تحلیل روانشناختی سوءظن‌های بیمارگونه در روابط زناشویی؛ بررسی تفاوت بین شک سالم و پارانویای زناشویی و راهکارهای درمان.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/control-freak-marriage/",
+      "/blog/denial-and-repetition/",
+      "/blog/obsessive-thoughts-marriage/",
+      "/blog/therapy-mirror-projection/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "marriage-boundaries-humor",
+    "path": "blog/marriage-boundaries-humor/index.html",
+    "url": "https://geshpar.com/blog/marriage-boundaries-humor/",
+    "title": "مرزهای شوخی در ازدواج: وقتی سبک‌های ارتباطی با هم برخورد می‌کنند | کلینیک پارسنگ",
+    "description": "تحلیل روانشناختی تعارضات ناشی از تفاوت در سبک‌های شوخی و صمیمیت؛ بررسی راهکارهای تنظیم مرزهای مشترک بدون سرکوب شخصیت.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/family-boundaries-assertiveness/",
+      "/blog/family-boundaries/",
+      "/blog/workplace-boundaries-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "marriage-control-dynamic",
+    "path": "blog/marriage-control-dynamic/index.html",
+    "url": "https://geshpar.com/blog/marriage-control-dynamic/",
+    "title": "پویایی کنترل در ازدواج: رقص ناخودآگاه تعقیب و گریز | کلینیک پارسنگ",
+    "description": "تحلیل روانشناختی پویایی‌های کنترل در روابط زناشویی؛ بررسی چرخه معیوب تعقیب و گریز و راهکارهای شکستن این الگو.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/control-freak-marriage/",
+      "/blog/control-war-marriage/",
+      "/blog/family-boundaries/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "masculine-husband-dynamic",
+    "path": "blog/masculine-husband-dynamic/index.html",
+    "url": "https://geshpar.com/blog/masculine-husband-dynamic/",
+    "title": "مردِ پسرانه: وقتی همسرت با تو مثل یک رفیق حرف می‌زند، نه یک زن",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "masculine-husband-dynamic.html",
+    "path": "blog/masculine-husband-dynamic.html/index.html",
+    "url": "https://geshpar.com/blog/masculine-husband-dynamic.html/",
+    "title": "مردِ پسرانه: وقتی همسرت با تو مثل یک رفیق حرف می‌زند، نه یک زن",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/family-boundaries.html",
+      "/blog/infidelity-mental-pit.html",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "mindfulness",
+    "path": "blog/mindfulness/index.html",
+    "url": "https://geshpar.com/blog/mindfulness/",
+    "title": "ذهن‌آگاهی چیست؟ راهنمای سادهٔ شروع | وبلاگ پارسنگ",
+    "description": "ذهن‌آگاهی یعنی حضور آگاهانه در لحظهٔ اکنون. در این راهنمای ساده یاد می‌گیرید ذهن‌آگاهی چیست، چه فوایدی دارد و چگونه فقط با روزی ۵ دقیقه شروع کنید.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "modern-tragedy-mother-shadow",
+    "path": "blog/modern-tragedy-mother-shadow/index.html",
+    "url": "https://geshpar.com/blog/modern-tragedy-mother-shadow/",
+    "title": "وقتی مادر در آینه‌ی عروس، هیولای درونش را می‌بیند: تحلیل روانکاوانه یک تراژدی مدرن | گشپار",
+    "description": "تحلیل روانکاوانه و اسطوره‌ای یک کیس پیچیده: مادری که با فروش نقش قربانی به پسر، عروس را آینه‌ی هیولای درون خود می‌بیند و سهراب را قربانی می‌کند.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "mother-daughter-boundary-marriage-crisis",
+    "path": "blog/mother-daughter-boundary-marriage-crisis/index.html",
+    "url": "https://geshpar.com/blog/mother-daughter-boundary-marriage-crisis/",
+    "title": "وقتی مادر، دادگاه خصوصی دختر متاهل می‌شود | تحلیل روانکاوانه | گشپار",
+    "description": "تحلیل روانکاوانه یک مکالمه واقعی: وقتی مادر تبدیل به گوش شنوا برای شکایت‌های دختر متاهل می‌شود. بررسی دینامیک مثلث‌سازی، مرزهای ناسالم و خطر فروپاشی ازدواج",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/articles/emotional-independence-marriage",
+      "/articles/family-boundaries-guide",
+      "/articles/healthy-empathy-vs-false-support",
+      "/articles/parental-interference-consequences",
+      "/articles/triangulation-family-systems",
+      "/blog",
+      "/blog/toxic-mother-sensitive-daughter-psychoanalysis/",
+      "/contact"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "mother-son-addiction",
+    "path": "blog/mother-son-addiction/index.html",
+    "url": "https://geshpar.com/blog/mother-son-addiction/",
+    "title": "پسر ۲۲ ساله‌ام رفیق‌باز است؛ وقتی مراقبتِ مادر اعتیاد می‌شود | گشپار",
+    "description": "پسر ۲۲ ساله‌ام دیر به خانه می‌آید و رفیق‌باز است؛ آیا مشکل فقط اوست؟ تحلیلی بر اعتیاد پنهان مادرانه، مغلطه‌ی «با ما باش» و راهکار عملی برای مادران نگران.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "mother-son-conflict",
+    "path": "blog/mother-son-conflict/index.html",
+    "url": "https://geshpar.com/blog/mother-son-conflict/",
+    "title": "جنگ ریتم‌ها در خانه؛ وقتی انرژی پسر با آرامش مادر برخورد می‌کند | گشپار",
+    "description": "چرا مادر و پسر مثل دو سیارهٔ متفاوت‌اند؟ تحلیل روانشناختی تعارض انرژی نوجوان و نیاز مادر به آرامش، و راه‌های قرارداد صلح در خانه.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "mutual-anger-cycle-psychoanalysis",
+    "path": "blog/mutual-anger-cycle-psychoanalysis/index.html",
+    "url": "https://geshpar.com/blog/mutual-anger-cycle-psychoanalysis/",
+    "title": "وقتی رابطه به میدان جنگ تبدیل می‌شود: روانکاوی خشم متقابل | پارسنگ",
+    "description": "تحلیل روانکاوانه کیس بالینی: چرا برخی زوج‌ها پس از سال‌ها زندگی مشترک، رابطه‌شان به چرخه‌ای از فحاشی و تخریب روانی تبدیل می‌شود؟ بررسی مثلث کارپمن و راهکارهای خروج از بن‌بست.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "narcissistic-spouse",
+    "path": "blog/narcissistic-spouse/index.html",
+    "url": "https://geshpar.com/blog/narcissistic-spouse/",
+    "title": "همسر خودشیفته | راهنمای بقا در زندگی با نارسیسیست | گشپار",
+    "description": "زندگی با همسر خودشیفته فرساینده‌ترین تجربه‌ی زناشویی است. نشانه‌های همسر نارسیسیست، چرخه‌ی ایده‌آل‌سازی و تحقیر، و راه‌های عملی حفظ خود را در این مقاله بخوانید.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "obsessive-cleaning-analysis",
+    "path": "blog/obsessive-cleaning-analysis/index.html",
+    "url": "https://geshpar.com/blog/obsessive-cleaning-analysis/",
+    "title": "وسواس تمیزی و اضطراب جدایی: تحلیل روانکاوانه | گشپار",
+    "description": "تحلیل عمیق وسواس تمیزی، اضطراب جدایی از خانواده و تأثیرات آن بر روابط زناشویی و فرزندپروری",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about",
+      "/about.html",
+      "/blog",
+      "/blog/family-boundaries/",
+      "/blog/infidelity-mental-pit/",
+      "/blog/masculine-husband-dynamic/",
+      "/blog/running-away-survival/",
+      "/contact",
+      "/css/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "obsessive-surveillance-psychoanalysis",
+    "path": "blog/obsessive-surveillance-psychoanalysis/index.html",
+    "url": "https://geshpar.com/blog/obsessive-surveillance-psychoanalysis/",
+    "title": "وقتی شریک عاطفی شما را فریب می‌دهد: روانکاوی وسواس مراقبتی | پارسنگ",
+    "description": "تحلیل روانکاوانه کیس بالینی: چرا برخی افراد با وجود خیانت‌های مکرر شریک عاطفی، همچنان در رابطه می‌مانند؟ بررسی وسواس مراقبتی، فرافکنی و نقش عزت نفس در روابط سمی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "obsessive-thoughts-marriage",
+    "path": "blog/obsessive-thoughts-marriage/index.html",
+    "url": "https://geshpar.com/blog/obsessive-thoughts-marriage/",
+    "title": "وسواس فکری در ازدواج: وقتی یک قرص تبدیل به سند خیانت می‌شود | کلینیک پارسنگ",
+    "description": "تحلیل روانشناختی وسواس‌های فکری در روابط زناشویی؛ بررسی تفاوت بین شک سالم و وسواس بیمارگونه و راهکارهای درمان.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/control-freak-marriage/",
+      "/blog/emotional-addiction/",
+      "/blog/infidelity-mental-pit/",
+      "/blog/marital-paranoia/",
+      "/blog/therapy-mirror-projection/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "ocd-addiction-spouse",
+    "path": "blog/ocd-addiction-spouse/index.html",
+    "url": "https://geshpar.com/blog/ocd-addiction-spouse/",
+    "title": "وقتی وسواس، زندگی را فلج می‌کند: تحلیل کیس OCD در مواجهه با اعتیاد همسر | گشپار",
+    "description": "تحلیل روانکاوانه یک کیس واقعی: چگونه وسواس فکری-عملی (OCD) باعث فلج شدن تصمیم‌گیری در مواجهه با اعتیاد همسر می‌شود؟ بررسی الگوهای فکری وسواسی و راهکارهای درمانی تخصصی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/apology-anxiety-teen/",
+      "/blog/emotional-addiction/",
+      "/blog/family-boundaries-assertiveness/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "ocd-marriage-decision",
+    "path": "blog/ocd-marriage-decision/index.html",
+    "url": "https://geshpar.com/blog/ocd-marriage-decision/",
+    "title": "فلجِ انتخاب: روانکاوی وسواس و کمال‌طلبی در تصمیم‌گیری ازدواج | گشپار",
+    "description": "تحلیل عمیق یک کیس بالینی: چرا دختری با شرایط عالی، مدام خواستگاران خوب را رد می‌کند؟ بررسی روانکاوانه اختلال وسواس، ترس از اشتباه و کنترل‌گری والدین در فرآیند ازدواج.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "online-counseling",
+    "path": "blog/online-counseling/index.html",
+    "url": "https://geshpar.com/blog/online-counseling/",
+    "title": "مشاوره آنلاین یا حضوری؟ کدام بهتر است؟ | وبلاگ پارسنگ",
+    "description": "مشاوره آنلاین یا حضوری؟ مقایسهٔ کامل مزایا و محدودیت‌های هر کدام به‌همراه نظر علم. بدانید کدام سبک مشاوره برای شرایط شما مناسب‌تر است.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "phone-addiction-social-anxiety",
+    "path": "blog/phone-addiction-social-anxiety/index.html",
+    "url": "https://geshpar.com/blog/phone-addiction-social-anxiety/",
+    "title": "اعتیاد به گوشی و خجالت اجتماعی: وقتی تکنولوژی جایگزین صمیمیت می‌شود | گشپار",
+    "description": "تحلیل روانکاوانه اعتیاد به گوشی، خجالت اجتماعی و تأثیر آن بر روابط زناشویی و فرزندپروری",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about",
+      "/about.html",
+      "/blog",
+      "/blog/family-boundaries/",
+      "/blog/infidelity-mental-pit/",
+      "/blog/masculine-husband-dynamic/",
+      "/blog/obsessive-cleaning-analysis/",
+      "/contact",
+      "/css/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "polite-child-danger",
+    "path": "blog/polite-child-danger/index.html",
+    "url": "https://geshpar.com/blog/polite-child-danger/",
+    "title": "کودکِ بیش‌ازحد ساکت؛ وقتی «بزرگ بودن» فریادِ خاموشِ کمک است | گشپار",
+    "description": "خطرِ «خودِ کاذب» در بچه‌های مؤدب و ساکت؛ تحلیل روانشناختی و راه‌های بازگرداندنِ کودکی به کودک.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "preemptive-breakup",
+    "path": "blog/preemptive-breakup/index.html",
+    "url": "https://geshpar.com/blog/preemptive-breakup/",
+    "title": "چرا قبل از اینکه طرد شوم، خودم رابطه را تمام می‌کنم؟ | گِسپَر",
+    "description": "تحلیل روانشناختی مکانیزم دفاعی «فرار پیش‌دستانه»: چرا وقتی می‌ترسیم رها شویم، زودتر ما رها می‌کنیم؟ راهکار غلبه بر ترس از دلبستگی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "preemptive-breakup-test",
+    "path": "blog/preemptive-breakup-test/index.html",
+    "url": "https://geshpar.com/blog/preemptive-breakup-test/",
+    "title": "تست: آیا شما دچار «فرار پیش‌دستانه» هستید؟ | گِسپَر",
+    "description": "آیا وقتی رابطه خوب پیش می‌رود، ناخودآگاه آن را خراب می‌کنید؟ این تست روانشناختی را بدهید تا متوجه شوید الگوی رفتاری شما چیست.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "pregnancy-rage-guilt",
+    "path": "blog/pregnancy-rage-guilt/index.html",
+    "url": "https://geshpar.com/blog/pregnancy-rage-guilt/",
+    "title": "خشم مقدس: روانکاوی پرخاشگری دوران بارداری و احساس گناه مادرانه | گشپار",
+    "description": "تحلیل عمیق یک کیس بالینی: چرا یک زن باردار مهربان، ناگهان تبدیل به همسری پرخاشگر می‌شود؟ بررسی روانکاوانه طوفان هورمونی، احساس گناه و ترس‌های ناخودآگاه دوران بارداری.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "psychology-of-rescue-fantasy",
+    "path": "blog/psychology-of-rescue-fantasy/index.html",
+    "url": "https://geshpar.com/blog/psychology-of-rescue-fantasy/",
+    "title": "گودال مشترک: تحلیل روانکاوانه چرخه شکست و ترس از رهایی | گشپار",
+    "description": "تحلیل عمیق دینامیک قربانی-جلاد، ترس از استقلال و مکانیسم‌های دفاعی در یک رابطه سمی با رویکرد وجودی و فرویدی",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog",
+      "/blog/domestic-violence-psychoanalysis/",
+      "/blog/existential-courage/",
+      "/blog/family-enmeshment-analysis/",
+      "/contact",
+      "/css/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "push-out-pull-in-paradox",
+    "path": "blog/push-out-pull-in-paradox/index.html",
+    "url": "https://geshpar.com/blog/push-out-pull-in-paradox/",
+    "title": "دو زن، یک در: فرمان «برو» و فرمان «نرو» چه چیزی را پنهان می‌کنند؟",
+    "description": "دو روایت واقعی از یک در: زنی که شوهرش می‌گوید «برو خونه پدرت» و زنی که شوهرش می‌گوید «نرو». تحلیل افتراقی فرمان‌های متضاد زناشویی و راه بازگرداندن رأی به زن. با ۳۰ سال تجربه بالینی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/dependency-narcissism-cycle.html",
+      "/blog/weekend-alone.html",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "rebuilding-trust-after-conflict",
+    "path": "blog/rebuilding-trust-after-conflict/index.html",
+    "url": "https://geshpar.com/blog/rebuilding-trust-after-conflict/",
+    "title": "از جنگ اعصاب تا آرامش: نقشهٔ راه نجات ازدواج‌های در حال فروپاشی",
+    "description": "راهنمای عملی برای زوج‌هایی که در چرخهٔ دعوا و سردی گیر کرده‌اند. گام‌به‌گام تا بازسازی اعتماد و ایجاد صلح در خانه.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "recurring-arguments-marriage",
+    "path": "blog/recurring-arguments-marriage/index.html",
+    "url": "https://geshpar.com/blog/recurring-arguments-marriage/",
+    "title": "راز دعواهای تکراری: چگونه سیگنال‌های پنهان رابطه را نابود می‌کنند؟ | گشپار",
+    "description": "تحلیل روانکاوانه یک کیس واقعی از دعواهای تکراری زناشویی؛ بررسی نقش سیگنال‌های پنهان پشت صحنه و راهکارهای شکستن چرخه معیوب.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/apology-anxiety-teen/",
+      "/blog/codependency-marriage/",
+      "/blog/emotional-addiction/",
+      "/blog/family-boundaries-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "regular-man",
+    "path": "blog/regular-man/index.html",
+    "url": "https://geshpar.com/blog/regular-man/",
+    "title": "مرد منظم؛ وقتی «درست بودن» خانه را تنگ می‌کند | پارسنگ",
+    "description": "داستان مردی که همه‌چیز را مرتب می‌چیند جز قلب همسرش؛ خوانش روانکاوانهٔ چرخهٔ کنترل و فرار در ازدواج و راهکارهای عملی. مفید مقصودی، روانشناس بالینی — پروانهٔ ۲۱۶۸.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "repeated-betrayal-cycle-psychoanalysis",
+    "path": "blog/repeated-betrayal-cycle-psychoanalysis/index.html",
+    "url": "https://geshpar.com/blog/repeated-betrayal-cycle-psychoanalysis/",
+    "title": "وقتی همسرتان مدام خیانت می‌کند: روانکاوی چرخه تکرار | پارسنگ",
+    "description": "تحلیل روانکاوانه کیس بالینی: چرا برخی زوجین پس از سال‌ها زندگی مشترک، در چرخه معیوب خیانت و پشیمانی گرفتار می‌شوند؟ بررسی نقش مهارت‌های کلامی و طرحواره ایثار.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "repetition-compulsion-control-freedom-psychoanalysis",
+    "path": "blog/repetition-compulsion-control-freedom-psychoanalysis/index.html",
+    "url": "https://geshpar.com/blog/repetition-compulsion-control-freedom-psychoanalysis/",
+    "title": "چرا همسران خوب، خیانت می‌کنند؟ | تحلیل روانکاوانه عمیق | گشپار",
+    "description": "تحلیل روانکاوانه عمیق یک پرونده خیانت: تکرار اجباری، فرافکنی سایه، و نقش پدر درون. بررسی کیس لیلا از منظر فروید، کلاین، وینیکات و یونگ",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/articles/false-self-syndrome",
+      "/articles/projective-identification",
+      "/articles/repetition-compulsion",
+      "/articles/shadow-work-guide",
+      "/blog",
+      "/blog/deformation-male-personality/",
+      "/blog/toxic-mother-sensitive-daughter-psychoanalysis/",
+      "/contact"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "right-choice",
+    "path": "blog/right-choice/index.html",
+    "url": "https://geshpar.com/blog/right-choice/",
+    "title": "انتخاب درست | دختری که زندگیش دو پارت بود (۱) | پارسنگ",
+    "description": "قسمت اول روایت درمانی پارسنگ: فرزند خانوادهٔ درگیر اعتیاد چگونه با «انتخاب درست»، زندگی‌اش را از سایهٔ شرم و مسئولیتِ ناخواسته پس می‌گیرد؟",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "right-path",
+    "path": "blog/right-path/index.html",
+    "url": "https://geshpar.com/blog/right-path/",
+    "title": "مسیر درست | دختری که زندگیش دو پارت بود (۲) | پارسنگ",
+    "description": "قسمت دوم روایت درمانی پارسنگ: بعد از انتخاب درست، مسیر درست چگونه طی می‌شود؟ مرزهای سالم، مهارت نه گفتن، شفافیت گزینشی و تمثیل‌های کتاب خیس و ماشین پنچر.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "right-return",
+    "path": "blog/right-return/index.html",
+    "url": "https://geshpar.com/blog/right-return/",
+    "title": "بازگشت درست | دختری که زندگیش دو پارت بود (۳) | پارسنگ",
+    "description": "قسمت پایانی روایت درمانی پارسنگ: بازگشت درست؛ عبور از گناه بازمانده و تعارض وفاداری، و آشتی با خود و رابطه‌ها پس از زندگی در سایهٔ اعتیاد خانواده.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "running-away-survival",
+    "path": "blog/running-away-survival/index.html",
+    "url": "https://geshpar.com/blog/running-away-survival/",
+    "title": "فرار از خانه: وقتی بقا مهم‌تر از قانون است",
+    "description": "تحلیل روانشناختی پدیده فرار از خانه و راهکارهای حمایتی برای جوانان در معرض خطر",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "running-away-survival.html",
+    "path": "blog/running-away-survival.html/index.html",
+    "url": "https://geshpar.com/blog/running-away-survival.html/",
+    "title": "فرار از خانه: وقتی بقا مهم‌تر از قانون است",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/family-boundaries.html",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "self-sacrifice-trap",
+    "path": "blog/self-sacrifice-trap/index.html",
+    "url": "https://geshpar.com/blog/self-sacrifice-trap/",
+    "title": "تله‌ی ایثار: وقتی فداکاری تبدیل به زندان می‌شود",
+    "description": "تحلیل روانکاوانه کیس پیرزن فداکار. بررسی مکانیسم‌های دفاعی ایثار بیمارگونه، مثلث دراماتیک کارپمن و ترس عمیق از تنهایی در دوران سالمندی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "shabgoft-01",
+    "path": "blog/shabgoft-01/index.html",
+    "url": "https://geshpar.com/blog/shabgoft-01/",
+    "title": "شب‌گفتِ نخست: بازگشتن به راه | گِسپَر",
+    "description": "درد دل خوشه‌چین دربارهٔ بازگشت به مسیر رشد و ترس از هول حلیم.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "shabgoft-02",
+    "path": "blog/shabgoft-02/index.html",
+    "url": "https://geshpar.com/blog/shabgoft-02/",
+    "title": "شب‌گفتِ دوم: زمزمه در گوش نسیم | گِسپَر",
+    "description": "درد دل خوشه‌چین دربارهٔ بیداری از روزمرگی، اشتیاق برای شنا در دریای جدید، و لرزشِ پیش از شیرجه.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "shabgoft-03",
+    "path": "blog/shabgoft-03/index.html",
+    "url": "https://geshpar.com/blog/shabgoft-03/",
+    "title": "شب‌گفت: پارسنگِ نما و خماریِ درمان",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "shabgoft-03.html",
+    "path": "blog/shabgoft-03.html/index.html",
+    "url": "https://geshpar.com/blog/shabgoft-03.html/",
+    "title": "شب‌گفت: پارسنگِ نما و خماریِ درمان",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "social-class-codependency",
+    "path": "blog/social-class-codependency/index.html",
+    "url": "https://geshpar.com/blog/social-class-codependency/",
+    "title": "blog/social-class-codependency/index.html",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [],
+    "status": "published"
+  },
+  {
+    "slug": "sohrab-tragedy-shadow",
+    "path": "blog/sohrab-tragedy-shadow/index.html",
+    "url": "https://geshpar.com/blog/sohrab-tragedy-shadow/",
+    "title": "تراژدی سهراب و رستم در اتاق نشیمن: وقتی مادر هیولای درونش را می‌کشد | گشپار",
+    "description": "تحلیل روانکاوانه و اسطوره‌ای یک کیس پیچیده: مادری که با فروش نقش قربانی به پسر، عروس را آینه‌ی هیولای درون خود می‌بیند و سهراب را قربانی می‌کند.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "son-of-sister-in-law-uncle-cousin-confusion",
+    "path": "blog/son-of-sister-in-law-uncle-cousin-confusion/index.html",
+    "url": "https://geshpar.com/blog/son-of-sister-in-law-uncle-cousin-confusion/",
+    "title": "جهنم خانوادگی: تحلیل روانکاوانه پرونده آسیب جنسی و خیانت | گشپار",
+    "description": "تحلیل روانکاوانه یک پرونده پیچیده: خیانت سیستماتیک، خشونت خانگی، و آسیب جنسی به کودک. تصحیح نسبت‌های فامیلی و راهکارهای نجات فوری مادر و دختر ۱۱ ساله",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/articles/child-sexual-abuse-recovery",
+      "/articles/codependency-family-systems",
+      "/articles/divorce-custody-laws",
+      "/articles/domestic-violence-psychology",
+      "/blog",
+      "/blog/deformation-male-personality/",
+      "/blog/toxic-mother-sensitive-daughter-psychoanalysis/",
+      "/contact"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "spousal-infidelity",
+    "path": "blog/spousal-infidelity/index.html",
+    "url": "https://geshpar.com/blog/spousal-infidelity/",
+    "title": "خیانت همسر | چرا اتفاق می‌افتد و بعد از آن چه باید کرد؟ | گشپار",
+    "description": "کشف خیانت زناشویی یکی از سنگین‌ترین بحران‌های زندگی است. در این مقاله می‌خوانید چرا خیانت اتفاق می‌افتد، در روزهای اول چه نباید کرد و مسیر ترمیم اعتماد چیست.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "spouse-family-dependency",
+    "path": "blog/spouse-family-dependency/index.html",
+    "url": "https://geshpar.com/blog/spouse-family-dependency/",
+    "title": "وابستگی همسر به خانواده | چگونه مرز «ما»ی زناشویی را بسازیم؟ | گشپار",
+    "description": "وابستگی همسر به خانواده‌اش یکی از پرتنش‌ترین موضوع‌های زناشویی است. در این مقاله ریشه‌های وابستگی، خطِ میان صمیمیت و وابستگی و راه‌های عملی ساختن مرز «ما» را می‌خوانید.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "spouse-neglect",
+    "path": "blog/spouse-neglect/index.html",
+    "url": "https://geshpar.com/blog/spouse-neglect/",
+    "title": "بی توجهی همسر | چرا همسرم به من توجه نمی‌کند و چه باید کرد؟ | گشپار",
+    "description": "بی توجهی همسر یکی از فرساینده‌ترین دردهای زناشویی است. در این مقاله ریشه‌های کم‌توجهی همسر، چرخه‌ی معیوب غر زدن و راه‌های عملی زنده‌کردن توجه در رابطه را می‌خوانید.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "supervision-attachment-trauma",
+    "path": "blog/supervision-attachment-trauma/index.html",
+    "url": "https://geshpar.com/blog/supervision-attachment-trauma/",
+    "title": "سوپرویژن کیس: تروما دلبستگی، ترس از رهاشدگی و چرخه تعقیب-گریز | پارسنگ",
+    "description": "تحلیل جلسه سوپرویژن یک کیس بالینی با محوریت تروما دلبستگی، رفتارهای خودآسیب‌رسان و الگوی تعقیب-گریز در رابطه. راهکارهای درمانی مبتنی بر روانکاوی و طرحواره‌درمانی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "supervision-avoidant-anxious",
+    "path": "blog/supervision-avoidant-anxious/index.html",
+    "url": "https://geshpar.com/blog/supervision-avoidant-anxious/",
+    "title": "سوپرویژن بالینی: رقص تعقیب و گریز در دلبستگی ناایمن",
+    "description": "تحلیل سوپرویژن کیس بالینی زن بیوه با سبک دلبستگی اجتنابی و پارتنر دوسوگرا. بررسی مکانیسم‌های دفاعی، انتقال متقابل و استراتژی‌های مداخله.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "suspicion-control-trap",
+    "path": "blog/suspicion-control-trap/index.html",
+    "url": "https://geshpar.com/blog/suspicion-control-trap/",
+    "title": "چرا حتی محبت را هم بد می‌بینم؟ تلهٔ سوءظن و کنترل‌گری | گِسپَر",
+    "description": "تحلیل روانشناختی «سوءظن مرضی» و کنترل‌گری: چرا وقتی کسی به ما محبت می‌کند، شک می‌کنیم؟ چگونه عینک بدبینی، بهترین‌ها را فراری می‌دهد؟",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "suspicion-or-betrayal",
+    "path": "blog/suspicion-or-betrayal/index.html",
+    "url": "https://geshpar.com/blog/suspicion-or-betrayal/",
+    "title": "وقتی شک، زندگی را فلج می‌کند | درمان سوءظن یا جدایی؟ | گِسپَر",
+    "description": "آیا شک شما واقعی است یا بیمارگونه؟ تحلیل روانشناختی سوءظن در زندگی زناشویی و چارچوب تصمیم: درمانِ شک، یا جدایی از خیانتکار.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "therapy-mirror-projection",
+    "path": "blog/therapy-mirror-projection/index.html",
+    "url": "https://geshpar.com/blog/therapy-mirror-projection/",
+    "title": "وقتی درمانگر می‌گوید: «مشکل از توست، نه همسرت» | گشپار",
+    "description": "تحلیل روانکاوانه یک جلسه درمان: چرا با وجود خیانت همسر، بیمار احساس گناه می‌کند؟ بررسی دینامیک فرافکنی، کنترل‌گری و نیاز به اصلاح خود قبل از ازدواج مجدد.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/control-freak-marriage/",
+      "/blog/marital-paranoia/",
+      "/blog/obsessive-thoughts-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "toxic-marriage",
+    "path": "blog/toxic-marriage/index.html",
+    "url": "https://geshpar.com/blog/toxic-marriage/",
+    "title": "ازدواج سمی: سی سال رانندگی غلط و بن‌بست رابطه | کلینیک پارسنگ",
+    "description": "تحلیل روانشناختی ازدواج‌های سمی؛ بررسی چرخه معیوب خشونت، کنترل‌گری و راهکارهای خروج از بن‌بست بدون احساس گناه.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/control-freak-marriage/",
+      "/blog/control-war-marriage/",
+      "/blog/emotional-addiction/",
+      "/blog/verbal-violence-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "toxic-mother-sensitive-daughter-psychoanalysis",
+    "path": "blog/toxic-mother-sensitive-daughter-psychoanalysis/index.html",
+    "url": "https://geshpar.com/blog/toxic-mother-sensitive-daughter-psychoanalysis/",
+    "title": "زخم ناسور: وقتی مادر، تیغ می‌زند و دختر، نمک می‌پاشد",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "toxic-mother-sensitive-daughter-psychoanalysis.html",
+    "path": "blog/toxic-mother-sensitive-daughter-psychoanalysis.html/index.html",
+    "url": "https://geshpar.com/blog/toxic-mother-sensitive-daughter-psychoanalysis.html/",
+    "title": "زخم ناسور: وقتی مادر، تیغ می‌زند و دختر، نمک می‌پاشد",
+    "description": "",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "untreated-mood-disorder-marriage",
+    "path": "blog/untreated-mood-disorder-marriage/index.html",
+    "url": "https://geshpar.com/blog/untreated-mood-disorder-marriage/",
+    "title": "وقتی خانه میدان جنگ می‌شود: روانکاوی ازدواج با فرد مبتلا به اختلال خلقی درمان‌نشده | گشپار",
+    "description": "تحلیل عمیق یک کیس بالینی بحرانی: مردی که ۱۰ سال در جهنمی از خشونت کلامی و فیزیکی همسرش زندگی کرده است. بررسی روانکاوانه نقش دارو (سرترالین)، تأثیر مخرب بر کودک و ضرورت تصمیم‌گیری قاطع.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/contact/"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "verbal-violence-marriage",
+    "path": "blog/verbal-violence-marriage/index.html",
+    "url": "https://geshpar.com/blog/verbal-violence-marriage/",
+    "title": "وقتی کلمات تبدیل به اسلحه می‌شوند: تحلیل کیس خشونت کلامی و فیزیکی | گشپار",
+    "description": "تحلیل روانکاوانه یک جلسه درمان: چگونه کلمات می‌توانند مانند گلوله عمل کنند؟ بررسی دینامیک‌های خشونت کلامی، تحریک‌پذیری و چرخه معیوب خشم در روابط زناشویی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/control-war-marriage/",
+      "/blog/family-boundaries-assertiveness/",
+      "/blog/toxic-marriage/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "weekend-alone",
+    "path": "blog/weekend-alone/index.html",
+    "url": "https://geshpar.com/blog/weekend-alone/",
+    "title": "آخر هفته‌های تنها: چرا همسرم وقت نمی‌ذاره؟ | تحلیل یک مکالمه واقعی",
+    "description": "تحلیل روانکاوی یک مکالمه واقعی: زنی که احساس تنهایی می‌کند و شوهری که فقط می‌خواهد بخوابد. آیا مشکل از خستگی است یا فاصله عاطفی؟ راهکارهای عملی از دکتر مفید مقصودی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "when-reconciliation-is-dangerous",
+    "path": "blog/when-reconciliation-is-dangerous/index.html",
+    "url": "https://geshpar.com/blog/when-reconciliation-is-dangerous/",
+    "title": "وقتی آشتی کردن خطرناک است: مرز بین «تفاوت» و «سوءاستفاده»",
+    "description": "آیا باید برای حفظ خانواده هر هزینه‌ای پرداخت؟ تحلیل روانکاوانه تفاوت بین پذیرش محدودیت‌های زندگی و تحمل رفتارهای آسیب‌زا. راهکارهای تعیین مرز سالم در روابط طولانی‌مدت.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "why-husband-starts-fights",
+    "path": "blog/why-husband-starts-fights/index.html",
+    "url": "https://geshpar.com/blog/why-husband-starts-fights/",
+    "title": "چرا شوهرم سر هر چیزی دعوا راه می‌اندازد؟ | تحلیل روانشناسی پرخاشگری مردان",
+    "description": "تحلیل روانشناختی پرخاشگری غیرمستقیم مردان، تحقیر در ازدواج، و راهکارهای مقابله با چرخهٔ تعقیب و گریز در زندگی مشترک.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "workplace-boundaries-marriage",
+    "path": "blog/workplace-boundaries-marriage/index.html",
+    "url": "https://geshpar.com/blog/workplace-boundaries-marriage/",
+    "title": "مرزهای ارتباطی در محیط کار: وقتی صمیمیت همکاران به حریم خانواده نفوذ می‌کند | کلینیک پارسنگ",
+    "description": "تحلیل روانشناختی تعارضات ناشی از روابط صمیمانه در محیط کار؛ بررسی راهکارهای تنظیم مرزهای سالم بدون ایجاد تنش در زندگی زناشویی.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html",
+      "/blog/",
+      "/blog/family-boundaries-assertiveness/",
+      "/blog/marital-paranoia/",
+      "/blog/marriage-boundaries-humor/",
+      "/contact/",
+      "/parsang.css"
+    ],
+    "status": "published"
+  },
+  {
+    "slug": "you-are-not-the-main-actor",
+    "path": "blog/you-are-not-the-main-actor/index.html",
+    "url": "https://geshpar.com/blog/you-are-not-the-main-actor/",
+    "title": "تو بازیگر نقش اول زندگی فرزندت نیستی | گِسپَر",
+    "description": "چرا والدین فکر می‌کنند نقش اول داستان فرزندشان هستند؟ تحلیل روانشناختی «توهم کنترل» و هنر تبدیل شدن به تماشاگر مهربان.",
+    "category": "blog",
+    "date": "2026-09-03",
+    "internal_links": [
+      "/about.html"
+    ],
+    "status": "published"
   }
-}
+]
