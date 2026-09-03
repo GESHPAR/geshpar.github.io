@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-03 10:15:27",
-  "totalArticles": 204,
-  "uniqueArticles": 204,
+  "lastUpdated": "2026-09-03 10:42:20",
+  "totalArticles": 208,
+  "uniqueArticles": 208,
   "duplicateFiles": 0,
-  "totalSize": "2045.58 KB",
+  "totalSize": "2084.11 KB",
   "articles": [
     {
       "name": "abandoning-mother-psychoanalysis.html",
@@ -657,10 +657,38 @@
       "is_duplicate": false
     },
     {
+      "name": "case-the-absent-voice.html",
+      "path": "blog\\cases\\case-the-absent-voice.html",
+      "size": "9150 bytes",
+      "modified": "2026-09-03 10:18",
+      "is_duplicate": false
+    },
+    {
+      "name": "case-the-biology-excuse.html",
+      "path": "blog\\cases\\case-the-biology-excuse.html",
+      "size": "11426 bytes",
+      "modified": "2026-09-03 10:32",
+      "is_duplicate": false
+    },
+    {
       "name": "case-the-guardian-paradox.html",
       "path": "blog\\cases\\case-the-guardian-paradox.html",
       "size": "9378 bytes",
       "modified": "2026-09-03 10:14",
+      "is_duplicate": false
+    },
+    {
+      "name": "case-the-impossible-request.html",
+      "path": "blog\\cases\\case-the-impossible-request.html",
+      "size": "9087 bytes",
+      "modified": "2026-09-03 10:21",
+      "is_duplicate": false
+    },
+    {
+      "name": "case-the-role-reversal.html",
+      "path": "blog\\cases\\case-the-role-reversal.html",
+      "size": "9793 bytes",
+      "modified": "2026-09-03 10:26",
       "is_duplicate": false
     },
     {
