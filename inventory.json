@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-03 10:07:58",
-  "totalArticles": 203,
-  "uniqueArticles": 203,
+  "lastUpdated": "2026-09-03 10:15:27",
+  "totalArticles": 204,
+  "uniqueArticles": 204,
   "duplicateFiles": 0,
-  "totalSize": "2036.42 KB",
+  "totalSize": "2045.58 KB",
   "articles": [
     {
       "name": "abandoning-mother-psychoanalysis.html",
@@ -654,6 +654,13 @@
       "path": "blog\\cases\\case-safe-cage.html",
       "size": "9536 bytes",
       "modified": "2026-09-03 09:58",
+      "is_duplicate": false
+    },
+    {
+      "name": "case-the-guardian-paradox.html",
+      "path": "blog\\cases\\case-the-guardian-paradox.html",
+      "size": "9378 bytes",
+      "modified": "2026-09-03 10:14",
       "is_duplicate": false
     },
     {
