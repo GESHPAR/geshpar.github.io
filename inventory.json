@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-04 16:51:32",
-  "totalArticles": 189,
-  "uniqueArticles": 189,
+  "lastUpdated": "2026-09-04 16:59:10",
+  "totalArticles": 182,
+  "uniqueArticles": 182,
   "duplicateFiles": 0,
-  "totalSize": "2024.79 KB",
+  "totalSize": "1966.50 KB",
   "articles": [
     {
       "name": "abusive-relationship-thyroid-depression.html",
@@ -118,6 +118,13 @@
       "is_duplicate": false
     },
     {
+      "name": "daughter-recovery-toxic-parent.html",
+      "path": "blog\\daughter-recovery-toxic-parent.html",
+      "size": "10433 bytes",
+      "modified": "2026-09-01 18:11",
+      "is_duplicate": false
+    },
+    {
       "name": "depression-hidden-in-wife.html",
       "path": "blog\\depression-hidden-in-wife.html",
       "size": "417 bytes",
@@ -129,6 +136,13 @@
       "path": "blog\\diagnosing-pathological-lying.html",
       "size": "429 bytes",
       "modified": "2026-08-30 13:04",
+      "is_duplicate": false
+    },
+    {
+      "name": "displaced-grief-silent-aggression.html",
+      "path": "blog\\displaced-grief-silent-aggression.html",
+      "size": "21175 bytes",
+      "modified": "2026-08-31 17:29",
       "is_duplicate": false
     },
     {
@@ -552,66 +566,10 @@
       "is_duplicate": false
     },
     {
-      "name": "daughter-recovery-toxic-parent.html",
-      "path": "blog\\blog\\daughter-recovery-toxic-parent.html",
-      "size": "10433 bytes",
-      "modified": "2026-09-01 18:11",
-      "is_duplicate": false
-    },
-    {
-      "name": "displaced-grief-silent-aggression.html",
-      "path": "blog\\blog\\displaced-grief-silent-aggression.html",
-      "size": "21175 bytes",
-      "modified": "2026-08-31 17:29",
-      "is_duplicate": false
-    },
-    {
       "name": "index.html",
       "path": "blog\\brt-driver-conflict\\index.html",
       "size": "10800 bytes",
       "modified": "2026-08-30 15:10",
-      "is_duplicate": false
-    },
-    {
-      "name": "case-safe-cage.html",
-      "path": "blog\\cases\\case-safe-cage.html",
-      "size": "9536 bytes",
-      "modified": "2026-09-03 09:58",
-      "is_duplicate": false
-    },
-    {
-      "name": "case-the-absent-voice.html",
-      "path": "blog\\cases\\case-the-absent-voice.html",
-      "size": "9150 bytes",
-      "modified": "2026-09-03 10:18",
-      "is_duplicate": false
-    },
-    {
-      "name": "case-the-biology-excuse.html",
-      "path": "blog\\cases\\case-the-biology-excuse.html",
-      "size": "11426 bytes",
-      "modified": "2026-09-03 10:32",
-      "is_duplicate": false
-    },
-    {
-      "name": "case-the-guardian-paradox.html",
-      "path": "blog\\cases\\case-the-guardian-paradox.html",
-      "size": "9378 bytes",
-      "modified": "2026-09-03 10:14",
-      "is_duplicate": false
-    },
-    {
-      "name": "case-the-impossible-request.html",
-      "path": "blog\\cases\\case-the-impossible-request.html",
-      "size": "9087 bytes",
-      "modified": "2026-09-03 10:21",
-      "is_duplicate": false
-    },
-    {
-      "name": "case-the-role-reversal.html",
-      "path": "blog\\cases\\case-the-role-reversal.html",
-      "size": "9793 bytes",
-      "modified": "2026-09-03 10:26",
       "is_duplicate": false
     },
     {
@@ -864,13 +822,6 @@
       "path": "blog\\in-laws-interference\\index.html",
       "size": "14846 bytes",
       "modified": "2026-08-30 15:10",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
-      "path": "blog\\index\\index.html",
-      "size": "1317 bytes",
-      "modified": "2026-09-03 12:21",
       "is_duplicate": false
     },
     {
