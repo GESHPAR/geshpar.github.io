@@ -1,17 +1,10 @@
 {
-  "lastUpdated": "2026-09-04 14:01:13",
-  "totalArticles": 209,
-  "uniqueArticles": 209,
+  "lastUpdated": "2026-09-04 14:40:38",
+  "totalArticles": 189,
+  "uniqueArticles": 189,
   "duplicateFiles": 0,
-  "totalSize": "2064.18 KB",
+  "totalSize": "2024.79 KB",
   "articles": [
-    {
-      "name": "abandoning-mother-psychoanalysis.html",
-      "path": "blog\\abandoning-mother-psychoanalysis.html",
-      "size": "0 bytes",
-      "modified": "2026-08-30 10:22",
-      "is_duplicate": false
-    },
     {
       "name": "abusive-relationship-thyroid-depression.html",
       "path": "blog\\abusive-relationship-thyroid-depression.html",
@@ -125,13 +118,6 @@
       "is_duplicate": false
     },
     {
-      "name": "deformation-male-personality.html",
-      "path": "blog\\deformation-male-personality.html",
-      "size": "0 bytes",
-      "modified": "2026-08-30 10:22",
-      "is_duplicate": false
-    },
-    {
       "name": "depression-hidden-in-wife.html",
       "path": "blog\\depression-hidden-in-wife.html",
       "size": "417 bytes",
@@ -181,24 +167,10 @@
       "is_duplicate": false
     },
     {
-      "name": "false-confidence-relationships.html",
-      "path": "blog\\false-confidence-relationships.html",
-      "size": "0 bytes",
-      "modified": "2026-08-30 10:22",
-      "is_duplicate": false
-    },
-    {
       "name": "family-boundaries-assertiveness.html",
       "path": "blog\\family-boundaries-assertiveness.html",
       "size": "435 bytes",
       "modified": "2026-08-30 13:04",
-      "is_duplicate": false
-    },
-    {
-      "name": "family-boundaries.html",
-      "path": "blog\\family-boundaries.html",
-      "size": "0 bytes",
-      "modified": "2026-08-30 10:22",
       "is_duplicate": false
     },
     {
@@ -251,13 +223,6 @@
       "is_duplicate": false
     },
     {
-      "name": "infidelity-mental-pit.html",
-      "path": "blog\\infidelity-mental-pit.html",
-      "size": "0 bytes",
-      "modified": "2026-08-30 10:22",
-      "is_duplicate": false
-    },
-    {
       "name": "intergenerational-trauma-loyalty.html",
       "path": "blog\\intergenerational-trauma-loyalty.html",
       "size": "438 bytes",
@@ -276,20 +241,6 @@
       "path": "blog\\let-your-child-fail.html",
       "size": "399 bytes",
       "modified": "2026-08-30 13:04",
-      "is_duplicate": false
-    },
-    {
-      "name": "long-distance-marriage-reality.html",
-      "path": "blog\\long-distance-marriage-reality.html",
-      "size": "0 bytes",
-      "modified": "2026-08-30 10:22",
-      "is_duplicate": false
-    },
-    {
-      "name": "masculine-husband-dynamic.html",
-      "path": "blog\\masculine-husband-dynamic.html",
-      "size": "0 bytes",
-      "modified": "2026-08-30 10:22",
       "is_duplicate": false
     },
     {
@@ -405,13 +356,6 @@
       "is_duplicate": false
     },
     {
-      "name": "running-away-survival.html",
-      "path": "blog\\running-away-survival.html",
-      "size": "0 bytes",
-      "modified": "2026-08-30 10:22",
-      "is_duplicate": false
-    },
-    {
       "name": "safety-plan-domestic-violence.html",
       "path": "blog\\safety-plan-domestic-violence.html",
       "size": "8839 bytes",
@@ -437,13 +381,6 @@
       "path": "blog\\shabgoft-02.html",
       "size": "375 bytes",
       "modified": "2026-08-30 13:04",
-      "is_duplicate": false
-    },
-    {
-      "name": "shabgoft-03.html",
-      "path": "blog\\shabgoft-03.html",
-      "size": "0 bytes",
-      "modified": "2026-08-30 10:22",
       "is_duplicate": false
     },
     {
@@ -517,13 +454,6 @@
       "is_duplicate": false
     },
     {
-      "name": "toxic-mother-sensitive-daughter-psychoanalysis.html",
-      "path": "blog\\toxic-mother-sensitive-daughter-psychoanalysis.html",
-      "size": "0 bytes",
-      "modified": "2026-08-30 10:22",
-      "is_duplicate": false
-    },
-    {
       "name": "untreated-mood-disorder-marriage.html",
       "path": "blog\\untreated-mood-disorder-marriage.html",
       "size": "438 bytes",
@@ -556,13 +486,6 @@
       "path": "blog\\abandoning-mother-psychoanalysis\\index.html",
       "size": "1441 bytes",
       "modified": "2026-09-03 12:21",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
-      "path": "blog\\abandoning-mother-psychoanalysis.html\\index.html",
-      "size": "3954 bytes",
-      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
@@ -777,13 +700,6 @@
     },
     {
       "name": "index.html",
-      "path": "blog\\deformation-male-personality.html\\index.html",
-      "size": "3948 bytes",
-      "modified": "2026-08-30 15:10",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
       "path": "blog\\denial-and-repetition\\index.html",
       "size": "15372 bytes",
       "modified": "2026-08-30 15:10",
@@ -861,13 +777,6 @@
     },
     {
       "name": "index.html",
-      "path": "blog\\false-confidence-relationships.html\\index.html",
-      "size": "3989 bytes",
-      "modified": "2026-08-30 15:10",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
       "path": "blog\\family-boundaries\\index.html",
       "size": "6065 bytes",
       "modified": "2026-08-30 15:10",
@@ -884,13 +793,6 @@
       "name": "index.html",
       "path": "blog\\family-boundaries-marriage\\index.html",
       "size": "21664 bytes",
-      "modified": "2026-08-30 15:10",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
-      "path": "blog\\family-boundaries.html\\index.html",
-      "size": "3994 bytes",
       "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
@@ -987,13 +889,6 @@
     },
     {
       "name": "index.html",
-      "path": "blog\\infidelity-mental-pit.html\\index.html",
-      "size": "4068 bytes",
-      "modified": "2026-08-30 15:10",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
       "path": "blog\\infidelity-trust-crisis-family-destruction\\index.html",
       "size": "50822 bytes",
       "modified": "2026-08-30 15:10",
@@ -1029,13 +924,6 @@
     },
     {
       "name": "index.html",
-      "path": "blog\\long-distance-marriage-reality.html\\index.html",
-      "size": "4002 bytes",
-      "modified": "2026-08-30 15:10",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
       "path": "blog\\love-as-transaction\\index.html",
       "size": "13951 bytes",
       "modified": "2026-08-30 15:10",
@@ -1067,13 +955,6 @@
       "path": "blog\\masculine-husband-dynamic\\index.html",
       "size": "1501 bytes",
       "modified": "2026-09-03 12:21",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
-      "path": "blog\\masculine-husband-dynamic.html\\index.html",
-      "size": "4331 bytes",
-      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
@@ -1281,13 +1162,6 @@
     },
     {
       "name": "index.html",
-      "path": "blog\\running-away-survival.html\\index.html",
-      "size": "4070 bytes",
-      "modified": "2026-08-30 15:10",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
       "path": "blog\\self-sacrifice-trap\\index.html",
       "size": "10699 bytes",
       "modified": "2026-08-30 15:10",
@@ -1312,13 +1186,6 @@
       "path": "blog\\shabgoft-03\\index.html",
       "size": "997 bytes",
       "modified": "2026-09-03 12:21",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
-      "path": "blog\\shabgoft-03.html\\index.html",
-      "size": "3951 bytes",
-      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
@@ -1410,13 +1277,6 @@
       "path": "blog\\toxic-mother-sensitive-daughter-psychoanalysis\\index.html",
       "size": "1491 bytes",
       "modified": "2026-09-03 12:21",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
-      "path": "blog\\toxic-mother-sensitive-daughter-psychoanalysis.html\\index.html",
-      "size": "4030 bytes",
-      "modified": "2026-08-30 15:10",
       "is_duplicate": false
     },
     {
