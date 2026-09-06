@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-04 18:26:00",
-  "totalArticles": 182,
-  "uniqueArticles": 182,
+  "lastUpdated": "2026-09-06 20:57:36",
+  "totalArticles": 194,
+  "uniqueArticles": 194,
   "duplicateFiles": 0,
-  "totalSize": "1979.35 KB",
+  "totalSize": "2241.51 KB",
   "articles": [
     {
       "name": "abusive-relationship-thyroid-depression.html",
@@ -232,8 +232,8 @@
     {
       "name": "index.html",
       "path": "blog\\index.html",
-      "size": "22534 bytes",
-      "modified": "2026-09-04 18:25",
+      "size": "16452 bytes",
+      "modified": "2026-09-06 20:52",
       "is_duplicate": false
     },
     {
@@ -644,6 +644,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\daughter-hostility-parental-guilt\\index.html",
+      "size": "17542 bytes",
+      "modified": "2026-09-06 17:01",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\decision-paralysis-divorce\\index.html",
       "size": "596 bytes",
       "modified": "2026-09-03 10:42",
@@ -714,9 +721,23 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\emotional-transaction-cycle\\index.html",
+      "size": "25618 bytes",
+      "modified": "2026-09-06 19:54",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\enmeshment-and-triangulation\\index.html",
       "size": "9751 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\escape-from-cage-desperate-remarriage\\index.html",
+      "size": "28373 bytes",
+      "modified": "2026-09-06 19:20",
       "is_duplicate": false
     },
     {
@@ -752,6 +773,13 @@
       "path": "blog\\family-boundaries-marriage\\index.html",
       "size": "21664 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\family-court-boundary-collapse\\index.html",
+      "size": "27011 bytes",
+      "modified": "2026-09-06 19:50",
       "is_duplicate": false
     },
     {
@@ -910,6 +938,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\mental-radar-shutdown\\index.html",
+      "size": "26083 bytes",
+      "modified": "2026-09-06 20:22",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\mindfulness\\index.html",
       "size": "12385 bytes",
       "modified": "2026-08-30 15:10",
@@ -948,6 +983,13 @@
       "path": "blog\\mutual-anger-cycle-psychoanalysis\\index.html",
       "size": "11218 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\narcissistic-mother-psychoanalytic-analysis\\index.html",
+      "size": "29751 bytes",
+      "modified": "2026-09-06 19:36",
       "is_duplicate": false
     },
     {
@@ -1001,6 +1043,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\paradox-of-control-relationship-destruction\\index.html",
+      "size": "27863 bytes",
+      "modified": "2026-09-06 18:16",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\phone-addiction-social-anxiety\\index.html",
       "size": "28338 bytes",
       "modified": "2026-08-30 15:10",
@@ -1011,6 +1060,20 @@
       "path": "blog\\polite-child-danger\\index.html",
       "size": "9334 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\power-struggle-marriage-education-gap\\index.html",
+      "size": "29338 bytes",
+      "modified": "2026-09-06 18:35",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\PPPPPPP\\index.html",
+      "size": "0 bytes",
+      "modified": "2026-09-06 18:17",
       "is_duplicate": false
     },
     {
@@ -1109,6 +1172,13 @@
       "path": "blog\\running-away-survival\\index.html",
       "size": "5816 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\self-made-magic-psychological-analysis\\index.html",
+      "size": "25292 bytes",
+      "modified": "2026-09-06 20:00",
       "is_duplicate": false
     },
     {
@@ -1239,6 +1309,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\unwanted-guest-in-own-home-parental-sacrifice\\index.html",
+      "size": "8933 bytes",
+      "modified": "2026-09-06 19:26",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\verbal-violence-marriage\\index.html",
       "size": "19668 bytes",
       "modified": "2026-08-30 15:10",
@@ -1270,6 +1347,13 @@
       "path": "blog\\workplace-boundaries-marriage\\index.html",
       "size": "15148 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\wounded-healer-lawyer-family-boundaries\\index.html",
+      "size": "28724 bytes",
+      "modified": "2026-09-06 19:15",
       "is_duplicate": false
     },
     {

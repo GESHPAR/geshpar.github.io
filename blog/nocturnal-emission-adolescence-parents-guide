@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>احتلام در نوجوانان: راهنمای کامل والدین برای دوران بلوغ پسران</title>
+<meta name="description" content="راهنمای جامع برای والدین: احتلام چیست؟ آیا طبیعی است؟ چگونه با پسر نوجوان خود درباره تغییرات بلوغ صحبت کنیم؟ پاسخ سوالات مهم والدین از متخصصین گشپار">
+<meta name="keywords" content="احتلام نوجوانان, بلوغ پسران, راهنمایی والدین, تغییرات بلوغ, آموزش جنسی نوجوان, مشاوره نوجوان, تربیت نوجوان, گشپار">
+<meta name="author" content="تیم تخصصی گشپار">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://geshpar.com/blog/nocturnal-emission-adolescence-parents-guide/" />
+
+<style>
+    :root {
+        --primary-color: #2c3e50;
+        --accent-color: #27ae60;
+        --secondary-color: #3498db;
+        --warning-color: #f39c12;
+        --bg-color: #f8f9fa;
+        --text-color: #2c3e50;
+        --box-bg: #ffffff;
+    }
+    body {
+        font-family: 'Tahoma', 'Segoe UI', sans-serif;
+        line-height: 2;
+        color: var(--text-color);
+        background-color: var(--bg-color);
+        margin: 0;
+        padding: 20px;
+    }
+    .article-wrapper {
+        max-width: 900px;
+        margin: 0 auto;
+        background: var(--box-bg);
+        padding: 50px;
+        border-radius: 15px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    }
+    h1 {
+        color: var(--primary-color);
+        font-size: 2.5em;
+        text-align: center;
+        margin-bottom: 20px;
+        border-bottom: 5px solid var(--accent-color);
+        padding-bottom: 25px;
+        line-height: 1.3;
+    }
+    .subtitle {
+        text-align: center;
+        color: #7f8c8d;
+        font-size: 1.1em;
+        margin-bottom: 30px;
+        font-style: italic;
+    }
+    h2 {
+        color: var(--accent-color);
+        margin-top: 45px;
+        font-size: 1.9em;
+        border-right: 6px solid var(--accent-color);
+        padding-right: 20px;
+        background: linear-gradient(to left, #fff, #f8fff9);
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    h3 {
+        color: var(--secondary-color);
+        margin-top: 30px;
+        font-size: 1.4em;
+        font-weight: bold;
+    }
+    p { 
+        margin-bottom: 20px; 
+        text-align: justify; 
+        font-size: 1.1em; 
+        color: #444;
+        line-height: 2.2;
+    }
+    
+    .info-box {
+        background: linear-gradient(135deg, #e8f5e9 0%, #f1f8f9 100%);
+        border-right: 6px solid var(--accent-color);
+        padding: 25px;
+        margin: 30px 0;
+        border-radius: 10px;
+        position: relative;
+    }
+    .info-box::before {
+        content: "نکته مهم";
+        position: absolute;
+        top: -12px;
+        right: 20px;
+        background: var(--accent-color);
+        color: #fff;
+        padding: 3px 15px;
+        font-size: 0.85em;
+        border-radius: 5px;
+        font-weight: bold;
+    }
+
+    .medical-box {
+        background: linear-gradient(135deg, #e3f2fd 0%, #f3e5f5 100%);
+        border-right: 6px solid var(--secondary-color);
+        padding: 25px;
+        margin: 30px 0;
+        border-radius: 10px;
+    }
+    .medical-box strong {
+        color: var(--secondary-color);
+        display: block;
+        margin-bottom: 15px;
+        font-size: 1.2em;
+    }
+
+    .warning-box {
+        background-color: #fff3cd;
+        border-right: 6px solid var(--warning-color);
+        padding: 20px;
+        margin: 25px 0;
+        color: #856404;
+        border-radius: 8px;
+        display: flex;
+        align-items: start;
+    }
+    .warning-box span { 
+        margin-left: 10px; 
+        font-size: 1.8em;
+        font-weight: bold;
+    }
+
+    ul { 
+        list-style-type: none; 
+        padding-right: 0; 
+        margin-bottom: 25px; 
+    }
+    li { 
+        margin-bottom: 18px; 
+        padding-right: 35px; 
+        position: relative; 
+        font-size: 1.08em;
+        line-height: 1.8;
+    }
+    li::before {
+        content: "✓";
+        color: var(--accent-color);
+        font-weight: bold;
+        font-size: 1.3em;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+    .age-chart {
+        background-color: #f8f9fa;
+        border: 2px solid #dee2e6;
+        padding: 25px;
+        border-radius: 10px;
+        margin: 30px 0;
+        text-align: center;
+    }
+    .age-chart h4 {
+        color: var(--primary-color);
+        margin-bottom: 20px;
+        font-size: 1.3em;
+    }
+    .age-item {
+        display: inline-block;
+        margin: 10px 15px;
+        padding: 15px 25px;
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .age-number {
+        font-size: 2em;
+        font-weight: bold;
+        color: var(--accent-color);
+        display: block;
+    }
+    .age-text {
+        font-size: 0.95em;
+        color: #666;
+    }
+
+    .faq-container { margin-top: 50px; }
+    .faq-item { 
+        border: 2px solid #e8f5e9; 
+        margin-bottom: 15px; 
+        border-radius: 12px; 
+        overflow: hidden; 
+        transition: all 0.3s ease; 
+        background: #fff;
+    }
+    .faq-question {
+        background: linear-gradient(135deg, #e8f5e9 0%, #f1f8f9 100%);
+        padding: 22px;
+        font-weight: bold;
+        cursor: pointer;
+        color: var(--primary-color);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 1.15em;
+        transition: all 0.3s;
+    }
+    .faq-question:hover { 
+        background: linear-gradient(135deg, #c8e6c9 0%, #e1f5fe 100%);
+    }
+    .faq-question::after { 
+        content: '+'; 
+        font-size: 2em; 
+        font-weight: bold; 
+        color: var(--accent-color);
+        transition: all 0.3s;
+    }
+    .faq-item.active .faq-question::after { 
+        content: '−'; 
+        color: var(--warning-color);
+    }
+    .faq-answer {
+        padding: 0 22px;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.5s ease-out, padding 0.5s ease;
+        background-color: #fff;
+        color: #555;
+        line-height: 2;
+    }
+    .faq-item.active .faq-answer { 
+        padding: 22px; 
+        max-height: 800px; 
+        border-top: 2px solid #e8f5e9;
+    }
+
+    .key-points {
+        background: linear-gradient(135deg, #fff9c4 0%, #ffecb3 100%);
+        border: 3px solid var(--warning-color);
+        padding: 30px;
+        border-radius: 12px;
+        margin: 35px 0;
+    }
+    .key-points h3 {
+        color: #f57c00;
+        margin-top: 0;
+        font-size: 1.5em;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    @media (max-width: 600px) {
+        .article-wrapper { padding: 25px; }
+        h1 { font-size: 1.9em; }
+        h2 { font-size: 1.5em; }
+    }
+</style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "احتلام در نوجوانان: راهنمای کامل والدین برای دوران بلوغ پسران",
+  "description": "راهنمای جامع برای والدین: احتلام چیست؟ آیا طبیعی است؟ چگونه با پسر نوجوان خود درباره تغییرات بلوغ صحبت کنیم؟",
+  "author": {
+    "@type": "Organization",
+    "name": "گشپار"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "گشپار",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://geshpar.com/logo.png"
+    }
+  },
+  "datePublished": "2026-09-06",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://geshpar.com/blog/nocturnal-emission-adolescence-parents-guide/"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "احتلام چیست و آیا طبیعی است؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "احتلام یا انزال در خواب، یک فرآیند کاملاً طبیعی و فیزیولوژیک در دوران بلوغ پسران است. این اتفاق زمانی رخ می‌دهد که بدن به طور غیرارادی در خواب مایع منی دفع می‌کند. این نشانه سالم بودن سیستم تولیدمثل و تغییرات هورمونی طبیعی بلوغ است."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "در چه سنی احتلام شروع می‌شود؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "احتلام معمولاً بین سنین ۱۲ تا ۱۶ سالگی شروع می‌شود، اما این زمان در هر نوجوان می‌تواند متفاوت باشد. برخی ممکن است زودتر (۱۱ سالگی) و برخی دیرتر (۷ سالگی) تجربه کنند. این تفاوت کاملاً طبیعی است."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "چگونه با پسر نوجوان درباره احتلام صحبت کنیم؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "باید با آرامش، بدون شرم و خجالت، و با زبان ساده توضیح دهید که این یک تغییر طبیعی بدن است. بهتر است پدر با پسر صحبت کند. اگر راحت نیستید، از یک مشاور یا روانشناس نوجوان کمک بگیرید. مهم این است که نوجوان بداند این اتفاق طبیعی است و جای نگرانی ندارد."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "آیا احتلام نیاز به درمان دارد؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "خیر، احتلام یک فرآیند طبیعی است و نیاز به درمان ندارد. اما اگر با درد، خونریزی، یا علائم غیرعادی همراه باشد، یا اگر باعث اضطراب شدید و اختلال در زندگی روزمره شود، بهتر است با پزشک یا مشاور متخصص مشورت کنید."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "چند بار احتلام طبیعی است؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "تعداد دفعات احتلام در نوجوانان مختلف متفاوت است. برخی ممکن است هفته‌ای چند بار، برخی ماهی چند بار، و برخی به ندرت تجربه کنند. همه این موارد طبیعی هستند و به عوامل مختلفی مانند سن، سطح هورمون‌ها و فعالیت‌های روزانه بستگی دارد."
+      }
+    }
+  ]
+}
+</script>
+</head>
+
+<body>
+
+<div class="article-wrapper">
+    <header>
+        <h1>احتلام در نوجوانان: راهنمای جامع والدین برای همراهی با پسران در دوران بلوغ</h1>
+        <p class="subtitle">هر آنچه باید درباره تغییرات طبیعی بلوغ بدانید و چگونه بدون خجالت با نوجوان خود صحبت کنید</p>
+    </header>
+
+    <section>
+        <h2>مقدمه: وقتی پسر شما وارد دنیای جدیدی می‌شود</h2>
+        <p>پسر ۱۴ ساله‌تان اخیراً تغییر کرده است. شاید متوجه شده‌اید که لباس‌هایش را بیشتر عوض می‌کند، یا شاید صبح‌ها با حالتی خجالت‌زده از خواب بیدار می‌شود. به عنوان والدین، نگران هستید اما نمی‌دانید چگونه باید با این موضوع برخورد کنید. آیا باید صحبت کنید؟ آیا باید به پزشک مراجعه کنید؟ آیا این موضوع طبیعی است؟</p>
+        
+        <p>در این مقاله از <strong>مرکز مشاوره گشپار</strong>، به طور کامل و علمی درباره <strong>احتلام در نوجوانان</strong> صحبت می‌کنیم. این راهنما به شما کمک می‌کند تا:</p>
+        
+        <ul>
+            <li>بدانید احتلام چیست و چرا اتفاق می‌افتد</li>
+            <li>علائم بلوغ را به درستی تشخیص دهید</li>
+            <li>بدانید چگونه بدون خجالت با پسر نوجوان خود صحبت کنید</li>
+            <li>تفاوت بین طبیعی و غیرطبیعی را تشخیص دهید</li>
+            <li>بهترین راه‌های حمایت از نوجوان در این دوران حساس را یاد بگیرید</li>
+        </ul>
+
+        <div class="info-box">
+            <strong>نکته کلیدی:</strong> احتلام یکی از طبیعی‌ترین اتفاقات دوران بلوغ است. این موضوع نه تنها نشانه بیماری نیست، بلکه نشان‌دهنده رشد سالم و طبیعی سیستم تولیدمثل پسر شماست.
+        </div>
+    </section>
+
+    <section>
+        <h2>بخش اول: درک علمی احتلام و بلوغ</h2>
+        
+        <h3>احتلام چیست؟</h3>
+        <p><strong>احتلام</strong> (Nocturnal Emission یا Wet Dream) به معنای انزال غیرارادی مایع منی در خواب است. این پدیده کاملاً <strong>طبیعی</strong> و <strong>فیزیولوژیک</strong> بوده و در دوران بلوغ پسران رخ می‌دهد.</p>
+
+        <div class="medical-box">
+            <strong>از نظر علمی چه اتفاقی می‌افتد؟</strong>
+            <p>در دوران بلوغ، بدن پسران شروع به تولید هورمون‌های جنسی (به ویژه تستوسترون) می‌کند. این هورمون‌ها باعث:</p>
+            <ul>
+                <li>رشد اندام‌های تناسلی می‌شوند</li>
+                <li>تولید اسپرم را آغاز می‌کنند</li>
+                <li>باعث تغییرات فیزیکی و روانی می‌گردند</li>
+            </ul>
+            <p>وقتی بدن مایع منی تولید می‌کند و این مایع در بدن انباشته می‌شود، به طور طبیعی در خواب دفع می‌شود. این یک مکانیزم طبیعی بدن برای تنظیم و تخلیه است.</p>
+        </div>
+
+        <h3>چرا در خواب اتفاق می‌افتد؟</h3>
+        <p>احتلام معمولاً در مرحله <strong>REM خواب</strong> (مرحله‌ای که رویا می‌بینیم) رخ می‌دهد. در این مرحله:</p>
+        <ul>
+            <li>فعالیت مغز افزایش می‌یابد</li>
+            <li>جریان خون در بدن بیشتر می‌شود</li>
+            <li>تحریکات فیزیولوژیک طبیعی رخ می‌دهد</li>
+        </ul>
+        <p>این اتفاق ممکن است با یا بدون رویای جنسی همراه باشد.</p>
+    </section>
+
+    <section>
+        <h2>بخش دوم: زمان‌بندی و علائم بلوغ</h2>
+        
+        <div class="age-chart">
+            <h4>📊 جدول زمانی تغییرات بلوغ در پسران</h4>
+            <div class="age-item">
+                <span class="age-number">۱-۱۲ سالگی</span>
+                <span class="age-text">شروع تغییرات اولیه<br>رشد بیضه‌ها</span>
+            </div>
+            <div class="age-item">
+                <span class="age-number">۱۳-۱۴ سالگی</span>
+                <span class="age-text">رشد آلت تناسلی<br>شروع احتلام<br>تغییر صدا</span>
+            </div>
+            <div class="age-item">
+                <span class="age-number">۵-۱۶ سالگی</span>
+                <span class="age-text">رشد موهای صورت<br>افزایش قد سریع<br>تکمیل بلوغ</span>
+            </div>
+        </div>
+
+        <h3>علائم اصلی بلوغ در پسران:</h3>
+        <ul>
+            <li><strong>رشد فیزیکی:</strong> افزایش قد و وزن سریع، بزرگ شدن دست‌ها و پاها</li>
+            <li><strong>تغییرات جنسی:</strong> بزرگ شدن بیضه‌ها و آلت تناسلی، رشد موهای زائد (تناسلی، زیر بغل، صورت)</li>
+            <li><strong>تغییر صدا:</strong> کلفت شدن تدریجی صدا</li>
+            <li><strong>تغییرات پوستی:</strong> افزایش چربی پوست، جوش‌های غرور جوانی</li>
+            <li><strong>تغییرات روانی:</strong> نوسانات خلقی، افزایش استقلال‌طلبی، توجه بیشتر به ظاهر</li>
+            <li><strong>احتلام:</strong> انزال غیرارادی در خواب</li>
+        </ul>
+
+        <div class="warning-box">
+            <span>⚠️</span>
+            <div>
+                <strong>نکته مهم:</strong> هر نوجوانی با سرعت متفاوتی بلوغ را تجربه می‌کند. مقایسه پسر شما با دوستان یا همسالانش می‌تواند باعث اضطراب و کاهش اعتماد به نفس او شود. صبور باشید و به او اطمینان دهید که همه چیز طبیعی است.
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>بخش سوم: چگونه با پسر نوجوان خود صحبت کنیم؟</h2>
+        
+        <p>این بخش مهم‌ترین قسمت برای والدین است. بسیاری از خانواده‌ها به دلیل مسائل فرهنگی یا خجالت، از صحبت درباره این موضوعات طفره می‌روند، اما <strong>سکوت می‌تواند آسیب‌زا باشد</strong>.</p>
+
+        <h3>اصول اساسی گفتگو:</h3>
+        <ul>
+            <li><strong>زمان مناسب را انتخاب کنید:</strong> وقتی هر دو آرام هستید و عجله‌ای ندارید</li>
+            <li><strong>خصوصی صحبت کنید:</strong> فقط شما و پسرتان، بدون حضور خواهر و برادرها یا دیگران</li>
+            <li><strong>آرام و بدون خجالت باشید:</strong> اگر شما خجالت بکشید، او هم احساس شرم خواهد کرد</li>
+            <li><strong>از زبان ساده و علمی استفاده کنید:</strong> نه خیلی کودکانه، نه خیلی پیچیده</li>
+            <li><strong>گوش دهید:</strong> اجازه دهید او هم سوالاتش را بپرسد</li>
+        </ul>
+
+        <div class="info-box">
+            <strong>چه کسی باید صحبت کند؟</strong><br>
+            ایده‌آل این است که <strong>پدر با پسر</strong> صحبت کند، چون می‌تواند از تجربیات خودش هم بگوید. اما اگر پدر راحت نیست یا در دسترس نیست، مادر هم می‌تواند با حفظ حریم و احترام این گفتگو را انجام دهد.
+        </div>
+
+        <h3>نمونه نحوه شروع گفتگو:</h3>
+        <p>می‌توانید این‌طور شروع کنید:</p>
+        <blockquote style="background: #f8f9fa; padding: 20px; border-right: 4px solid var(--secondary-color); margin: 20px 0; font-style: italic;">
+            "پسرم، تو داری بزرگ می‌شی و تغییراتی در بدنت اتفاق می‌افته که کاملاً طبیعیه. مثلاً ممکنه بعضی وقت‌ها در خواب اتفاقی بیفته که نگرانت کنه. می‌خوام بدون که این‌ها نشونه سالم بودن و رشد طبیعی بدنته. اگر سوالی داشتی، من اینجام تا کمکت کنم."
+        </blockquote>
+
+        <h3>اگر راحت نیستید صحبت کنید:</h3>
+        <p>اگر احساس می‌کنید نمی‌توانید این گفتگو را داشته باشید، چند راه دارید:</p>
+        <ul>
+            <li><strong>کتاب مناسب بدهید:</strong> کتاب‌های علمی مناسب سن نوجوان درباره بلوغ</li>
+            <li><strong>از مشاور کمک بگیرید:</strong> یک جلسه مشاوره با روانشناس نوجوان ترتیب دهید</li>
+            <li><strong>بهانه بیاورید:</strong> می‌توانید بگویید "می‌خواهیم درباره رشد و سلامتت با یک متخصص صحبت کنیم" (حتی اگر موضوع اصلی احتلام باشد)</li>
+        </ul>
+
+        <div class="warning-box">
+            <span></span>
+            <div>
+                <strong>نکته طلایی:</strong> نوجوانان اغلب سوالات زیادی دارند اما می‌ترسند بپرسند. ایجاد فضای امن و بدون قضاوت، کلید ارتباط موثر است.
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>بخش چهارم: چه زمانی طبیعی است و چه زمانی نیاز به کمک دارد؟</h2>
+        
+        <h3>موارد کاملاً طبیعی:</h3>
+        <ul>
+            <li>✓ احتلام هر چند روز یکبار یا چند بار در هفته</li>
+            <li>✓ احتلام ماهی یک یا دو بار</li>
+            <li>✓ حتی عدم تجربه احتلام (برخی نوجوانان اصلاً تجربه نمی‌کنند)</li>
+            <li>✓ همراه بودن با احساس خجالت یا سردرگمی اولیه</li>
+        </ul>
+
+        <h3>چه زمانی باید به پزشک یا مشاور مراجعه کنید؟</h3>
+        <ul>
+            <li>✗ اگر با <strong>درد شدید</strong> همراه باشد</li>
+            <li>✗ اگر <strong>خون</strong> در مایع منی مشاهده شود</li>
+            <li>✗ اگر باعث <strong>اضطراب شدید</strong> و اختلال در خواب شود</li>
+            <li>✗ اگر نوجوان <strong>احساس شرم و گناه شدید</strong> داشته باشد</li>
+            <li>✗ اگر باعث <strong>انزوا و افسردگی</strong> شود</li>
+            <li>✗ اگر با <strong>تب یا علائم عفونت</strong> همراه باشد</li>
+        </ul>
+
+        <div class="medical-box">
+            <strong>نقش مشاور چیست؟</strong>
+            <p>مشاور یا روانشناس نوجوان می‌تواند:</p>
+            <ul>
+                <li>فضای امن و محرمانه‌ای برای پرسش سوالات ایجاد کند</li>
+                <li>اطلاعات علمی و دقیق ارائه دهد</li>
+                <li>به نوجوان کمک کند احساساتش را مدیریت کند</li>
+                <li>در صورت نیاز، به پزشک متخصص ارجاع دهد</li>
+                <li>به والدین هم راهنمایی کند که چگونه حمایت کنند</li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <h2>بخش پنجم: توصیه‌های عملی برای والدین</h2>
+        
+        <div class="key-points">
+            <h3>📌 ۱۰ توصیه کلیدی برای والدین</h3>
+            <ol style="padding-right: 20px; line-height: 2.2;">
+                <li><strong>آماده باشید:</strong> قبل از شروع بلوغ، اطلاعات کافی کسب کنید</li>
+                <li><strong>پیش‌دستی کنید:</strong> قبل از اینکه نوجوان نگران شود، با او صحبت کنید</li>
+                <li><strong>عادی‌سازی کنید:</strong> نشان دهید که این موضوع کاملاً طبیعی است</li>
+                <li><strong>حریم خصوصی را حفظ کنید:</strong> به هیچ‌وجه این موضوع را با دیگران در میان نگذارید</li>
+                <li><strong>حمایت‌گر باشید:</strong> بدون قضاوت و سرزنش، کنار او باشید</li>
+                <li><strong>به سوالات پاسخ دهید:</strong> حتی اگر سخت است، صادقانه و علمی جواب دهید</li>
+                <li><strong>منابع مناسب معرفی کنید:</strong> کتاب، سایت‌های معتبر، یا مشاور</li>
+                <li><strong>صبر داشته باشید:</strong> ممکن است چند بار نیاز به گفتگو باشد</li>
+                <li><strong>الگوی خوبی باشید:</strong> با بدن خودتان و تغییرات آن راحت باشید</li>
+                <li><strong>کمک حرفه‌ای بگیرید:</strong> اگر نمی‌توانید صحبت کنید، از مشاور کمک بگیرید</li>
+            </ol>
+        </div>
+
+        <h3>نکات بهداشتی که باید به نوجوان آموزش دهید:</h3>
+        <ul>
+            <li>رعایت بهداشت شخصی و دوش گرفتن منظم</li>
+            <li>تعویض لباس زیر به طور منظم</li>
+            <li>استفاده از لباس‌های نخی و راحت</li>
+            <li>ورزش منظم و فعالیت بدنی</li>
+            <li>خواب کافی و منظم</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>بخش ششم: باورهای غلط و واقعیت‌ها</h2>
+        
+        <h3>باورهای غلط رایج:</h3>
+        <ul>
+            <li>❌ <strong>"احتلام نشانه انحراف یا فکر کردن به مسائل جنسی است"</strong><br>
+            ✅ <strong>واقعیت:</strong> احتلام یک فرآیند کاملاً فیزیولوژیک و غیرارادی است و ربطی به افکار یا رفتارهای نوجوان ندارد.</li>
+            
+            <li>❌ <strong>"اگر زیاد اتفاق بیفتد، خطرناک است"</strong><br>
+            ✅ <strong>واقعیت:</strong> تعداد دفعات در افراد مختلف متفاوت است و همه موارد طبیعی هستند.</li>
+            
+            <li>❌ <strong>"باید جلوی آن را گرفت"</strong><br>
+            ✅ <strong>واقعیت:</strong> این یک فرآیند طبیعی است و نیازی به جلوگیری ندارد.</li>
+            
+            <li>❌ <strong>"نشانه ضعف یا بیماری است"</strong><br>
+            ✅ <strong>واقعیت:</strong> برعکس، نشانه سلامت و عملکرد صحیح سیستم تولیدمثل است.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>جمع‌بندی: شما تنها نیستید</h2>
+        <p>والدین عزیز، دوران بلوغ یکی از حساس‌ترین مراحل رشد فرزند شماست. طبیعی است که نگران باشید یا ندانید چگونه باید برخورد کنید. مهم‌ترین نکته این است که:</p>
+        
+        <ul>
+            <li>بدانید احتلام و دیگر تغییرات بلوغ <strong>کاملاً طبیعی</strong> هستند</li>
+            <li><strong>سکوت و نادیده گرفتن</strong> می‌تواند باعث اضطراب و سردرگمی نوجوان شود</li>
+            <li>ایجاد <strong>فضای امن برای گفتگو</strong> کلید موفقیت است</li>
+            <li>اگر نمی‌توانید خودتان صحبت کنید، <strong>از متخصصین کمک بگیرید</strong></li>
+            <li>این دوران می‌گذرد، اما <strong>رابطه‌ای که می‌سازید</strong> ماندگار است</li>
+        </ul>
+
+        <div class="info-box" style="text-align: center; font-size: 1.15em;">
+            <strong>یادتان باشد:</strong> پسر نوجوان شما بیش از هر چیز به <strong>درک، حمایت و پذیرش</strong> شما نیاز دارد. با آگاهی و صبر، می‌توانید این دوران را به بهترین شکل پشت سر بگذارید.
+        </div>
+
+        <p style="text-align: center; margin-top: 40px; font-size: 1.1em; color: var(--secondary-color);">
+            <strong>تیم مشاوره گشپار</strong> همیشه آماده همراهی و حمایت از شما و خانواده‌تان است.
+        </p>
+    </section>
+
+    <!-- FAQ Section -->
+    <div class="faq-container">
+        <h2>سوالات متداول والدین</h2>
+        
+        <div class="faq-item">
+            <div class="faq-question">آیا احتلام برای همه پسران اتفاق می‌افتد؟</div>
+            <div class="faq-answer">خیر، همه پسران احتلام را تجربه نمی‌کنند. برخی ممکن است هرگز این تجربه را نداشته باشند و این کاملاً طبیعی است. بدن هر فرد متفاوت است و راه‌های مختلفی برای تنظیم هورمون‌ها و مایعات بدن دارد.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">چند بار احتلام در هفته طبیعی است؟</div>
+            <div class="faq-answer">هیچ عدد مشخصی وجود ندارد. برخی نوجوانان ممکن است چند بار در هفته، برخی چند بار در ماه، و برخی به ندرت تجربه کنند. همه این موارد طبیعی هستند و به عوامل مختلفی مانند سن، سطح هورمون‌ها، فعالیت بدنی و رژیم غذایی بستگی دارد.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">آیا احتلام باعث ضعف یا بیماری می‌شود؟</div>
+            <div class="faq-answer">خیر، کاملاً بی‌ضرر است. مایع منی دفع شده مقدار بسیار کمی پروتئین و مواد مغذی دارد که بدن به راحتی جبران می‌کند. این اتفاق هیچ تأثیر منفی بر سلامت، قدرت یا رشد نوجوان ندارد.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">چگونه بفهمیم پسرمان احتلام را تجربه کرده؟</div>
+            <div class="faq-answer">معمولاً از روی علائمی مانند لباس خواب یا ملحفه مرطوب، تغییر رفتار (خجالت یا نگرانی صبحگاهی)، یا شستشوی بیشتر لباس‌ها می‌توان فهمید. اما بهتر است مستقیم بررسی نکنید یا سوال نپرسید. اجازه دهید اگر راحت بود، خودش مطرح کند.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">آیا باید به پزشک مراجعه کنیم؟</div>
+            <div class="faq-answer">اگر احتلام بدون هیچ علامت غیرعادی (درد، خون، تب) باشد، نیازی به پزشک نیست. اما اگر نوجوان اضطراب شدید دارد، یا شما نمی‌دانید چگونه با او صحبت کنید، مراجعه به مشاور یا روانشناس نوجوان بسیار مفید است.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">چگونه به نوجوان کمک کنیم احساس شرم نکند؟</div>
+            <div class="faq-answer">با عادی‌سازی موضوع، استفاده از زبان علمی و بدون قضاوت، اطمینان دادن به طبیعی بودن آن، و به اشتراک گذاشتن تجربیات (اگر راحت هستید). مهم‌تر از همه، نشان دهید که می‌تواند بدون ترس از قضاوت یا سرزنش، با شما صحبت کند.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">آیا احتلام با خودارضایی ارتباط دارد؟</div>
+            <div class="faq-answer">خیر، این دو موضوع کاملاً متفاوت هستند. احتلام یک فرآیند غیرارادی و فیزیولوژیک است، در حالی که خودارضایی یک رفتار ارادی است. وجود یکی به معنای وجود دیگری نیست.</div>
+        </div>
+    </div>
+
+</div> <!-- End of article-wrapper -->
+
+<script>
+    // اسکریپت برای باز و بسته شدن سوالات متداول
+    document.querySelectorAll('.faq-question').forEach(item => {
+        item.addEventListener('click', () => {
+            const parent = item.parentElement;
+            // بستن سایر آیتم‌ها
+            document.querySelectorAll('.faq-item').forEach(child => {
+                if (child !== parent) child.classList.remove('active');
+            });
+            parent.classList.toggle('active');
+        });
+    });
+</script>
+
+</body>
+</html>
