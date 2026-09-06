@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>دادگاه خانوادگی: وقتی مرزهای خانوادگی فرو می‌ریزد</title>
+<meta name="description" content="تحلیل روانکاوانه پرونده یک زوج: چرا مشکلات درونی زندگی زناشویی به دادگاه خانواده گسترده تبدیل می‌شود؟ بررسی مفهوم تمایزیافتگی، مثلث‌سازی و فرافکنی در سیستم‌های خانوادگی ایرانی.">
+<meta name="keywords" content="دخالت فامیل در زندگی زناشویی, مرزهای خانوادگی, تمایزیافتگی, مثلث‌سازی, فرافکنی مشکلات, مشاوره خانواده, سیستم‌های خانوادگی, گشپار">
+<meta name="author" content="تیم تخصصی گشپار">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://geshpar.com/blog/family-court-boundary-collapse/" />
+
+<style>
+    :root {
+        --primary-color: #2c3e50;
+        --accent-color: #d35400; /* نارنجی برای هشدار */
+        --secondary-color: #16a085;
+        --warning-bg: #fef5e7;
+        --bg-color: #f8f9fa;
+        --text-color: #2c3e50;
+        --box-bg: #ffffff;
+    }
+    body {
+        font-family: 'Tahoma', 'Segoe UI', sans-serif;
+        line-height: 2.2;
+        color: var(--text-color);
+        background-color: var(--bg-color);
+        margin: 0;
+        padding: 20px;
+    }
+    .article-wrapper {
+        max-width: 950px;
+        margin: 0 auto;
+        background: var(--box-bg);
+        padding: 70px;
+        border-radius: 20px;
+        box-shadow: 0 20px 50px rgba(0,0,0,0.12);
+    }
+    h1 {
+        color: var(--primary-color);
+        font-size: 2.8em;
+        text-align: center;
+        margin-bottom: 30px;
+        line-height: 1.4;
+        font-weight: 900;
+        border-bottom: 4px solid var(--accent-color);
+        padding-bottom: 20px;
+    }
+    .subtitle {
+        text-align: center;
+        color: #7f8c8d;
+        font-size: 1.3em;
+        margin-bottom: 60px;
+        font-style: italic;
+        font-weight: 300;
+    }
+    h2 {
+        color: var(--accent-color);
+        margin-top: 70px;
+        font-size: 2.1em;
+        border-right: 10px solid var(--accent-color);
+        padding: 20px 30px 20px 0;
+        background: linear-gradient(to left, #fff, #fef5e7);
+        border-radius: 0 15px 15px 0;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    }
+    h3 {
+        color: var(--secondary-color);
+        margin-top: 45px;
+        font-size: 1.6em;
+        font-weight: bold;
+        border-bottom: 2px dashed #ddd;
+        padding-bottom: 10px;
+    }
+    p { 
+        margin-bottom: 25px; 
+        text-align: justify; 
+        font-size: 1.15em; 
+        color: #444;
+        line-height: 2.4;
+    }
+
+    .case-study-box {
+        background: linear-gradient(135deg, #fef5e7 0%, #fdebd0 100%);
+        border: 2px solid var(--accent-color);
+        padding: 35px;
+        margin: 50px 0;
+        border-radius: 15px;
+        position: relative;
+        box-shadow: inset 0 0 20px rgba(211, 84, 0, 0.1);
+    }
+    .case-study-box::before {
+        content: "پرونده بالینی: زندانی در دادگاه فامیل";
+        position: absolute;
+        top: -18px;
+        right: 40px;
+        background: var(--accent-color);
+        color: #fff;
+        padding: 8px 25px;
+        font-size: 1em;
+        border-radius: 25px;
+        font-weight: bold;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    }
+
+    .golden-principle {
+        background: linear-gradient(135deg, #fef9e7 0%, #fcf3cf 100%);
+        border: 3px solid #f1c40f;
+        padding: 40px;
+        margin: 50px 0;
+        border-radius: 15px;
+        text-align: center;
+        position: relative;
+        box-shadow: 0 10px 25px rgba(241, 196, 15, 0.2);
+    }
+    .golden-principle::before {
+        content: " اصل طلایی روانکاوی";
+        position: absolute;
+        top: -20px;
+        right: 50%;
+        transform: translateX(50%);
+        background: #f1c40f;
+        color: #fff;
+        padding: 8px 30px;
+        font-size: 1.1em;
+        border-radius: 25px;
+        font-weight: bold;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    }
+    .golden-principle p {
+        font-size: 1.4em;
+        font-weight: bold;
+        color: #7d6608;
+        margin: 15px 0;
+        line-height: 1.8;
+    }
+
+    .psych-analysis {
+        background: #fdfefe;
+        border-right: 8px solid var(--secondary-color);
+        padding: 35px;
+        margin: 40px 0;
+        border-radius: 12px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    }
+    .psych-analysis strong {
+        color: var(--secondary-color);
+        font-size: 1.4em;
+        display: block;
+        margin-bottom: 20px;
+        font-family: 'Times New Roman', serif;
+    }
+
+    .terminology-box {
+        background: #ebf5fb;
+        border: 1px solid #aed6f1;
+        padding: 20px;
+        margin: 20px 0;
+        border-radius: 10px;
+        font-size: 0.95em;
+    }
+    .terminology-box h4 {
+        color: #2874a6;
+        margin-top: 0;
+        font-size: 1.2em;
+    }
+    .terminology-box ul {
+        margin-bottom: 0;
+        padding-right: 20px;
+    }
+    .terminology-box li {
+        margin-bottom: 10px;
+    }
+
+    ul { list-style-type: none; padding-right: 0; margin-bottom: 30px; }
+    li { 
+        margin-bottom: 20px; 
+        padding-right: 45px; 
+        position: relative; 
+        font-size: 1.12em;
+        line-height: 2.2;
+    }
+    li::before {
+        content: "🧬";
+        position: absolute;
+        right: 0;
+        top: 4px;
+        font-size: 1.3em;
+    }
+
+    .solution-card {
+        background: #fff;
+        border: 2px solid var(--secondary-color);
+        padding: 30px;
+        border-radius: 12px;
+        margin-bottom: 30px;
+        transition: all 0.3s ease;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    }
+    .solution-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        border-color: var(--accent-color);
+    }
+    .solution-title {
+        font-size: 1.5em;
+        font-weight: bold;
+        color: var(--secondary-color);
+        margin-bottom: 20px;
+        display: block;
+        font-family: 'Times New Roman', serif;
+    }
+
+    .faq-container { margin-top: 80px; }
+    .faq-item { 
+        border: 2px solid #eafaf1; 
+        margin-bottom: 20px; 
+        border-radius: 12px; 
+        overflow: hidden; 
+        background: #fff;
+    }
+    .faq-question {
+        background: linear-gradient(135deg, #eafaf1 0%, #d5f4e6 100%);
+        padding: 25px;
+        font-weight: bold;
+        cursor: pointer;
+        color: var(--primary-color);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 1.25em;
+    }
+    .faq-question:hover { background: #d0ebe8; }
+    .faq-question::after { 
+        content: '+'; 
+        font-size: 2em; 
+        font-weight: bold; 
+        color: var(--secondary-color);
+    }
+    .faq-item.active .faq-question::after { 
+        content: '−'; 
+        color: var(--accent-color);
+    }
+    .faq-answer {
+        padding: 0 30px;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.6s ease-out, padding 0.6s ease;
+        background-color: #fff;
+        color: #555;
+        line-height: 2.4;
+        font-size: 1.1em;
+        text-align: justify;
+    }
+    .faq-item.active .faq-answer { 
+        padding: 30px; 
+        max-height: 1200px; 
+        border-top: 2px solid #eafaf1;
+    }
+
+    @media (max-width: 768px) {
+        .article-wrapper { padding: 30px; }
+        h1 { font-size: 2.2em; }
+        h2 { font-size: 1.7em; }
+    }
+</style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "دادگاه خانوادگی: وقتی مرزهای خانوادگی فرو می‌ریزد",
+  "description": "تحلیل روانکاوانه عمیق دینامیک دخالت فامیل در زندگی زناشویی: بررسی مفاهیم تمایزیافتگی، مثلث‌سازی و فرافکنی.",
+  "author": { "@type": "Organization", "name": "گشپار" },
+  "publisher": { "@type": "Organization", "name": "گشپار" },
+  "datePublished": "2026-09-07",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://geshpar.com/blog/family-court-boundary-collapse/"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "چرا خانواده‌های ایرانی اینقدر در زندگی فرزندان دخالت می‌کنند؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "این پدیده ریشه در فرهنگ جمع‌گرا و ساختار خانواده گسترده دارد. همچنین بسیاری از والدین با مشکلات حل‌نشده خود، ناخودآگاه از طریق کنترل فرزندان، احساس امنیت و معنا می‌کنند."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "چگونه بدون ایجاد تنش، مرزهای سالم تعیین کنیم؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "با استفاده از تکنیک «نه محترمانه»، تعیین قوانین شفاف و پایبندی به آنها، و مهم‌تر از همه، تقویت رابطه زناشویی به عنوان هسته مرکزی خانواده جدید."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "آیا قطع رابطه با خانواده راه حل است؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "قطع رابطه معمولاً آخرین راهکار است. رویکرد بهتر، ایجاد «فاصله عاطفی سالم» و کاهش وابستگی متقابل ناسالم است، ضمن حفظ احترام و ارتباط محدود."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "همسرم تحت تأثیر خانواده‌اش است، چه کنم؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "به جای حمله مستقیم به خانواده همسر، بر تقویت رابطه دو نفره تمرکز کنید. مشاوره زوج‌درمانی می‌تواند به هر دو طرف کمک کند تا الگوهای وابستگی ناسالم را شناسایی و تغییر دهند."
+      }
+    }
+  ]
+}
+</script>
+</head>
+
+<body>
+
+<div class="article-wrapper">
+    <header>
+        <h1>دادگاه خانوادگی:<br><span style="font-size: 0.5em; color: #7f8c8d;">وقتی مرزهای خانوادگی فرو می‌ریزد</span></h1>
+        <p class="subtitle">واکاوی سیستم‌های خانوادگی درهم‌تنیده، مثلث‌سازی‌های مخرب و راهکارهای تمایزیافتگی در فرهنگ ایرانی</p>
+    </header>
+
+    <section>
+        <h2>مقدمه: از خانواده هسته‌ای تا دادگاه گسترده</h2>
+        <p>در جوامع سنتی مانند ایران، خانواده اغلب از مدل «هسته‌ای» (زوج + فرزندان) فراتر رفته و به یک «سیستم گسترده» تبدیل می‌شود که در آن مرزها نفوذپذیر و تصمیم‌گیری‌ها جمعی است. اما چه اتفاقی می‌افتد وقتی این سیستم گسترده به یک «دادگاه دائمی» تبدیل شود که در آن هر حرکت زوجین مورد قضاوت، تفسیر و مداخله قرار می‌گیرد؟</p>
+        
+        <p>پرونده اخیر، نمونه‌ای کلاسیک از این دینامیک پیچیده است: زوجی که به دلیل مشکلات درونی رابطه‌شان (جدایی خوابیدن، عدم صمیمیت)، ناخودآگاه فضای خالی ایجاد شده را با حضور پررنگ خانواده‌های اصلی پر می‌کنند. نتیجه؟ تبدیل شدن مسائل خصوصی به موضوع عمومی و ورود به چرخه‌ای بی‌پایان از قضاوت و دخالت.</p>
+
+        <div class="case-study-box">
+            <strong>پرونده بالینی: زندانی در دادگاه فامیل</strong>
+            <p>خانم الف (۳۵ ساله) با شکایت از دخالت‌های مداوم خانواده شوهرش مراجعه کرده است. او توضیح می‌دهد که همسرش هر دو هفته یک‌بار برای چند روز به خانه پدری می‌رود و این موضوع باعث اعتراض شدید خواهرشوهر و مادرشوهر می‌شود. اما نکته کلیدی اینجاست: این زوج در خانه خودشان نیز رابطه سالمی ندارند؛ آنها در اتاق‌های جدا می‌خوابند و صمیمیت عاطفی بین آنها از بین رفته است. خانم الف احساس می‌کند زیر ذره‌بین دائمی فامیل است، در حالی که مشکل اصلی در درون رابطه خودش نهفته است.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>بخش اول: آناتومی یک سیستم خانوادگی بیمار</h2>
+        
+        <h3>۱. فقدان تمایزیافتگی (Lack of Differentiation)</h3>
+        <p>بر اساس نظریه <strong>موری بوئن</strong>، تمایزیافتگی به توانایی فرد برای جدا کردن احساسات از تفکر و حفظ هویت مستقل در عین ارتباط عاطفی اشاره دارد. در این پرونده، همسر فاقد تمایزیافتگی کافی است؛ او نمی‌تواند بین «نیازهای خانواده اصلی» و «نیازهای خانواده جدید» تعادل برقرار کند. در نتیجه، هر تصمیمی که می‌گیرد (مثل رفتن به خانه پدری) بلافاصله به یک بحران خانوادگی تبدیل می‌شود.</p>
+
+        <h3>۲. مثلث‌سازی (Triangulation)</h3>
+        <p>وقتی رابطه دو نفره (زن و شوهر) دچار تنش می‌شود، یکی از طرفین ناخودآگاه شخص سومی (مادر، خواهر، دوست) را وارد معادله می‌کند تا اضطراب خود را کاهش دهد. در این مورد، همسر با رفتن به خانه پدری و مطرح کردن مشکلات، همسرش را در موقعیت متهم قرار می‌دهد و خانواده اصلی را به عنوان «قاضی» وارد می‌کند. این مثلث‌سازی باعث می‌شود مشکل اصلی (عدم صمیمیت زوجین) نادیده گرفته شود و انرژی صرف جنگ‌های جانبی شود.</p>
+
+        <h3>۳. فرافکنی مشکلات درونی (Projection of Internal Conflicts)</h3>
+        <p>مشکل اصلی این زوج، «جدایی عاطفی» و «خوابیدن در اتاق‌های جدا» است. اما به جای پرداختن به این موضوع دردناک، تمرکز به سمت «رفت‌وآمدها» و «مدت زمان ماندن در خانه پدری» منحرف می‌شود. این یک مکانیزم دفاعی کلاسیک است: تبدیل کردن یک مشکل بزرگ و ترسناک (فروپاشی رابطه) به یک مشکل کوچک‌تر و قابل مدیریت‌تر (بحث بر سر تعداد روزها).</p>
+
+        <div class="terminology-box">
+            <h4>📚 واژه‌نامه تخصصی پرونده:</h4>
+            <ul>
+                <li><strong>Enmeshment (درهم‌تنیدگی):</strong> وضعیتی که در آن مرزهای بین اعضای خانواده بسیار نفوذپذیر است و استقلال فردی قربانی وفاداری گروهی می‌شود.</li>
+                <li><strong>Emotional Cutoff (قطع عاطفی):</strong> تلاش برای کاهش اضطراب ناشی از درهم‌تنیدگی با قطع کامل یا جزئی ارتباط با خانواده اصلی، بدون حل واقعی مشکلات.</li>
+                <li><strong>Family Projection Process (فرآیند فرافکنی خانوادگی):</strong> انتقال اضطراب‌ها و مشکلات حل‌نشده والدین به فرزندان یا سایر اعضای خانواده.</li>
+                <li><strong>Scapegoating (بزغاله سیاه):</strong> انتخاب یک عضو خانواده به عنوان مقصر تمام مشکلات، تا سایر اعضا از مواجهه با مشکلات واقعی خود فرار کنند.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <h2>بخش دوم: چرا ما خودمان را در دادگاه فامیل محاکمه می‌کنیم؟</h2>
+        
+        <p>سوال مهم اینجاست: چرا زوجین اجازه می‌دهند خانواده‌هایشان به دادگاه تبدیل شود؟ پاسخ در چند عامل نهفته است:</p>
+        
+        <ul>
+            <li><strong>ترس از تنهایی:</strong> وقتی رابطه زناشویی سرد می‌شود، افراد ناخودآگاه به دنبال پناهگاه امن (خانواده اصلی) می‌گردند.</li>
+            <li><strong>الگوهای یادگرفته شده:</strong> بسیاری از افراد در خانواده‌هایی بزرگ شده‌اند که در آن حریم خصوصی معنایی نداشته و همه چیز مشترک بوده است.</li>
+            <li><strong>عدم مهارت حل تعارض:</strong> زوجین به جای حل مستقیم مشکلاتشان، ترجیح می‌دهند از طریق سوم‌شخص‌ها (خانواده) پیام‌رسانی کنند.</li>
+            <li><strong>فرهنگ شرم و آبرو:</strong> ترس از اینکه «اگر مشکل‌مان را حل نکنیم، دیگران چه فکری می‌کنند؟» باعث می‌شود مشکلات به جای حل شدن، پنهان و سپس منفجر شوند.</li>
+        </ul>
+
+        <div class="psych-analysis">
+            <strong>نکته کلیدی روانکاوی:</strong>
+            <p>مشکل اصلی «دخالت فامیل» نیست؛ مشکل اصلی «ضعف رابطه زناشویی» است. وقتی رابطه زن و شوهر قوی باشد، دخالت‌های بیرونی مانند قطره‌ای بر سنگ سخت بی‌اثر می‌ماند. اما وقتی رابطه شکننده باشد، حتی کوچک‌ترین نسیم بیرونی می‌تواند طوفان ایجاد کند.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>بخش سوم: راهکارهای بالینی؛ از دادگاه به سوی پناهگاه</h2>
+        
+        <p>هدف درمان، حذف خانواده‌ها نیست (چرا که غیرممکن و ناسالم است)، بلکه تقویت مرزهای سالم و بازسازی رابطه زناشویی است.</p>
+
+        <div class="solution-card">
+            <span class="solution-title">۱. بازتعریف مرزها (Boundary Redefinition)</span>
+            <p>زوجین باید با هم توافق کنند که چه اطلاعاتی را با خانواده‌ها در میان بگذارند و چه تصمیماتی فقط مختص خودشان است. قانون طلایی: «مشکلات زناشویی فقط بین ما دو نفر حل می‌شود». این به معنای بی‌احترامی نیست، بلکه به معنای احترام به حریم رابطه است.</p>
+        </div>
+
+        <div class="solution-card">
+            <span class="solution-title">۲. توقف مثلث‌سازی (Stop Triangulation)</span>
+            <p>هر بار که یکی از زوجین خواست مشکلی را با خانواده در میان بگذارد، باید از خود بپرسد: «آیا این کار به حل مشکل کمک می‌کند یا فقط اضطراب من را موقتاً کاهش می‌دهد؟» به جای شکایت به خانواده، مستقیماً با همسر صحبت کنید، حتی اگر سخت باشد.</p>
+        </div>
+
+        <div class="solution-card">
+            <span class="solution-title">۳. تقویت رابطه دو نفره (Dyadic Reinforcement)</span>
+            <p>تمرکز اصلی باید بر بازسازی صمیمیت بین زن و شوهر باشد. این شامل وقت گذرانی منظم بدون حضور دیگران، گفتگوهای صادقانه درباره نیازها و ترس‌ها، و در صورت نیاز، مراجعه به مشاور زوج‌درمانگر است.</p>
+        </div>
+
+        <div class="solution-card">
+            <span class="solution-title">۴. ایجاد اتحاد زوجین (Spousal Alliance)</span>
+            <p>زن و شوهر باید در برابر فشارهای بیرونی متحد شوند. وقتی خانواده‌ها انتقاد می‌کنند، به جای دفاع از خود یا حمله به همسر، با هم پاسخ دهند: «ما این موضوع را با هم بررسی کرده‌ایم و این تصمیم ماست». این پیام واضحی به خانواده‌ها می‌فرستد که شما یک تیم هستید.</p>
+        </div>
+
+        <div class="solution-card">
+            <span class="solution-title">۵. پذیرش محدودیت‌ها (Acceptance of Limitations)</span>
+            <p>بپذیرید که نمی‌توانید خانواده‌ها را تغییر دهید. شما فقط می‌توانید واکنش خودتان را تغییر دهید. به جای تلاش برای اثبات حقانیت خود به فامیل، انرژی‌تان را صرف ساختن زندگی مشترک‌تان کنید.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>جمع‌بندی: از زندان به سوی آزادی</h2>
+        <p>زندگی در سایه دادگاه خانوادگی، مانند زندگی در زندانی نامرئی است که دیوارهایش از قضاوت‌ها، انتظارات و دخالت‌ها ساخته شده است. اما کلید آزادی در دستان خود شماست.</p>
+        <p>یادتان باشد: <strong>رابطه زناشویی سالم، قوی‌ترین سپر در برابر طوفان‌های بیرونی است.</strong> وقتی شما و همسرتان متحد باشید، هیچ دادگاه فامیلی نمی‌تواند شما را محکوم کند. برعکس، وقتی رابطه‌تان شکننده باشد، حتی کوچک‌ترین نسیم بیرونی می‌تواند شما را از هم بپاشد.</p>
+        
+        <div class="psych-analysis" style="text-align: center; border-color: var(--accent-color);">
+            <strong>تیم تخصصی گشپار</strong><br>
+            ما می‌دانیم که شکستن این چرخه‌های قدیمی چقدر دشوار است؛ اما ما اینجا هستیم تا به شما کمک کنیم راه خروج را پیدا کنید.
+        </div>
+    </section>
+
+    <div class="faq-container">
+        <h2>سوالات متداول تخصصی</h2>
+        
+        <div class="faq-item">
+            <div class="faq-question">چگونه بدون ایجاد تنش، مرزهای سالم تعیین کنیم؟</div>
+            <div class="faq-answer">با استفاده از زبان محترمانه اما قاطع. مثلاً: «ما قدر محبت شما را می‌دانیم، اما این تصمیم مربوط به زندگی خصوصی ماست و ترجیح می‌دهیم خودمان آن را حل کنیم». سپس به قول خود پایبند باشید و وارد بحث نشوید.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">همسرم تحت تأثیر خانواده‌اش است، چه کنم؟</div>
+            <div class="faq-answer">به جای حمله به خانواده همسر، بر تقویت رابطه دو نفره تمرکز کنید. از او بخواهید که در مواقع حساس، اولویت‌اش شما باشید. مشاوره زوج‌درمانی می‌تواند به هر دو طرف کمک کند تا الگوهای وابستگی ناسالم را شناسایی و تغییر دهند.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">آیا قطع رابطه با خانواده راه حل است؟</div>
+            <div class="faq-answer">قطع رابطه معمولاً آخرین راهکار است و ممکن است عواقب عاطفی شدیدی داشته باشد. رویکرد بهتر، ایجاد «فاصله عاطفی سالم» و کاهش وابستگی متقابل ناسالم است، ضمن حفظ احترام و ارتباط محدود و کنترل‌شده.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">چگونه بفهمیم مشکل اصلی درون رابطه ماست یا دخالت فامیل؟</div>
+            <div class="faq-answer">اگر با حذف کامل خانواده‌ها، باز هم مشکلات رابطه پابرجا بود، پس مشکل اصلی درون رابطه است. اگر با دوری از فامیل، آرامش برگشت، پس احتمالاً دخالت‌ها عامل تشدید کننده بوده‌اند. در هر دو حالت، تقویت رابطه زناشویی کلید حل مسئله است.</div>
+        </div>
+    </div>
+
+</div>
+
+<script>
+    document.querySelectorAll('.faq-question').forEach(item => {
+        item.addEventListener('click', () => {
+            const parent = item.parentElement;
+            document.querySelectorAll('.faq-item').forEach(child => {
+                if (child !== parent) child.classList.remove('active');
+            });
+            parent.classList.toggle('active');
+        });
+    });
+</script>
+
+</body>
+</html>
