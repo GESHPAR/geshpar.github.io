@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-07 15:50:36",
-  "totalArticles": 198,
-  "uniqueArticles": 198,
+  "lastUpdated": "2026-09-07 19:11:59",
+  "totalArticles": 203,
+  "uniqueArticles": 203,
   "duplicateFiles": 0,
-  "totalSize": "2300.77 KB",
+  "totalSize": "2419.22 KB",
   "articles": [
     {
       "name": "abusive-relationship-thyroid-depression.html",
@@ -567,6 +567,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\breaking-violence-cycle-batterer-intervention\\index.html",
+      "size": "23275 bytes",
+      "modified": "2026-09-07 17:53",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\brt-driver-conflict\\index.html",
       "size": "10800 bytes",
       "modified": "2026-08-30 15:10",
@@ -672,6 +679,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\denial-in-premarital-relationships\\index.html",
+      "size": "15873 bytes",
+      "modified": "2026-09-07 15:54",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\dependency-narcissism-cycle\\index.html",
       "size": "20356 bytes",
       "modified": "2026-08-31 17:11",
@@ -749,6 +763,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\faith-as-prison-paradox-of-tawhid-and-suffering\\index.html",
+      "size": "21189 bytes",
+      "modified": "2026-09-07 19:08",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\false-confidence-relationships\\index.html",
       "size": "1035 bytes",
       "modified": "2026-09-03 12:21",
@@ -808,6 +829,13 @@
       "path": "blog\\forced-marriage-patching\\index.html",
       "size": "13793 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\future-vs-present-priority-conflict\\index.html",
+      "size": "19029 bytes",
+      "modified": "2026-09-07 17:36",
       "is_duplicate": false
     },
     {
@@ -1092,13 +1120,6 @@
     },
     {
       "name": "index.html",
-      "path": "blog\\PPPPPPP\\index.html",
-      "size": "0 bytes",
-      "modified": "2026-09-06 18:17",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
       "path": "blog\\preemptive-breakup\\index.html",
       "size": "17503 bytes",
       "modified": "2026-08-30 15:10",
@@ -1116,6 +1137,13 @@
       "path": "blog\\pregnancy-rage-guilt\\index.html",
       "size": "15632 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\psychoanalytic-silence-rage-cycle\\index.html",
+      "size": "22291 bytes",
+      "modified": "2026-09-07 17:48",
       "is_duplicate": false
     },
     {
@@ -1235,6 +1263,13 @@
       "path": "blog\\shabgoft-03\\index.html",
       "size": "997 bytes",
       "modified": "2026-09-03 12:21",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\silent-war-domestic-aggression\\index.html",
+      "size": "19634 bytes",
+      "modified": "2026-09-07 17:42",
       "is_duplicate": false
     },
     {
