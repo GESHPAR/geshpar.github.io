@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-06 21:45:40",
-  "totalArticles": 195,
-  "uniqueArticles": 195,
+  "lastUpdated": "2026-09-07 15:37:54",
+  "totalArticles": 196,
+  "uniqueArticles": 196,
   "duplicateFiles": 0,
-  "totalSize": "2254.53 KB",
+  "totalSize": "2270.27 KB",
   "articles": [
     {
       "name": "abusive-relationship-thyroid-depression.html",
@@ -969,6 +969,13 @@
       "path": "blog\\mother-daughter-boundary-marriage-crisis\\index.html",
       "size": "51194 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\mother-daughter-marriage-resistance\\index.html",
+      "size": "16120 bytes",
+      "modified": "2026-09-07 15:37",
       "is_duplicate": false
     },
     {
