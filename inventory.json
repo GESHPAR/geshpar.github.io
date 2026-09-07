@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-06 21:43:24",
-  "totalArticles": 194,
-  "uniqueArticles": 194,
+  "lastUpdated": "2026-09-06 21:45:40",
+  "totalArticles": 195,
+  "uniqueArticles": 195,
   "duplicateFiles": 0,
   "totalSize": "2254.53 KB",
   "articles": [
@@ -906,6 +906,13 @@
       "path": "blog\\love-as-transaction\\index.html",
       "size": "13951 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\love-with-boss-workplace-toxic-relationship\\index.html",
+      "size": "3 bytes",
+      "modified": "2026-09-06 21:45",
       "is_duplicate": false
     },
     {
