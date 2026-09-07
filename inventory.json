@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-07 15:41:59",
-  "totalArticles": 197,
-  "uniqueArticles": 197,
+  "lastUpdated": "2026-09-07 15:50:36",
+  "totalArticles": 198,
+  "uniqueArticles": 198,
   "duplicateFiles": 0,
-  "totalSize": "2285.28 KB",
+  "totalSize": "2300.77 KB",
   "articles": [
     {
       "name": "abusive-relationship-thyroid-depression.html",
@@ -787,6 +787,13 @@
       "path": "blog\\family-enmeshment-analysis\\index.html",
       "size": "29071 bytes",
       "modified": "2026-08-30 15:10",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\family-triangulation-child-mediator\\index.html",
+      "size": "15856 bytes",
+      "modified": "2026-09-07 15:50",
       "is_duplicate": false
     },
     {
