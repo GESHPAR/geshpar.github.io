@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-07 19:11:59",
-  "totalArticles": 203,
-  "uniqueArticles": 203,
+  "lastUpdated": "2026-09-09 20:26:22",
+  "totalArticles": 206,
+  "uniqueArticles": 206,
   "duplicateFiles": 0,
-  "totalSize": "2419.22 KB",
+  "totalSize": "2499.70 KB",
   "articles": [
     {
       "name": "abusive-relationship-thyroid-depression.html",
@@ -735,6 +735,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\emotional-bungee-jumping-fake-crisis\\index.html",
+      "size": "29234 bytes",
+      "modified": "2026-09-09 19:40",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\emotional-transaction-cycle\\index.html",
       "size": "25618 bytes",
       "modified": "2026-09-06 19:54",
@@ -1099,6 +1106,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\persona-shadow-abandonment-cycle\\index.html",
+      "size": "23252 bytes",
+      "modified": "2026-09-09 18:46",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\phone-addiction-social-anxiety\\index.html",
       "size": "28338 bytes",
       "modified": "2026-08-30 15:10",
@@ -1361,6 +1375,13 @@
       "path": "blog\\toxic-mother-sensitive-daughter-psychoanalysis\\index.html",
       "size": "1491 bytes",
       "modified": "2026-09-03 12:21",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\triangulation-parentification-child-mediator\\index.html",
+      "size": "29930 bytes",
+      "modified": "2026-09-09 19:16",
       "is_duplicate": false
     },
     {
