@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-13 18:39:39",
-  "totalArticles": 219,
-  "uniqueArticles": 219,
+  "lastUpdated": "2026-09-13 21:52:36",
+  "totalArticles": 221,
+  "uniqueArticles": 221,
   "duplicateFiles": 0,
-  "totalSize": "2623.16 KB",
+  "totalSize": "2624.21 KB",
   "articles": [
     {
       "name": "abusive-relationship-thyroid-depression.html",
@@ -554,8 +554,8 @@
     {
       "name": "index.html",
       "path": "blog\\betrayal-doubt-loneliness-mask\\index.html",
-      "size": "16296 bytes",
-      "modified": "2026-09-13 15:45",
+      "size": "16326 bytes",
+      "modified": "2026-09-13 21:52",
       "is_duplicate": false
     },
     {
@@ -631,8 +631,8 @@
     {
       "name": "index.html",
       "path": "blog\\control-for-survival-closed-community\\index.html",
-      "size": "18570 bytes",
-      "modified": "2026-09-13 18:33",
+      "size": "18600 bytes",
+      "modified": "2026-09-13 21:52",
       "is_duplicate": false
     },
     {
@@ -750,8 +750,8 @@
     {
       "name": "index.html",
       "path": "blog\\emotional-bungee-jumping-fake-crisis\\index.html",
-      "size": "29237 bytes",
-      "modified": "2026-09-11 11:02",
+      "size": "29242 bytes",
+      "modified": "2026-09-13 21:52",
       "is_duplicate": false
     },
     {
@@ -883,8 +883,8 @@
     {
       "name": "index.html",
       "path": "blog\\healthy-boundaries-tolerating-ambiguity\\index.html",
-      "size": "17083 bytes",
-      "modified": "2026-09-13 18:07",
+      "size": "17108 bytes",
+      "modified": "2026-09-13 21:52",
       "is_duplicate": false
     },
     {
@@ -1030,8 +1030,8 @@
     {
       "name": "index.html",
       "path": "blog\\married-but-single-paradox\\index.html",
-      "size": "16226 bytes",
-      "modified": "2026-09-13 15:28",
+      "size": "16256 bytes",
+      "modified": "2026-09-13 21:52",
       "is_duplicate": false
     },
     {
@@ -1177,15 +1177,15 @@
     {
       "name": "index.html",
       "path": "blog\\pathological-loyalty-happiness-as-betrayal\\index.html",
-      "size": "17332 bytes",
-      "modified": "2026-09-13 16:11",
+      "size": "17357 bytes",
+      "modified": "2026-09-13 21:52",
       "is_duplicate": false
     },
     {
       "name": "index.html",
       "path": "blog\\persona-shadow-abandonment-cycle\\index.html",
-      "size": "23256 bytes",
-      "modified": "2026-09-11 11:02",
+      "size": "23276 bytes",
+      "modified": "2026-09-13 21:52",
       "is_duplicate": false
     },
     {
@@ -1443,8 +1443,8 @@
     {
       "name": "index.html",
       "path": "blog\\temporary-bridges-relationships-as-tools\\index.html",
-      "size": "15925 bytes",
-      "modified": "2026-09-13 16:42",
+      "size": "15950 bytes",
+      "modified": "2026-09-13 21:52",
       "is_duplicate": false
     },
     {
@@ -1471,8 +1471,8 @@
     {
       "name": "index.html",
       "path": "blog\\triangulation-parentification-child-mediator\\index.html",
-      "size": "29935 bytes",
-      "modified": "2026-09-11 11:02",
+      "size": "29965 bytes",
+      "modified": "2026-09-13 21:52",
       "is_duplicate": false
     },
     {
@@ -1532,10 +1532,24 @@
       "is_duplicate": false
     },
     {
+      "name": "addictive-mother-controlling-son.html",
+      "path": "blog\\you-are-not-the-main-actor\\addictive-mother-controlling-son.html",
+      "size": "448 bytes",
+      "modified": "2026-09-13 21:52",
+      "is_duplicate": false
+    },
+    {
       "name": "index.html",
       "path": "blog\\you-are-not-the-main-actor\\index.html",
       "size": "14920 bytes",
       "modified": "2026-09-11 07:23",
+      "is_duplicate": false
+    },
+    {
+      "name": "let-your-child-fail.html",
+      "path": "blog\\you-are-not-the-main-actor\\let-your-child-fail.html",
+      "size": "409 bytes",
+      "modified": "2026-09-13 21:52",
       "is_duplicate": false
     }
   ],
