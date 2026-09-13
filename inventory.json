@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-13 16:44:23",
-  "totalArticles": 217,
-  "uniqueArticles": 217,
+  "lastUpdated": "2026-09-13 18:39:39",
+  "totalArticles": 219,
+  "uniqueArticles": 219,
   "duplicateFiles": 0,
-  "totalSize": "2588.34 KB",
+  "totalSize": "2623.16 KB",
   "articles": [
     {
       "name": "abusive-relationship-thyroid-depression.html",
@@ -630,6 +630,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\control-for-survival-closed-community\\index.html",
+      "size": "18570 bytes",
+      "modified": "2026-09-13 18:33",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\control-freak-marriage\\index.html",
       "size": "14982 bytes",
       "modified": "2026-09-11 11:02",
@@ -871,6 +878,13 @@
       "path": "blog\\generation-gap-parenting\\index.html",
       "size": "12811 bytes",
       "modified": "2026-09-11 07:23",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\healthy-boundaries-tolerating-ambiguity\\index.html",
+      "size": "17083 bytes",
+      "modified": "2026-09-13 18:07",
       "is_duplicate": false
     },
     {
