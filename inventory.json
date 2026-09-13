@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-13 16:07:23",
-  "totalArticles": 216,
-  "uniqueArticles": 216,
+  "lastUpdated": "2026-09-13 16:39:54",
+  "totalArticles": 217,
+  "uniqueArticles": 217,
   "duplicateFiles": 0,
-  "totalSize": "2572.79 KB",
+  "totalSize": "2588.34 KB",
   "articles": [
     {
       "name": "abusive-relationship-thyroid-depression.html",
@@ -1164,7 +1164,7 @@
       "name": "index.html",
       "path": "blog\\pathological-loyalty-happiness-as-betrayal\\index.html",
       "size": "17332 bytes",
-      "modified": "2026-09-13 16:07",
+      "modified": "2026-09-13 16:11",
       "is_duplicate": false
     },
     {
@@ -1424,6 +1424,13 @@
       "path": "blog\\suspicion-or-betrayal\\index.html",
       "size": "15312 bytes",
       "modified": "2026-09-11 07:23",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\temporary-bridges-relationships-as-tools\\index.html",
+      "size": "15925 bytes",
+      "modified": "2026-09-13 16:39",
       "is_duplicate": false
     },
     {
