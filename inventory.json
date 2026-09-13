@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-13 15:32:08",
-  "totalArticles": 214,
-  "uniqueArticles": 214,
+  "lastUpdated": "2026-09-13 16:07:23",
+  "totalArticles": 216,
+  "uniqueArticles": 216,
   "duplicateFiles": 0,
-  "totalSize": "2539.95 KB",
+  "totalSize": "2572.79 KB",
   "articles": [
     {
       "name": "abusive-relationship-thyroid-depression.html",
@@ -549,6 +549,13 @@
       "path": "blog\\attachment-trauma-abandonment-case\\index.html",
       "size": "29026 bytes",
       "modified": "2026-09-11 07:23",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\betrayal-doubt-loneliness-mask\\index.html",
+      "size": "16296 bytes",
+      "modified": "2026-09-13 15:45",
       "is_duplicate": false
     },
     {
@@ -1151,6 +1158,13 @@
       "path": "blog\\paranoia-domestic-violence-legal-action\\index.html",
       "size": "22565 bytes",
       "modified": "2026-09-12 17:21",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\pathological-loyalty-happiness-as-betrayal\\index.html",
+      "size": "17332 bytes",
+      "modified": "2026-09-13 16:07",
       "is_duplicate": false
     },
     {
