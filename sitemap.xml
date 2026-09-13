@@ -4,7 +4,7 @@
   <!-- صفحات اصلی -->
   <url>
     <loc>https://geshpar.com/</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://geshpar.com/archive.html</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -24,17 +24,51 @@
   </url>
   <url>
     <loc>https://geshpar.com/blog/</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.9</priority>
   </url>
 
   <!-- ========================================== -->
-  <!-- مقالات جدید (۱۲ سپتامبر ۲۰۲۶) - اولویت بالا -->
+  <!-- مقالات جدید (۱۳ سپتامبر ۲۰۲۶) - عمیق‌ترین کیس‌های روانکاوانه -->
+  <!-- ========================================== -->
+  <url>
+    <loc>https://geshpar.com/blog/married-but-single-paradox/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/betrayal-doubt-loneliness-mask/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/pathological-loyalty-happiness-as-betrayal/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/temporary-bridges-relationships-as-tools/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/healthy-boundaries-tolerating-ambiguity/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/control-for-survival-closed-community/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ========================================== -->
+  <!-- مقالات دیروز (۱۲ سپتامبر ۲۰۲۶) -->
   <!-- ========================================== -->
   <url>
     <loc>https://geshpar.com/blog/mother-daughter-control-battle/</loc>
     <lastmod>2026-09-12</lastmod>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://geshpar.com/blog/fear-of-starting-job-anxiety/</loc>
