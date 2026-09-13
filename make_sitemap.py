@@ -9,7 +9,8 @@ def read(p):
     return p.read_text(encoding="utf-8") if p.exists() else ""
 
 def is_ph(html):
-    return any(p in html for p in PLACEHOLDERS)
+    import re as _re
+    return bool(_re.search(r'<p[^>]*>\s*(?:محتوای اصلی مقاله اینجا قرار می‌گیرد|در حال انتقال)[^<]*</p>', html))
 
 def set_canonical(html, url):
     tag = f'<link rel="canonical" href="{url}">'
