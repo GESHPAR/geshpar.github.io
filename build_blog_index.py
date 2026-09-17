@@ -1,4 +1,4 @@
-import os, re, shutil
+﻿import os, re, shutil
 
 BLOG = 'blog'
 
@@ -40,6 +40,8 @@ html = f"""<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>وبلاگ پارسنگ | همهٔ مقالات</title>
 <link rel="stylesheet" href="/parsang.css">
+    <link rel="canonical" href="https://geshpar.com/blog/" />
+    <meta property="og:url" content="https://geshpar.com/blog/" />
 </head>
 <body>
 <header><h1>همهٔ مقالات وبلاگ ({len(items)})</h1>
