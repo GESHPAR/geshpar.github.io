@@ -50,4 +50,22 @@
 - هیچ فرضی بدون تست زنده پذیرفته نشود
 
 ---
-**امضا:** این قرارداد از تاریخ 2026-09-15 لازم‌الاجراست و هرگز تغییر نمی‌کند.
+**امضا:** این قرارداد از تاریخ 2026-09-15 لازم‌الاجراست و هرگز تغییر نمی‌کند.### لاگ جلسه — 2026-09-17
+- فاز ۱: tools/ در .gitignore ✔ | check-ignore ✔ | push: 4137b09..ca8e176 ✔ | tools خاکستری ✔
+- فاز ۲: status.ps1 → ۱۱ سبز + STUB زنده است ✔ | پرونده مهاجرت URL: بسته
+- اقدام واقعی پیدا شده: canonical و og:url صفحه /blog/ نداشت → اضافه و push شد
+- بازمانده‌های دست‌نخورده: inventory.json (۱۱۸+/۱۱۸-) | پوشه blog/blog | فایل‌های "index html" و index.html.backup### فاز ۳ — 2026-09-17
+- sitemap.xml: resubmit شد
+- Request Indexing: ۱۰ URL اولویت‌دار، تاریخ 2026-09-17
+- دلایل Not indexed: Discovered 95 | Crawled 21 | Redirect 2 | Duplicate 1 | Alternate 1
+- نمونه Discovered: forty-two-years-silence, healing-old-wounds, displaced-jealousy-family-conflict,
+  codependency-success-fear.html, modern-tragedy-mother-shadow, untreated-mood-disorder-marriage,
+  marital-paranoia, case-safe-cage.html, addictive-mother-controlling-son, triangulation-parentification-child-mediator
+- آخرین به‌روزرسانی: 2026-09-17- بنر Validation failed (شروع 9/7، شکست 9/15): مربوط به پیش از اصلاحات امروز؛ اقدام نمی‌خواهد.
+- بررسی بعدی گزارش Pages: 2026-09-24 | معیار: کاهش عدد Discovered از 95- قانون تشخیص (افزوده 2026-09-17): «گوگل کارش زمان‌بر است» توضیحِ آخر است، نه اول.
+  ترتیب مجاز: ۱) چک‌لیست ایراد خودمان (canonical، ریدایرکت، sitemap، لینک داخلی، duplicate)
+  ۲) شمارش‌های گزارش Pages  ۳) تازه بعد «صف/زمان» — آن هم با تاریخ و معیارِ بازبررسی.
+  هر «صبر کن» بدون تاریخ و معیار = وعده‌ی شکسته.
+- درس ۲۴→۹۵ (به قول مراجع: «اگر به گوگل گوش بدیم زود ایندکس میکنه»):
+  پس از اصلاح canonical/ریدایرکت/sitemap در 2026-09، ایندکس از ۲۴ به ۹۵ رسید.
+  سرعت، پاداشِ گوش‌دادن به گوگل است، نه پاداشِ شانس.

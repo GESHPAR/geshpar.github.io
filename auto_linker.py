@@ -1,4 +1,4 @@
-import json
+﻿import json
 import os
 
 class ContentAutomation:
@@ -72,7 +72,7 @@ class ContentAutomation:
             print()
         
         # ذخیره تغییرات در دیتابیس
-        self.data['meta']['total_articles'] = len(self.data['articles'])
+        self.data.setdefault('meta', {})['total_articles'] = len(self.data['articles'])
         with open(self.db_file, 'w', encoding='utf-8') as f:
             json.dump(self.data, f, ensure_ascii=False, indent=2)
         
@@ -94,3 +94,4 @@ if __name__ == "__main__":
     bot.show_all_articles()
     print("\n" + "="*60)
     bot.update_all_related_links()
+
