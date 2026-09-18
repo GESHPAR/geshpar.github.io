@@ -68,4 +68,27 @@
   هر «صبر کن» بدون تاریخ و معیار = وعده‌ی شکسته.
 - درس ۲۴→۹۵ (به قول مراجع: «اگر به گوگل گوش بدیم زود ایندکس میکنه»):
   پس از اصلاح canonical/ریدایرکت/sitemap در 2026-09، ایندکس از ۲۴ به ۹۵ رسید.
-  سرعت، پاداشِ گوش‌دادن به گوگل است، نه پاداشِ شانس.
+  سرعت، پاداشِ گوش‌دادن به گوگل است، نه پاداشِ شانس.## لاگ جلسه — 2026-09-17 (روز کامل)
+- فاز ۱: tools/ در .gitignore ✔ | check-ignore ✔ | status.ps1 v2 ✔ | push ✔
+- فاز ۲: ۱۱ سبز + STUB زنده است ✔ | پرونده مهاجرت URL: بسته
+- اقدام واقعی: canonical+og:url صفحه /blog/ غایب بود → اضافه و push شد
+- فاز ۳: sitemap resubmit ✔ | Request Indexing ده URL ✔ |
+  دلایل Not indexed: Discovered 95 | Crawled 21 | Redirect 2 | Duplicate 1 | Alternate 1
+- یافته‌ی رأس: صفحات یتیم (Referring page=None)؛ فهرست وبلاگ ۳۰ مقاله را نداشت
+- فاز ۴ اجرانشده در برنامه: بازسازی فهرست به ۱۷۷ ورودی (f08c844) +
+  پختن canonical در قالب build_blog_index.py | وصله KeyError meta در auto_linker |
+  commit ef60706 + push ✔
+- بنر Validation failed (شکست 9/15): مربوط به پیش از اصلاحات؛ بدون اقدام
+- Request Indexing پنج صفحه‌ی تازه‌لینک‌گرفته: 2026-09-17
+
+## صف وعده‌های جلسه‌ی بعد
+- فاز ۰: paste کردن CONTRACT.md و SEO-STATUS.md در چت
+- فاز ۱: اجرای status.ps1 (چک سلامت)
+- فاز ۲: مسیر نوشتن auto_linker: چرا مقاله‌ها را بازنویسی نکرد؟
+  معیار: بعد از اجرا، git status باید M روی blog/*/index.html نشان دهد |
+  ممیزی canonical هجده URL با پسوند .html | پوشه blog/blog | آن ۱ URL Duplicate
+- فاز ۳: چک هفتگی Pages (معیار: Discovered کمتر از ۹۵) |
+  برای پنج URL بالا Referring page = /blog/ (تاریخ معیار: 2026-09-24؛ وگرنه افزودن دستی به sitemap) |
+  Request Indexing پنج URL جدید
+- فاز ۴: اسکریپت meta description برای همه‌ی کیس‌ها | تنوع اسکلت برای ۲۱ Crawled-not-indexed (دسته‌های ۵-۷)
+- آخرین به‌روزرسانی: 2026-09-17
