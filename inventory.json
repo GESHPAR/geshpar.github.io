@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-18 14:56:31",
-  "totalArticles": 181,
-  "uniqueArticles": 181,
+  "lastUpdated": "2026-09-20 16:15:24",
+  "totalArticles": 189,
+  "uniqueArticles": 189,
   "duplicateFiles": 0,
-  "totalSize": "2845.12 KB",
+  "totalSize": "2973.92 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -378,6 +378,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\enmeshment-separation-individuation-failure-mother-daughter\\index.html",
+      "size": "16020 bytes",
+      "modified": "2026-09-19 18:53",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\escape-from-cage-desperate-remarriage\\index.html",
       "size": "28371 bytes",
       "modified": "2026-09-11 11:02",
@@ -658,6 +665,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\lor-dance-isfahani-groom-identity-conflict\\index.html",
+      "size": "20985 bytes",
+      "modified": "2026-09-20 16:14",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\love-as-transaction\\index.html",
       "size": "13951 bytes",
       "modified": "2026-09-11 11:02",
@@ -854,9 +868,23 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\paranoid-husband-evidence-collection-trap\\index.html",
+      "size": "15129 bytes",
+      "modified": "2026-09-19 16:12",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\pathological-loyalty-happiness-as-betrayal\\index.html",
       "size": "17357 bytes",
       "modified": "2026-09-13 21:52",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\perfectionism-body-image-oabandonment-cycle\\index.html",
+      "size": "14970 bytes",
+      "modified": "2026-09-19 16:44",
       "is_duplicate": false
     },
     {
@@ -889,6 +917,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\post-divorce-return-security-fear\\index.html",
+      "size": "16365 bytes",
+      "modified": "2026-09-19 16:00",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\power-struggle-marriage-education-gap\\index.html",
       "size": "29336 bytes",
       "modified": "2026-09-11 11:02",
@@ -913,6 +948,13 @@
       "path": "blog\\pregnancy-rage-guilt\\index.html",
       "size": "15632 bytes",
       "modified": "2026-09-11 07:23",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\projective-identification-jealousy-pregnancy-narcissistic-injury\\index.html",
+      "size": "17732 bytes",
+      "modified": "2026-09-19 19:01",
       "is_duplicate": false
     },
     {
@@ -1004,6 +1046,13 @@
       "path": "blog\\right-return\\index.html",
       "size": "12024 bytes",
       "modified": "2026-09-18 13:48",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\rumination-cycle-couples-therapy-focus-shift\\index.html",
+      "size": "15185 bytes",
+      "modified": "2026-09-19 16:54",
       "is_duplicate": false
     },
     {
@@ -1137,6 +1186,13 @@
       "path": "blog\\supervision-avoidant-anxious\\index.html",
       "size": "15846 bytes",
       "modified": "2026-09-11 07:23",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\survivors-guilt-mother-death-anger-projection\\index.html",
+      "size": "15496 bytes",
+      "modified": "2026-09-19 16:04",
       "is_duplicate": false
     },
     {
