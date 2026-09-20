@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-20 16:15:24",
-  "totalArticles": 189,
-  "uniqueArticles": 189,
+  "lastUpdated": "2026-09-20 16:38:49",
+  "totalArticles": 190,
+  "uniqueArticles": 190,
   "duplicateFiles": 0,
-  "totalSize": "2973.92 KB",
+  "totalSize": "2993.47 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -549,6 +549,13 @@
       "path": "blog\\hidden-wounds-aggression\\index.html",
       "size": "21079 bytes",
       "modified": "2026-09-15 18:54",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\hoarding-daughter-trash-accumulation-mother-distress\\index.html",
+      "size": "20022 bytes",
+      "modified": "2026-09-20 16:36",
       "is_duplicate": false
     },
     {
