@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-20 17:44:27",
-  "totalArticles": 192,
-  "uniqueArticles": 192,
+  "lastUpdated": "2026-09-20 18:40:40",
+  "totalArticles": 193,
+  "uniqueArticles": 193,
   "duplicateFiles": 0,
-  "totalSize": "3024.41 KB",
+  "totalSize": "3040.69 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -73,6 +73,13 @@
       "path": "blog\\anxious-neighbor\\index.html",
       "size": "23215 bytes",
       "modified": "2026-09-18 13:48",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\anxious-woman-dry-brain-nutrition-yoga\\index.html",
+      "size": "16671 bytes",
+      "modified": "2026-09-20 18:40",
       "is_duplicate": false
     },
     {
