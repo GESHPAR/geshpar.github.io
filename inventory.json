@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-20 17:00:35",
-  "totalArticles": 191,
-  "uniqueArticles": 191,
+  "lastUpdated": "2026-09-20 17:44:27",
+  "totalArticles": 192,
+  "uniqueArticles": 192,
   "duplicateFiles": 0,
-  "totalSize": "3006.91 KB",
+  "totalSize": "3024.41 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -640,6 +640,13 @@
       "path": "blog\\khastegari-complete-guide\\index.html",
       "size": "18913 bytes",
       "modified": "2026-09-11 11:02",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\learned-helplessness-husband-control-career-sabotage\\index.html",
+      "size": "17918 bytes",
+      "modified": "2026-09-20 17:43",
       "is_duplicate": false
     },
     {
