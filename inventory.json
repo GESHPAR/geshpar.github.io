@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-20 18:40:40",
-  "totalArticles": 193,
-  "uniqueArticles": 193,
+  "lastUpdated": "2026-09-22 19:03:55",
+  "totalArticles": 207,
+  "uniqueArticles": 207,
   "duplicateFiles": 0,
-  "totalSize": "3040.69 KB",
+  "totalSize": "3277.42 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -231,9 +231,23 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\covert-abuse-friends-boundary-violation-appearance-comments\\index.html",
+      "size": "14550 bytes",
+      "modified": "2026-09-22 17:58",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\crisis-generator-personality\\index.html",
       "size": "20672 bytes",
       "modified": "2026-09-11 11:02",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\cycle-fear-aggression-silence-strategy\\index.html",
+      "size": "19173 bytes",
+      "modified": "2026-09-20 20:14",
       "is_duplicate": false
     },
     {
@@ -253,8 +267,8 @@
     {
       "name": "index.html",
       "path": "blog\\decision-paralysis-divorce\\index.html",
-      "size": "596 bytes",
-      "modified": "2026-09-11 11:02",
+      "size": "14229 bytes",
+      "modified": "2026-09-21 22:04",
       "is_duplicate": false
     },
     {
@@ -469,13 +483,6 @@
     },
     {
       "name": "index.html",
-      "path": "blog\\fear-of-abandonment\\index.html",
-      "size": "407 bytes",
-      "modified": "2026-09-15 19:16",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
       "path": "blog\\fear-of-starting-job-anxiety\\index.html",
       "size": "23791 bytes",
       "modified": "2026-09-12 15:53",
@@ -486,6 +493,13 @@
       "path": "blog\\fifty-years-battle\\index.html",
       "size": "6899 bytes",
       "modified": "2026-09-15 18:54",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\financial-infidelity-and-the-thief-police-paradox\\index.html",
+      "size": "13953 bytes",
+      "modified": "2026-09-22 17:18",
       "is_duplicate": false
     },
     {
@@ -511,6 +525,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\funeral-wedding-boundary-violation\\index.html",
+      "size": "14528 bytes",
+      "modified": "2026-09-21 16:49",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\future-vs-present-priority-conflict\\index.html",
       "size": "19029 bytes",
       "modified": "2026-09-11 11:02",
@@ -525,6 +546,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\ghost-triangulation-absent-third-party\\index.html",
+      "size": "13548 bytes",
+      "modified": "2026-09-21 16:33",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\healing-old-wounds\\index.html",
       "size": "10123 bytes",
       "modified": "2026-09-15 18:46",
@@ -535,6 +563,13 @@
       "path": "blog\\healthy-boundaries-tolerating-ambiguity\\index.html",
       "size": "17108 bytes",
       "modified": "2026-09-13 21:52",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\heart-vs-mind-conflict-old-love-logical-choice\\index.html",
+      "size": "14536 bytes",
+      "modified": "2026-09-22 17:44",
       "is_duplicate": false
     },
     {
@@ -556,6 +591,13 @@
       "path": "blog\\hidden-wounds-aggression\\index.html",
       "size": "21079 bytes",
       "modified": "2026-09-15 18:54",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\histrionic-personality-family-crisis\\index.html",
+      "size": "14913 bytes",
+      "modified": "2026-09-21 18:35",
       "is_duplicate": false
     },
     {
@@ -610,8 +652,8 @@
     {
       "name": "index.html",
       "path": "blog\\infidelity-mental-pit\\index.html",
-      "size": "3361 bytes",
-      "modified": "2026-09-11 11:02",
+      "size": "3877 bytes",
+      "modified": "2026-09-21 20:13",
       "is_duplicate": false
     },
     {
@@ -619,6 +661,13 @@
       "path": "blog\\infidelity-narcissism-teen-trauma\\index.html",
       "size": "21203 bytes",
       "modified": "2026-09-12 17:16",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\infidelity-recovery-moment-purification\\index.html",
+      "size": "13393 bytes",
+      "modified": "2026-09-21 17:51",
       "is_duplicate": false
     },
     {
@@ -680,8 +729,8 @@
     {
       "name": "index.html",
       "path": "blog\\long-distance-marriage-reality\\index.html",
-      "size": "3164 bytes",
-      "modified": "2026-09-11 11:02",
+      "size": "3789 bytes",
+      "modified": "2026-09-21 20:23",
       "is_duplicate": false
     },
     {
@@ -702,13 +751,6 @@
       "name": "index.html",
       "path": "blog\\love-as-transaction\\index.html",
       "size": "13951 bytes",
-      "modified": "2026-09-11 11:02",
-      "is_duplicate": false
-    },
-    {
-      "name": "index.html",
-      "path": "blog\\love-with-boss-workplace-toxic-relationship\\index.html",
-      "size": "3 bytes",
       "modified": "2026-09-11 11:02",
       "is_duplicate": false
     },
@@ -826,9 +868,23 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\narcissistic-husband-emotional-transaction\\index.html",
+      "size": "13629 bytes",
+      "modified": "2026-09-22 17:29",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\narcissistic-mother-psychoanalytic-analysis\\index.html",
       "size": "29749 bytes",
       "modified": "2026-09-11 11:02",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\narcissistic-mother-vulnerable-daughter\\index.html",
+      "size": "14341 bytes",
+      "modified": "2026-09-21 17:22",
       "is_duplicate": false
     },
     {
@@ -840,9 +896,23 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\nurse-turned-wife-and-daughter-in-the-middle\\index.html",
+      "size": "13221 bytes",
+      "modified": "2026-09-22 16:59",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\obsessive-cleaning-analysis\\index.html",
       "size": "24960 bytes",
       "modified": "2026-09-11 11:02",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\obsessive-love-toxic-relationships\\index.html",
+      "size": "13438 bytes",
+      "modified": "2026-09-21 19:01",
       "is_duplicate": false
     },
     {
@@ -899,6 +969,13 @@
       "path": "blog\\paranoid-husband-evidence-collection-trap\\index.html",
       "size": "15129 bytes",
       "modified": "2026-09-19 16:12",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\pathological-friendship-dependency-marriage-triangulation\\index.html",
+      "size": "13509 bytes",
+      "modified": "2026-09-22 17:40",
       "is_duplicate": false
     },
     {
@@ -976,6 +1053,13 @@
       "path": "blog\\pregnancy-rage-guilt\\index.html",
       "size": "15632 bytes",
       "modified": "2026-09-11 07:23",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\professional-victim-escape-growth\\index.html",
+      "size": "13272 bytes",
+      "modified": "2026-09-21 19:11",
       "is_duplicate": false
     },
     {
@@ -1106,6 +1190,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\savior-syndrome-repetition-compulsion\\index.html",
+      "size": "13093 bytes",
+      "modified": "2026-09-21 19:27",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\self-made-magic-psychological-analysis\\index.html",
       "size": "25290 bytes",
       "modified": "2026-09-11 11:02",
@@ -1135,8 +1226,8 @@
     {
       "name": "index.html",
       "path": "blog\\shabgoft-03\\index.html",
-      "size": "3400 bytes",
-      "modified": "2026-09-11 11:19",
+      "size": "3928 bytes",
+      "modified": "2026-09-21 16:12",
       "is_duplicate": false
     },
     {
@@ -1158,6 +1249,13 @@
       "path": "blog\\silent-war-domestic-aggression\\index.html",
       "size": "19634 bytes",
       "modified": "2026-09-11 11:02",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\six-month-relationship-anxious-avoidant-conflict\\index.html",
+      "size": "14432 bytes",
+      "modified": "2026-09-22 17:52",
       "is_duplicate": false
     },
     {

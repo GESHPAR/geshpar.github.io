@@ -19,21 +19,6 @@ STATIC_PAGES = [
     {"loc": f"{DOMAIN}/blog/", "priority": "0.9"},
 ]
 
-# صفحات خاص با پسوند .html (راهنماها و موارد خاص)
-SPECIAL_HTML_PAGES = [
-    f"{DOMAIN}/blog/abusive-relationship-thyroid-depression.html",
-    f"{DOMAIN}/blog/autism-caregiver-burnout.html",
-    f"{DOMAIN}/blog/clinical-roadmap-toxic-family-intervention.html",
-    f"{DOMAIN}/blog/codependency-success-fear.html",
-    f"{DOMAIN}/blog/couple-growth-conflict.html",
-    f"{DOMAIN}/blog/daughter-recovery-toxic-parent.html",
-    f"{DOMAIN}/blog/displaced-grief-silent-aggression.html",
-    f"{DOMAIN}/blog/domestic-violence-case-01.html",
-    f"{DOMAIN}/blog/emotional-exhaustion-mothers-family-dynamics.html",
-    f"{DOMAIN}/blog/legal-divorce-violence-guide.html",
-    f"{DOMAIN}/blog/safety-plan-domestic-violence.html",
-]
-
 CASES_PAGES = [
     f"{DOMAIN}/cases/case-safe-cage.html",
     f"{DOMAIN}/cases/case-the-absent-voice.html",
@@ -136,10 +121,6 @@ def generate_sitemap():
         slug = art["loc"].split("/")[-2]
         priority = "0.9" if slug in priority_slugs else art["priority"]
         urls.append(f'  <url>\n    <loc>{art["loc"]}</loc>\n    <lastmod>{art["lastmod"]}</lastmod>\n    <priority>{priority}</priority>\n  </url>')
-    
-    # صفحات ویژه HTML
-    for loc in SPECIAL_HTML_PAGES:
-        urls.append(f'  <url>\n    <loc>{loc}</loc>\n    <lastmod>{datetime.now().strftime("%Y-%m-%d")}</lastmod>\n    <priority>0.8</priority>\n  </url>')
     
     # Cases & Guides
     for loc in CASES_PAGES:
