@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-26 20:39:02",
-  "totalArticles": 221,
-  "uniqueArticles": 221,
+  "lastUpdated": "2026-09-26 21:32:48",
+  "totalArticles": 222,
+  "uniqueArticles": 222,
   "duplicateFiles": 0,
-  "totalSize": "3505.33 KB",
+  "totalSize": "3520.01 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -115,6 +115,13 @@
       "path": "blog\\betrayal-systemic-analysis\\index.html",
       "size": "19954 bytes",
       "modified": "2026-09-22 22:41",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\betrayal-trauma-and-rationalization-of-infidelity\\index.html",
+      "size": "15031 bytes",
+      "modified": "2026-09-26 21:32",
       "is_duplicate": false
     },
     {
