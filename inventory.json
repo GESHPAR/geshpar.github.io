@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-26 19:59:42",
-  "totalArticles": 219,
-  "uniqueArticles": 219,
+  "lastUpdated": "2026-09-26 20:23:35",
+  "totalArticles": 220,
+  "uniqueArticles": 220,
   "duplicateFiles": 0,
-  "totalSize": "3473.54 KB",
+  "totalSize": "3487.83 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -1375,6 +1375,13 @@
       "path": "blog\\spouse-neglect\\index.html",
       "size": "16756 bytes",
       "modified": "2026-09-22 22:41",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\structural-trauma-and-legal-injustice\\index.html",
+      "size": "14631 bytes",
+      "modified": "2026-09-26 20:23",
       "is_duplicate": false
     },
     {
