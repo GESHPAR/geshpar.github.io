@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-25 22:19:33",
-  "totalArticles": 218,
-  "uniqueArticles": 218,
+  "lastUpdated": "2026-09-26 19:59:42",
+  "totalArticles": 219,
+  "uniqueArticles": 219,
   "duplicateFiles": 0,
-  "totalSize": "3465.76 KB",
+  "totalSize": "3473.54 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -1165,6 +1165,13 @@
       "path": "blog\\regular-man\\index.html",
       "size": "26254 bytes",
       "modified": "2026-09-25 21:25",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\relationship-anxiety-and-boundary-violations\\index.html",
+      "size": "7969 bytes",
+      "modified": "2026-09-26 19:45",
       "is_duplicate": false
     },
     {
