@@ -2,42 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://geshpar.com/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://geshpar.com/blog/parenting-homework-boundaries/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/avoidant-attachment-return-cycle/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/relationship-boundaries-communication/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/narcissistic-family-boundary-war/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/narcissistic-property-fraud-divorce/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/enabling-parenting/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/controlling-mother-vs-controlling-husband/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/obsessive-monitoring-insecurity-loop/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://geshpar.com/blog/emotional-hot-cold-withdrawal-pattern/</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/label-as-prison-marriage/</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/stop-explaining-to-narcissistic-spouse-proof-cycle/</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/hot-cold-withdrawal-case-study/</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/betrayal-trauma-and-rationalization-of-infidelity/</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/pathological-lying-and-insecurity-sister/</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -55,6 +73,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://geshpar.com/blog/stop-explaining-to-narcissistic-spouse-proof-cycle/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://geshpar.com/blog/narcissistic-sister-in-law-boundary-setting/</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -67,25 +91,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/controlling-mother-vs-controlling-husband/</loc>
+    <loc>https://geshpar.com/blog/pathological-lying-and-insecurity-sister/</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/family-triangulation-and-codependency/</loc>
+    <loc>https://geshpar.com/blog/betrayal-trauma-and-rationalization-of-infidelity/</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/obsessive-monitoring-insecurity-loop/</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/enabling-parenting/</loc>
+    <loc>https://geshpar.com/blog/hot-cold-withdrawal-case-study/</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -97,19 +115,25 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/mother-anger-child-studies/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <loc>https://geshpar.com/blog/family-triangulation-and-codependency/</loc>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/child-marriage-hidden-depression-case-study/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <loc>https://geshpar.com/blog/label-as-prison-marriage/</loc>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://geshpar.com/blog/domestic-violence-brother-mother-legal-action/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/mother-anger-child-studies/</loc>
     <lastmod>2026-09-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -121,8 +145,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/marriage-after-30-years-loveless-cycle/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <loc>https://geshpar.com/blog/child-marriage-hidden-depression-case-study/</loc>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -133,7 +157,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/hidden-depression-and-family-rejection/</loc>
+    <loc>https://geshpar.com/blog/entitlement-schema-and-medical-conflict/</loc>
     <lastmod>2026-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -151,25 +175,25 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/entitlement-schema-and-medical-conflict/</loc>
-    <lastmod>2026-09-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://geshpar.com/blog/toxic-mother-in-law-boundaries/</loc>
     <lastmod>2026-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/online-counseling/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <loc>https://geshpar.com/blog/marriage-after-30-years-loveless-cycle/</loc>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/paranoid-husband-evidence-collection-trap/</loc>
+    <loc>https://geshpar.com/blog/hidden-depression-and-family-rejection/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/pathological-friendship-dependency-marriage-triangulation/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -187,31 +211,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/pathological-friendship-dependency-marriage-triangulation/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/paradox-of-control-relationship-destruction/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://geshpar.com/blog/perfectionism-body-image-oabandonment-cycle/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/pregnancy-rage-guilt/</loc>
+    <loc>https://geshpar.com/blog/paranoid-husband-evidence-collection-trap/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/preemptive-breakup-test/</loc>
+    <loc>https://geshpar.com/blog/persistent-suitor-is-it-love/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -223,13 +235,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/psychoanalytic-silence-rage-cycle/</loc>
+    <loc>https://geshpar.com/blog/power-struggle-marriage-education-gap/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/projective-identification-jealousy-pregnancy-narcissistic-injury/</loc>
+    <loc>https://geshpar.com/blog/preemptive-breakup-test/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -241,7 +253,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/power-struggle-marriage-education-gap/</loc>
+    <loc>https://geshpar.com/blog/pregnancy-rage-guilt/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/post-divorce-return-security-fear/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -259,13 +277,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/persistent-suitor-is-it-love/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/post-divorce-return-security-fear/</loc>
+    <loc>https://geshpar.com/blog/pms-hypervigilance-father-betrayal-trauma/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -277,31 +289,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/pms-hypervigilance-father-betrayal-trauma/</loc>
+    <loc>https://geshpar.com/blog/projective-identification-jealousy-pregnancy-narcissistic-injury/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/mother-daughter-marriage-resistance/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/mother-daughter-in-law-conflict-control-fear/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/mother-daughter-control-battle/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/mother-traps-daughter-life-path/</loc>
+    <loc>https://geshpar.com/blog/paradox-of-control-relationship-destruction/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -319,31 +313,31 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/mother-daughter-boundary-marriage-crisis/</loc>
+    <loc>https://geshpar.com/blog/mother-daughter-marriage-resistance/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/mindfulness/</loc>
+    <loc>https://geshpar.com/blog/narcissistic-bride-victim-role/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/mental-radar-shutdown/</loc>
+    <loc>https://geshpar.com/blog/mutual-anger-cycle-psychoanalysis/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/masculine-husband-dynamic/</loc>
+    <loc>https://geshpar.com/blog/mother-traps-daughter-life-path/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/mother-confiscating-daughters-future/</loc>
+    <loc>https://geshpar.com/blog/mother-daughter-in-law-conflict-control-fear/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -361,7 +355,31 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/mutual-anger-cycle-psychoanalysis/</loc>
+    <loc>https://geshpar.com/blog/mindfulness/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/mother-daughter-control-battle/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/mother-daughter-boundary-marriage-crisis/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/mother-confiscating-daughters-future/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/obsessive-thoughts-marriage/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -379,7 +397,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/obsessive-love-checking-infidelity-anxiety/</loc>
+    <loc>https://geshpar.com/blog/online-counseling/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -397,13 +415,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/obsessive-thoughts-marriage/</loc>
+    <loc>https://geshpar.com/blog/obsessive-love-checking-infidelity-anxiety/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/obsessive-cleaning-analysis/</loc>
+    <loc>https://geshpar.com/blog/narcissistic-mother-vulnerable-daughter/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -421,7 +439,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/narcissistic-bride-victim-role/</loc>
+    <loc>https://geshpar.com/blog/obsessive-cleaning-analysis/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -439,7 +457,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/narcissistic-mother-vulnerable-daughter/</loc>
+    <loc>https://geshpar.com/blog/psychoanalytic-silence-rage-cycle/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -787,7 +805,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/married-but-single-paradox/</loc>
+    <loc>https://geshpar.com/blog/mental-radar-shutdown/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/denial-and-repetition/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -805,13 +829,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/daughter-recovery-toxic-parent/</loc>
+    <loc>https://geshpar.com/blog/denial-in-premarital-relationships/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/denial-and-repetition/</loc>
+    <loc>https://geshpar.com/blog/diagnosing-pathological-lying/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -829,7 +853,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/denial-in-premarital-relationships/</loc>
+    <loc>https://geshpar.com/blog/covert-abuse-friends-boundary-violation-appearance-comments/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -847,13 +871,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/controlling-mother-paranoia-daughter-marriage-klein-winnicott/</loc>
+    <loc>https://geshpar.com/blog/crisis-generator-personality/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/covert-abuse-friends-boundary-violation-appearance-comments/</loc>
+    <loc>https://geshpar.com/blog/daughter-recovery-toxic-parent/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -871,13 +895,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/crisis-generator-personality/</loc>
+    <loc>https://geshpar.com/blog/displaced-grief-silent-aggression/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/diagnosing-pathological-lying/</loc>
+    <loc>https://geshpar.com/blog/emotional-exhaustion-mothers-family-dynamics/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -895,13 +919,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/education-vs-emotional-maturity/</loc>
+    <loc>https://geshpar.com/blog/emotional-transaction-cycle/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/emotional-exhaustion-mothers-family-dynamics/</loc>
+    <loc>https://geshpar.com/blog/escape-from-cage-desperate-remarriage/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -919,7 +943,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/emotional-transaction-cycle/</loc>
+    <loc>https://geshpar.com/blog/domestic-violence-case-01/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -937,13 +961,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/displaced-grief-silent-aggression/</loc>
+    <loc>https://geshpar.com/blog/domestic-violence-cycle-coercive-control-exit-strategy/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/domestic-violence-case-01/</loc>
+    <loc>https://geshpar.com/blog/education-vs-emotional-maturity/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -961,7 +985,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/domestic-violence-cycle-coercive-control-exit-strategy/</loc>
+    <loc>https://geshpar.com/blog/controlling-mother-paranoia-daughter-marriage-klein-winnicott/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1141,7 +1165,67 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://geshpar.com/blog/infidelity-trust-crisis-family-destruction/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/infidelity-recovery-moment-purification/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://geshpar.com/blog/infidelity-narcissism-teen-trauma/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/intergenerational-trauma-loyalty/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/learned-helplessness-husband-control-career-sabotage/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/khastegari-complete-guide/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/jealousy-in-disguise/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/husband-sulking/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/husband-success-fear/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/honor-culture-psychoanalysis/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/ideological-family-conflict/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1159,79 +1243,79 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/infidelity-recovery-moment-purification/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/jealousy-in-disguise/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/intergenerational-trauma-loyalty/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/infidelity-trust-crisis-family-destruction/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/honor-culture-psychoanalysis/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/hoarding-daughter-trash-accumulation-mother-distress/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/histrionic-personality-family-crisis/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/husband-success-fear/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://geshpar.com/blog/in-laws-interference/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/ideological-family-conflict/</loc>
+    <loc>https://geshpar.com/blog/learned-helplessness-marriage-control-isolation/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/husband-sulking/</loc>
+    <loc>https://geshpar.com/blog/marriage-control-dynamic/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/khastegari-complete-guide/</loc>
+    <loc>https://geshpar.com/blog/marriage-boundaries-humor/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://geshpar.com/blog/marital-paranoia/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/marriage-loan-financial-illiteracy-abuse-dependency/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/masculine-husband-dynamic/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/married-but-single-paradox/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/marriage-standards-social-pressure/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/long-distance-marriage-reality/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/let-your-child-fail/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/legal-divorce-violence-guide/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://geshpar.com/blog/long-silence-men/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1249,67 +1333,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/marriage-boundaries-humor/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/marriage-standards-social-pressure/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/marriage-loan-financial-illiteracy-abuse-dependency/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/marriage-control-dynamic/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/legal-divorce-violence-guide/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/learned-helplessness-marriage-control-isolation/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/learned-helplessness-husband-control-career-sabotage/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/let-your-child-fail/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://geshpar.com/blog/lor-dance-isfahani-groom-identity-conflict/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/long-silence-men/</loc>
+    <loc>https://geshpar.com/blog/hoarding-daughter-trash-accumulation-mother-distress/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/long-distance-marriage-reality/</loc>
+    <loc>https://geshpar.com/blog/family-pride-breakup-regret-psychology/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1327,13 +1363,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/family-conflict-control-dynamics/</loc>
+    <loc>https://geshpar.com/blog/family-triangulation-child-mediator/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/family-pride-breakup-regret-psychology/</loc>
+    <loc>https://geshpar.com/blog/financial-infidelity-and-the-thief-police-paradox/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1351,7 +1387,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/family-triangulation-child-mediator/</loc>
+    <loc>https://geshpar.com/blog/false-confidence-relationships/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1369,13 +1405,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/escape-from-cage-desperate-remarriage/</loc>
+    <loc>https://geshpar.com/blog/family-boundaries/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/false-confidence-relationships/</loc>
+    <loc>https://geshpar.com/blog/family-conflict-control-dynamics/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1393,13 +1429,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/family-boundaries/</loc>
+    <loc>https://geshpar.com/blog/financial-management-anxiety/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/financial-infidelity-and-the-thief-police-paradox/</loc>
+    <loc>https://geshpar.com/blog/heart-vs-mind-conflict-old-love-logical-choice/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1417,13 +1453,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/gray-rock-technique-in-law-family-boundaries/</loc>
+    <loc>https://geshpar.com/blog/hidden-signals-marriage/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/heart-vs-mind-conflict-old-love-logical-choice/</loc>
+    <loc>https://geshpar.com/blog/histrionic-personality-family-crisis/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1441,7 +1477,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/hidden-signals-marriage/</loc>
+    <loc>https://geshpar.com/blog/funeral-wedding-boundary-violation/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1459,13 +1495,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/financial-management-anxiety/</loc>
+    <loc>https://geshpar.com/blog/future-vs-present-priority-conflict/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://geshpar.com/blog/funeral-wedding-boundary-violation/</loc>
+    <loc>https://geshpar.com/blog/gray-rock-technique-in-law-family-boundaries/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1478,12 +1514,6 @@
   </url>
   <url>
     <loc>https://geshpar.com/blog/generation-gap-parenting/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://geshpar.com/blog/future-vs-present-priority-conflict/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
