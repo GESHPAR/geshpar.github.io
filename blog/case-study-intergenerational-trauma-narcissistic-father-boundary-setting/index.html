@@ -3,105 +3,331 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مطالعه موردی: ترومای بین‌نسلی، اختلال شخصیت خودشیفته و مرزگذاری | روانشناسی بالینی</title>
-    <meta name="description" content="بررسی تحلیلی گفتگوی درمانگر و مراجع با محوریت انتقال آسیب روانشناختی از پدر به پسر، مکانیزم‌های دفاعی مادر، و اهمیت قاطعیت در برابر تهدیدات ناشی از اختلال شخصیت.">
+    <title>مطالعه موردی بالینی: شکستن چرخه ترومای بین‌نسلی و مدیریت پرخاشگری نوجوان | روانشناسی گشپر</title>
+    <meta name="description" content="تحلیل تخصصی گفتگوی درمانگر و مراجع درباره انتقال الگوهای خشونت‌آمیز پدر به پسر، مکانیزم‌های دفاعی مادر، و استراتژی‌های مرزگذاری قاطع در برابر تهدیدات امنیتی و روانی.">
+    <meta name="keywords" content="ترومای بین نسلی, اختلال شخصیت خودشیفته, مشاوره خانواده, دلبستگی ناایمن, مرزگذاری بالینی, پیشگیری از خشونت, روانشناسی کودک و نوجوان">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="شکستن چرخه تروما: وقتی پسر بدل به پدر می‌شود">
+    <meta property="og:description" content="بررسی کیس استادی واقعی از نحوه برخورد با فرزند نوجوانی که تحت تأثیر آسیب‌های والدین، رفتارهای کنترل‌گرانه و تهدیدآمیز نشان می‌دهد.">
+    <meta property="og:image" content="/assets/images/case-studies/trauma-cycle-break.jpg">
+    <meta property="og:url" content="https://geshpar.github.io/blog/case-study-intergenerational-trauma/">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="تحلیل روانشناختی ترومای بین‌نسلی">
+    <meta name="twitter:description" content="راهکارهای عملی برای محافظت از حریم خصوصی در برابر فرزندان آسیب‌دیده اما خطرناک.">
+
     <style>
-        body { font-family: Tahoma, Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f9f9f9; margin: 0; padding: 0; }
-        .container { max-width: 900px; margin: 20px auto; background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
-        h1 { color: #2c3e50; font-size: 24px; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
-        h2 { color: #2980b9; font-size: 20px; margin-top: 25px; }
-        h3 { color: #16a085; font-size: 18px; margin-top: 20px; }
-        p { text-align: justify; margin-bottom: 15px; }
-        ul, ol { margin-bottom: 15px; padding-right: 20px; }
-        li { margin-bottom: 8px; }
-        .highlight-box { background-color: #eaf4fc; border-right: 4px solid #3498db; padding: 15px; margin: 20px 0; }
-        .warning-box { background-color: #fceceb; border-right: 4px solid #e74c3c; padding: 15px; margin: 20px 0; }
-        .transcript-block { background-color: #f4f4f4; padding: 15px; border-left: 3px dashed #999; direction: rtl; font-style: italic; margin: 15px 0; }
-        footer { margin-top: 40px; text-align: center; font-size: 12px; color: #7f8c8d; border-top: 1px solid #ddd; padding-top: 20px; }
-        @media print { .container { box-shadow: none; width: 100%; margin: 0; } }
+        /* Base Reset & Typography */
+        :root {
+            --primary-color: #2c3e50;
+            --accent-color: #3498db;
+            --danger-color: #e74c3c;
+            --success-color: #27ae60;
+            --bg-light: #f8f9fa;
+            --text-main: #333333;
+            --border-radius: 8px;
+        }
+
+        body {
+            font-family: 'Vazirmatn', Tahoma, Arial, sans-serif;
+            line-height: 1.8;
+            color: var(--text-main);
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 960px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        header.article-header {
+            border-bottom: 3px solid var(--accent-color);
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+
+        h1.main-title {
+            color: var(--primary-color);
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .meta-info {
+            display: flex;
+            gap: 15px;
+            font-size: 0.9rem;
+            color: #666;
+            flex-wrap: wrap;
+        }
+
+        .tag-badge {
+            background: #eee;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+        h2.section-heading {
+            color: var(--primary-color);
+            font-size: 1.5rem;
+            border-right: 4px solid var(--accent-color);
+            padding-right: 15px;
+            margin-top: 0;
+        }
+
+        h3.sub-heading {
+            color: #2980b9;
+            font-size: 1.2rem;
+            margin-top: 25px;
+        }
+
+        p {
+            text-align: justify;
+            margin-bottom: 15px;
+            font-size: 1rem;
+        }
+
+        ul.analysis-list li {
+            margin-bottom: 10px;
+            list-style-type: square;
+            color: #444;
+        }
+
+        /* Special Boxes */
+        .clinical-note {
+            background-color: #eaf4fc;
+            border-left: 4px solid var(--accent-color);
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 0 var(--border-radius) var(--border-radius) 0;
+        }
+
+        .warning-alert {
+            background-color: #fdf2f2;
+            border-left: 4px solid var(--danger-color);
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 0 var(--border-radius) var(--border-radius) 0;
+        }
+
+        .quote-block {
+            font-style: italic;
+            color: #555;
+            border-right: 3px solid #ccc;
+            padding-right: 15px;
+            margin: 20px 0;
+            background: #fafafa;
+            padding: 15px;
+        }
+
+        table.case-data {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+
+        table.case-data th, table.case-data td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: right;
+        }
+
+        table.case-data th {
+            background-color: #f4f4f4;
+            font-weight: bold;
+        }
+
+        footer {
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #777;
+        }
+
+        @media (max-width: 768px) {
+            .container { padding: 0 15px; }
+            h1.main-title { font-size: 1.5rem; }
+            .meta-info { flex-direction: column; gap: 5px; }
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <!-- Header Section -->
-        <header>
-            <h1>تحلیل روانشناختی کیس استادی: چرخه معیوب خشونت کلامی و ترومای بین‌نسلی</h1>
-            <p><strong>تاریخ انتشار:</strong> ۱۵ مهر ۱۴۰۵ | <strong>دسته‌بندی:</strong> مطالعات موردی بالینی، خانواده‌درمانی، اختلالات شخصیت</p>
-        </header>
 
-        <!-- Case Summary -->
-        <section id="summary">
-            <h2>خلاصه پرونده (Case Synopsis)</h2>
-            <p>مراجعه‌کننده یک زن میانسال است که پس از طلاق از همسر اول (به دلیل اعتیاد، بیکاری و آزار روانی)، وارد ازدواج دوم شده است. او در حال حاضر تحت فشار شدید روانی حاصل از رفتارهای تهدیدآمیز پسر نوجوانش (متولد ازدواج اول) قرار دارد. پسر او که الگوهای رفتاری پدر خود را بازتولید می‌کند، با ایجاد رعب و وحشت، تخریب اموال، و درخواست‌های غیرمنطقی برای مشاوره اجباری سه‌نفره (مادر، فرزند، پدر بیولوژیک)، سعی در کنترل زندگی مادر و نفوذ به حریم خصوصی او دارد.</p>
-        </section>
-
-        <!-- Psychological Analysis -->
-        <section id="analysis">
-            <h2>تحلیل دینامیک‌های ناخودآگاه (Unconscious Dynamics)</h2>
-            
-            <h3>۱. دیدگاه ملانی کلاین (Melanie Klein): تفکیک و فرافکنی همانندسازی</h3>
-            <p>رفتار پسر نشان‌دهنده فعال بودن مکانیزم‌های «جایگزینی» و «فرافکنی تخیلی» است. او نمی‌تواند خشم و درد ناشی از طرد شدن توسط پدر را تحمل کند؛ بنابراین این احساسات را به صورت «اشیاء بد» (Bad Objects) به سمت مادر پرتاب می‌کند. تلاش او برای کشاندن مادر به جلسه مشاوره با حضور پدر، تلاشی است برای ترمیم «شیء خوب» ایده‌آل نشده و انکار واقعیت تلخ جدایی. مادر نیز در موقعیتی گیر کرده که کلاین آن را «حسادت» (Envy) نسبت به آزادی مادر توصیف می‌کند؛ پسری که اجازه نمی‌دهد مادر زندگی مستقل خود را داشته باشد.</p>
-
-            <h3>۲. دیدگاه جان بالبی (John Bowlby): دلبستگی ناایمن و سیستم مراقبتی مختل</h3>
-            <p>پسر دچار نوعی «دلبستگی اضطرابی-اجتنابی» پیچیده است. او مادر را به عنوان پایگاه امن از دست داده (به دلیل ازدواج مجدد مادر) و اکنون سعی دارد با ایجاد ترس و بحران، سیستم مراقبتی مادر را مجدداً فعال نگه دارد. تهدید به «بلای سر خودم آوردن» (Self-harm threats) ابزاری است تا مادرت را در حالت هشدار دائمی (Hyperarousal) نگه دارد و عملاً استقلال او را فلج کند.</p>
-
-            <h3>۳. دیدگاه دونالد وینیکات (D.W. Winnicott): شکست در وظیفه نگهداری</h3>
-            <p>مادر در گذشته نتوانسته محیط کافیاً خوب (Good Enough Mother) برای کودک فراهم کند زیرا خودش قربانی خشونت شوهر بوده است. اکنون، پسر در مرحله نوجوانی، نیازمند «آینه‌شدن» (Mirroring) سالم است، اما تنها چیزی که دریافت کرده، تصویر مخرب پدر است. وقتی مادر می‌گوید "تو راه او رو نرو"، در حال تلاش برای قطع زنجیره تروماست، اما پسر هنوز هویت مستقل نیافته و در «جعل خود» (False Self) مبتنی بر قدرت‌طلبی پدرانه فرو رفته است.</p>
-
-            <h3>۴. دیدگاه زیگموند فروید (Sigmund Freud): تکرار اجباری</h3>
-            <p>مشاهده دقیق درمانگر مبنی بر اینکه "پسر تو داره کارهای شوهر سابقت رو می‌کنه"، مصداق بارز مفهوم «تکرار اجباری» (Repetition Compulsion) است. پسر بدون آگاهی، صحنه‌های تروماتیک کودکی خود را بازسازی می‌کند تا این بار نقش «فاعل» (Aggressor) را بازی کند نه «منفعل» (Victim). این یک تلاش ناکام ناخودآگاه برای غلبه بر احساس ناتوانی اولیه است.</p>
-        </section>
-
-        <!-- Intervention Strategy -->
-        <section id="intervention">
-            <h2>استراتژی مداخله بالینی و توصیه‌ها</h2>
-            <div class="highlight-box">
-                <h3>اصل اول: حفظ حریم خصوصی و مرزگذاری قاطع</h3>
-                <p>مادر باید از پاسخگویی به تماس‌های مزاحم یا تهدیدهای فیزیکی خودداری کند. هرگونه واکنش عاطفی (ترس، گریه، التماس) سوخت لازم برای «اختلال شخصیت نمایشی/مرزی» پسر را تامین می‌کند. سکوت انتخابی و عدم درگیر شدن، اولین قدم درمانی است.</p>
+<div class="container">
+    <!-- Article Header -->
+    <header class="article-header">
+        <h1 class="main-title">تحلیل روانشناختی کیس استادی: شکستن چرخه معیوب خشونت کلامی و ترومای بین‌نسلی</h1>
+        <div class="meta-info">
+            <span><strong>نویسنده:</strong> تیم محتوای بالینی گشپر</span>
+            <span><strong>تاریخ انتشار:</strong> ۱۵ مهر ۱۴۰۵</span>
+            <span><strong>زمان مطالعه:</strong> ۸ دقیقه</span>
+            <div style="margin-top: 5px;">
+                <span class="tag-badge">#ترومای_کودکی</span>
+                <span class="tag-badge">#اختلال_شخصیت</span>
+                <span class="tag-badge">#مرزگذاری</span>
+                <span class="tag-badge">#خانواده_درمانی</span>
             </div>
+        </div>
+    </header>
 
-            <div class="warning-box">
-                <h3>اصل دوم: استفاده از اهرم قانون (پلیس)</h3>
-                <p>درمانگر تأکید کرد که مراجعه‌کننده نباید از پلیس بترسد. حضور پلیس نه برای زندان کردن پسر، بلکه برای ایجاد «واقعیت بیرونی» است. پسر باید بفهمد که قوانین جامعه بالاتر از هوس‌های لحظه‌ای اوست. گزارش تخلف (مزاحمت تلفنی، تهدید، ورود به عنف) مستندسازی شده و باعث می‌شود پسر از فاز «قدرت مطلق» خارج شود.</p>
-            </div>
+    <!-- Executive Summary -->
+    <section id="executive-summary">
+        <h2 class="section-heading">خلاصه مدیریتی پرونده (Executive Summary)</h2>
+        <p>این مطالعه موردی بر اساس یک جلسه مشاوره تلفنی واقعی تنظیم شده است. مراجع، زنی حدوداً ۴۰ ساله ساکن شهرستان (با سابقه زندگی در تهران)، پس از طلاق از همسر اول (به دلیل اعتیاد شدید به شیشه، بیکاری مزمن و آزارهای روانی مکرر)، وارد ازدواج دوم شده است.</p>
+        <p>چالش اصلی، تعارض شدید با پسر ۱۹ ساله‌اش از ازدواج اول است. پسر که الگوهای رفتاری مخرب پدر خود را بازتولید می‌کند، با ایجاد رعب و وحشت، تخریب اموال شخصی مادر، تهدید به آسیب رساندن به خود (Self-harm)، و الزام مادر به حضور در جلسات مشاوره سه‌نفره (مادر، پسر، پدر بیولوژیک)، سعی در نفوذ به حریم خصوصی زندگی جدید مادر دارد. هدف این مقاله، کالبدشکافی دینامیک‌های ناخودآگاه این مثلث سمّی و ارائه راهکارهای بالینی برای قطع این چرخه است.</p>
+    </section>
 
-            <h3>اصل سوم: ارجاع فردی به جای مشاوره خانوادگی اجباری</h3>
-            <p>پذیرش درخواست مشاوره سه‌نفره اشتباه محض است. این کار تاییدی بر حق دخالت پدر سابق در زندگی فعلی است. راهبرد صحیح این است: «تو یک فرد بالغ هستی (یا در شرف بلوغ)، مشکلاتت را با متخصص حل کن.» اگر پسر حاضر نشد، مادر نباید خودش را سرزنش کند. مسئولیت سلامت روان پسر در این سن، بیش از حدِ توان مادرِ قربانی است.</p>
-        </section>
+    <!-- Patient Profile Table -->
+    <section id="patient-profile">
+        <h2 class="section-heading">پروفایل مقدماتی افراد درگیر</h2>
+        <table class="case-data">
+            <thead>
+                <tr>
+                    <th>نقش</th>
+                    <th>جنسیت/سن</th>
+                    <th>وضعیت فعلی</th>
+                    <th>نشانه‌های کلیدی رفتاری</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>مراجع (مادر)</td>
+                    <td>زن / ~۴۰ سال</td>
+                    <td>ازدواج دوم، تحت فشار</td>
+                    <td>اضطراب جدایی، احساس گناه، ترس از طرد شدن توسط فرزند، ناتوانی در نه گفتن.</td>
+                </tr>
+                <tr>
+                    <td>پسر (فرزند اول)</td>
+                    <td>مرد / ۱۹ سال</td>
+                    <td>بیکار/دانشجو، مهاجم</td>
+                    <td>تهدید فیزیکی، تخریب وسایل، تماس‌های مزاحم شبانه، ادعای بیماری روانی برای جلب ترحم.</td>
+                </tr>
+                <tr>
+                    <td>پدر سابق (همسر اول)</td>
+                    <td>مرد / ناشناس</td>
+                    <td>طلاق گرفته، غایب</td>
+                    <td>اعتیاد (شیشه)، سوءاستفاده عاطفی، الگوی مرجع برای رفتارهای پسر.</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
 
-        <!-- Key Quotes from Session -->
-        <section id="quotes">
-            <h2>نکات کلیدی از مکالمه درمانی</h2>
+    <!-- Deep Psychological Analysis -->
+    <section id="psychological-analysis">
+        <h2 class="section-heading">تحلیل عمیق دینامیک‌های ناخودآگاه (Deep Unconscious Dynamics)</h2>
+        
+        <h3 class="sub-heading">۱. دیدگاه ملانی کلاین: فرافکنی همانندسازی و اشیاء بد</h3>
+        <p>از منظر روابط ابژه (Object Relations Theory)، پسر قادر به تحمل خشم و درد ناشی از «طرد شدن» توسط پدر نیست. او این احساسات غیرقابل تحمل را از طریق مکانیزم <strong>فرافکنی همانندسازی (Projective Identification)</strong> به سمت مادر پرتاب می‌کند. مادر تبدیل به ظرفی می‌شود که باید تمام اضطراب و پرخاشگری مهار نشده پسر را جذب کند.</p>
+        <ul class="analysis-list">
+            <li><strong>انکار واقعیت:</strong> درخواست مشاوره با حضور پدر، تلاشی ناخودآگاه برای انکار حقیقت تلخِ «نبودن پدر خوب» است.</li>
+            <li><strong>حسادت (Envy):</strong> پسر به استقلال و زندگی جدید مادر حسادت می‌ورزد زیرا آن را خیانت به وفاداری‌های نابجا نسبت به پدر می‌داند.</li>
+        </ul>
+
+        <h3 class="sub-heading">۲. دیدگاه جان بالبی: سیستم مراقبتی مختل و دلبستگی ناایمن</h3>
+        <p>رفتار پسر نمونه بارز <strong>دلبستگی مضطرب-اجتنابی (Anxious-Avoidant Attachment)</strong> است. او مادر را به عنوان «پایگاه امن» (Secure Base) از دست داده است. برای جبران این خلأ، از تاکتیک‌های «سیگنال‌دهی خطر» استفاده می‌کند:</p>
+        <ul class="analysis-list">
+            <li>تهدید به خودکشی یا دیوانگی، ابزاری است تا سیستم هشدار مادر را همیشه روشن نگه دارد.</li>
+            <li>حضور فیزیکی جلوی خانه، تلاش فیزیکی برای بازگرداندن «شیء گمشده» (مادر) به درون دایره کنترل است.</li>
+        </ul>
+
+        <h3 class="sub-heading">۳. دیدگاه دونالد وینیکات: جعل خود و شکست در آینه‌نگری</h3>
+        <p>پسر در کودکی هرگز تجربه <strong>آینه‌نگری سالم (Healthy Mirroring)</strong> را نداشته است. چهره‌ای که دیده، چهره خشمگین یا مستِ پدر بوده است. بنابراین، هویت او بر پایه <strong>جعل خود (False Self)</strong> شکل گرفته است؛ نقابی از قدرت‌طلبی و خشونت که پشت آن، کودکی وحشت‌زده پنهان شده است. وقتی مادر می‌گوید «تو راه او رو نرو»، در حال مبارزه با این جعل خود است، اما پسر هنوز ابزارهای روانی کافی برای جدا کردن خود از تصویر پدر ندارد.</p>
+
+        <h3 class="sub-heading">۴. دیدگاه زیگموند فروید: تکرار اجباری (Repetition Compulsion)</h3>
+        <p>جمله کلیدی درمانگر («پسرت انگار رفته تو جلد شوهرم») اشاره مستقیم به مفهوم تکرار اجباری دارد. پسل بدون آگاهی، صحنه‌های تروماتیک دوران کودکی را بازسازی می‌کند، اما این بار نقش <strong>فاعل (Aggressor)</strong> را بازی می‌کند نه منفعل. این یک تلاش ناکام ناخودآگاه برای غلبه بر احساس ناتوانی اولیه است.</p>
+    </section>
+
+    <!-- Behavioral Patterns Breakdown -->
+    <section id="behavioral-patterns">
+        <h2 class="section-heading">الگوهای رفتاری شناسایی شده (Behavioral Red Flags)</h2>
+        <div class="warning-alert">
+            <h3>⚠️ علائم هشداردهنده خطرناک</h3>
             <ul>
-                <li><strong>تشخیص درمانگر:</strong> "این شخصیت در شوهر تثبیت شد و پسرت هم داره همین راه رو یاد می‌گیره... این یه اختلال شخصیت استش."</li>
-                <li><strong>توصیه عملی:</strong> "با توجه به شرایطی که داری دیگه جوابشو نده، به تلفناش جواب نده، بهش پاسخ نده."</li>
-                <li><strong>مدیریت بحران:</strong> "پلیس باید بیاد... من شوهر کردم و از اون زندگی رونده شدم... احتمال داره آخر عمری به تهدیدت بگیره."</li>
+                <li><strong>تخریب عمدی:</strong> شکستن مبل‌ها و ریختن آب روی فرش‌ها، پیامی بصری از «توانایی نابودی» است.</li>
+                <li><strong>باج‌گیری عاطفی:</strong> استفاده از عباراتی مانند «من دوست داشتم مادر پدر داشته باشم» برای ایجاد احساس گناه در مادر.</li>
+                <li><strong>تجاوز به حریم:</strong> گرفتن کلید خانه و عدم خروج، مصداق ورود به عنف و سلب امنیت است.</li>
+                <li><strong>مثلث‌سازی (Triangulation):</strong> کشاندن پدر غایب به وسط دعوا برای ایجاد سردرگمی و تقویت موضع خود.</li>
             </ul>
-        </section>
+        </div>
+    </section>
 
-        <!-- SEO Meta Data for Schema.org -->
-        <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Article",
-          "headline": "تحلیل روانشناختی ترومای بین‌نسلی و مدیریت پرخاشگری نوجوان",
-          "author": {
-            "@type": "Person",
-            "name": "Hatman - Clinical Content Engineer"
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Daily Psychology Case Studies"
-          },
-          "datePublished": "2026-10-07",
-          "keywords": "روانشناسی بالینی, ترومای کودکی, اختلال شخصیت, مرزگذاری, مشاوره خانواده, افکار خودکشی, دلبستگی ناایمن"
-        }
-        </script>
+    <!-- Clinical Intervention Strategy -->
+    <section id="intervention-strategy">
+        <h2 class="section-heading">استراتژی مداخله بالینی و پروتکل اقدام</h2>
+        
+        <h3 class="sub-heading">اصل اول: خاموشی عاطفی (Emotional Extinction)</h3>
+        <p>هرگونه واکنش هیجانی (گریه، التماس، بحث منطقی) سوخت لازم برای ادامه رفتار پسر است. مادر باید از تکنیک <strong>«سنگ خاکستری» (Grey Rock Method)</strong> استفاده کند: بی‌روح، بی‌احساس و بدون اطلاعات جدید پاسخ دهد تا جذابیت تعامل از بین برود.</p>
 
-        <footer>
-            <p>&copy; 2026 Hatman Clinical Archive. تمامی حقوق محفوظ است.<br>
-            این مطلب صرفاً جنبه آموزشی و پژوهشی دارد و جایگزین تشخیص پزشکی نیست.</p>
-        </footer>
-    </div>
+        <h3 class="sub-heading">اصل دوم: واقعیت‌درمانی از طریق قانون</h3>
+        <p>درمانگر تأکید کرد که مراجعه‌کننده نباید از پلیس بترسد. حضور پلیس نه برای زندان کردن پسر، بلکه برای ایجاد <strong>«واقعیت بیرونی»</strong> است. پسر باید بفهمد که قوانین جامعه بالاتر از هوس‌های لحظه‌ای اوست. گزارش تخلف (مزاحمت تلفنی، تهدید، ورود به عنف) مستندسازی شده و باعث می‌شود پسر از فاز «قدرت مطلق» خارج شود.</p>
+
+        <h3 class="sub-heading">اصل سوم: ارجاع فردی به جای مشاوره خانوادگی اجباری</h3>
+        <div class="clinical-note">
+            <strong>توصیه اکید درمانگر:</strong><br>
+            «پذیرش درخواست مشاوره سه‌نفره اشتباه محض است. این کار تاییدی بر حق دخالت پدر سابق در زندگی فعلی است. راهبرد صحیح این است: <em>"تو یک فرد بالغ هستی، مشکلاتت را با متخصص حل کن."</em> اگر پسر حاضر نشد، مادر نباید خودش را سرزنش کند.»
+        </div>
+    </section>
+
+    <!-- Future Scenarios & Prognosis -->
+    <section id="prognosis">
+        <h2 class="section-heading">پیش‌آگهی و سناریوهای آینده</h2>
+        <p>اگر مرزگذاری انجام نشود، دو سناریوی محتمل وجود دارد:</p>
+        <ol>
+            <li><strong>تشدید خشونت:</strong> پسر برای اثبات قدرت خود ممکن است به خشونت فیزیکی علیه مادر یا همسر جدید او روی آورد.</li>
+            <li><strong>فرسودگی مادر:</strong> مادر دچار افسردگی شدید شده و ازدواج دوم نیز به دلیل استرس مداوم به شکست می‌انجامد (تکرار تاریخ).</li>
+        </ol>
+        <p>اما با اجرای پروتکل فوق (قطع ارتباط + حمایت قانونی + ارجاع مستقل)، احتمال بازگشت پسر به مسیر رشد طبیعی و پذیرش مسئولیت‌پذیری وجود دارد، حتی اگر زمان‌بر باشد.</p>
+    </section>
+
+    <!-- Key Takeaways for Therapists -->
+    <section id="takeaways">
+        <h2 class="section-heading">نکات کلیدی برای همکاران درمانگر</h2>
+        <ul class="analysis-list">
+            <li>تشخیص سریع «اختلال شخصیت ضداجتماعی» یا «مرزی» در نوجوانان با سابقه تروما حیاتی است.</li>
+            <li>والدین قربانی اغلب دچار «انکار جمعی» هستند؛ درمانگر باید با لحن قاطع ولی همدلانه، واقعیت خطر را بازتاب دهد.</li>
+            <li>امنیت فیزیکی مقدم بر امنیت روانی است؛ تا زمانی که تهدید رفع نشود، هیچ تکنیک شناختی-رفتاری (CBT) جواب نمی‌دهد.</li>
+        </ul>
+    </section>
+
+    <!-- Schema.org JSON-LD for Rich Snippets -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "name": "Case Study: Breaking the Cycle of Intergenerational Trauma",
+      "description": "Clinical analysis of a mother dealing with an aggressive son exhibiting narcissistic traits inherited from his abusive father.",
+      "medicalSpecialty": "Psychiatry",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Geshpar Psychology Center",
+        "url": "https://geshpar.github.io"
+      },
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Mental Health Professionals, Parents"
+      }
+    }
+    </script>
+
+    <footer>
+        <p>&copy; ۱۴۰۵ آرشیو بالینی گشپر. تمامی حقوق محفوظ است.<br>
+        این مطلب صرفاً جنبه آموزشی و پژوهشی دارد و جایگزین تشخیص پزشکی یا مشاوره حضوری نیست.<br>
+        در مواقع بحرانی با اورژانس اجتماعی (۱۲) یا پلیس (۱۱۰) تماس بگیرید.</p>
+    </footer>
+</div>
+
 </body>
 </html>
