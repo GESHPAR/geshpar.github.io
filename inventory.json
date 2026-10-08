@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-08 13:33:34",
-  "totalArticles": 280,
-  "uniqueArticles": 280,
+  "lastUpdated": "2026-10-08 13:36:33",
+  "totalArticles": 281,
+  "uniqueArticles": 281,
   "duplicateFiles": 0,
-  "totalSize": "4948.26 KB",
+  "totalSize": "4966.54 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -234,6 +234,13 @@
       "path": "blog\\case-study-family-conflict-religious-rationalization-winnicott-bowlby-analysis\\index.html",
       "size": "16896 bytes",
       "modified": "2026-10-08 13:22",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-intergenerational-trauma-abusive-parenting-patterns-boundary-violation\\index.html",
+      "size": "18727 bytes",
+      "modified": "2026-10-08 13:36",
       "is_duplicate": false
     },
     {
