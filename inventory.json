@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-08 13:23:17",
-  "totalArticles": 277,
-  "uniqueArticles": 277,
+  "lastUpdated": "2026-10-08 13:27:05",
+  "totalArticles": 278,
+  "uniqueArticles": 278,
   "duplicateFiles": 0,
-  "totalSize": "4896.85 KB",
+  "totalSize": "4913.84 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -262,6 +262,13 @@
       "path": "blog\\case-study-narcissistic-personality-disorder-marital-conflict-family-triangulation-emotional-exhaustion\\index.html",
       "size": "13190 bytes",
       "modified": "2026-10-06 17:51",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-paranoid-jealousy-projective-identification-family-dynamics\\index.html",
+      "size": "17394 bytes",
+      "modified": "2026-10-08 13:26",
       "is_duplicate": false
     },
     {
