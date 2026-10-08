@@ -1,6 +1,6 @@
-๏ปฟparam(
+param(
     [string]$BaseUrl = "https://geshpar.github.io",
-    [string]$SiteName = "ุงูุชุฎุงุฑุงุช",
+    [string]$SiteName = "วÝสฮวัวส",
     [string]$SitemapPath = "sitemap.xml",
     [string]$IndexPath = "index.html"
 )
@@ -11,7 +11,7 @@ $root = Get-Location
 $blogRoot = Join-Path $root "blog"
 
 if (-not (Test-Path $blogRoot)) {
-    throw "ูพูุดู blog ูพÛุฏุง ูุดุฏ. ุงÛู ุงุณฺฉุฑÛูพุช ุฑุง ุงุฒ ุฑÛุดู ุฑÛูพู ุงุฌุฑุง ฺฉู."
+    throw "ๆิๅ blog ํฯว ไิฯ. วํไ วำัํส ัว วา ัํิๅ ัํๆ วฬัว ไ."
 }
 
 $Base = $BaseUrl.TrimEnd("/")
@@ -77,7 +77,7 @@ Get-ChildItem -Path $blogRoot -Directory | ForEach-Object {
         }
 
         if ([string]::IsNullOrWhiteSpace($description)) {
-            $description = "ู…ูุงููโ€ุงÛ ุงุฒ ุจูุงฺฏ $SiteName"
+            $description = "ใÞวแๅวํ วา ศแว $SiteName"
         }
 
         $slug = $dir.Name
@@ -98,7 +98,7 @@ Get-ChildItem -Path $blogRoot -Directory | ForEach-Object {
 $posts = $posts | Sort-Object LastMod -Descending
 
 if ($posts.Count -eq 0) {
-    throw "ูÛฺ ู…ูุงููโ€ุงÛ ุฏุฑ blog/*/index.html ูพÛุฏุง ูุดุฏ."
+    throw "ๅํ ใÞวแๅวํ ฯั blog/*/index.html ํฯว ไิฯ."
 }
 
 # -----------------------
@@ -144,7 +144,7 @@ $cards = foreach ($post in $posts) {
           <div class="card-meta">
             <time datetime="$($post.LastMod)">$($post.LastMod)</time>
             <span>|</span>
-            <a href="$($post.RelativeUrl)">ู…ุดุงูุฏู ู…ูุงูู</a>
+            <a href="$($post.RelativeUrl)">ใิวๅฯๅ ใÞวแๅ</a>
           </div>
         </article>
 "@
@@ -159,8 +159,8 @@ $indexHtml = @"
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>$SiteName | ุจูุงฺฏ ุฑูุงูโ€ุดูุงุณÛุ ุฑูุงุจุท ู ุณูุงู…ุช ุฑูุงู</title>
-    <meta name="description" content="ู…ุฌู…ูุนู ู…ูุงูุงุช ุชุญูÛูÛ ุฑูุงูโ€ุดูุงุณÛุ ุฑูุงุจุท ุฎุงููุงุฏฺฏÛุ ุณูุงู…ุช ุฑูุงูุ ุงุฒุฏูุงุฌุ ุทูุงูุ ุงูุณุฑุฏฺฏÛ ู ุฎูุฏุดูุงุณÛ.">
+    <title>$SiteName | ศแว ัๆวไิไวำํก ัๆวศุ ๆ ำแวใส ัๆวไ</title>
+    <meta name="description" content="ใฬใๆฺๅ ใÞวแวส สอแํแํ ัๆวไิไวำํก ัๆวศุ ฮวไๆวฯํก ำแวใส ัๆวไก วาฯๆวฬก ุแวÞก วÝำัฯํ ๆ ฮๆฯิไวำํ.">
     <meta name="author" content="$SiteName">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="$Base/">
@@ -169,13 +169,13 @@ $indexHtml = @"
     <meta property="og:type" content="website">
     <meta property="og:locale" content="fa_IR">
     <meta property="og:url" content="$Base/">
-    <meta property="og:title" content="$SiteName | ุจูุงฺฏ ุฑูุงูโ€ุดูุงุณÛุ ุฑูุงุจุท ู ุณูุงู…ุช ุฑูุงู">
-    <meta property="og:description" content="ู…ุฌู…ูุนู ู…ูุงูุงุช ุชุญูÛูÛ ุฑูุงูโ€ุดูุงุณÛุ ุฑูุงุจุท ุฎุงููุงุฏฺฏÛุ ุณูุงู…ุช ุฑูุงูุ ุงุฒุฏูุงุฌุ ุทูุงูุ ุงูุณุฑุฏฺฏÛ ู ุฎูุฏุดูุงุณÛ.">
+    <meta property="og:title" content="$SiteName | ศแว ัๆวไิไวำํก ัๆวศุ ๆ ำแวใส ัๆวไ">
+    <meta property="og:description" content="ใฬใๆฺๅ ใÞวแวส สอแํแํ ัๆวไิไวำํก ัๆวศุ ฮวไๆวฯํก ำแวใส ัๆวไก วาฯๆวฬก ุแวÞก วÝำัฯํ ๆ ฮๆฯิไวำํ.">
     <meta property="og:site_name" content="$SiteName">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="$SiteName | ุจูุงฺฏ ุฑูุงูโ€ุดูุงุณÛุ ุฑูุงุจุท ู ุณูุงู…ุช ุฑูุงู">
-    <meta name="twitter:description" content="ู…ุฌู…ูุนู ู…ูุงูุงุช ุชุญูÛูÛ ุฑูุงูโ€ุดูุงุณÛุ ุฑูุงุจุท ุฎุงููุงุฏฺฏÛุ ุณูุงู…ุช ุฑูุงูุ ุงุฒุฏูุงุฌุ ุทูุงูุ ุงูุณุฑุฏฺฏÛ ู ุฎูุฏุดูุงุณÛ.">
+    <meta name="twitter:title" content="$SiteName | ศแว ัๆวไิไวำํก ัๆวศุ ๆ ำแวใส ัๆวไ">
+    <meta name="twitter:description" content="ใฬใๆฺๅ ใÞวแวส สอแํแํ ัๆวไิไวำํก ัๆวศุ ฮวไๆวฯํก ำแวใส ัๆวไก วาฯๆวฬก ุแวÞก วÝำัฯํ ๆ ฮๆฯิไวำํ.">
 
     <style>
         :root {
@@ -315,36 +315,36 @@ $indexHtml = @"
         <header class="site-header">
             <h1>$SiteName</h1>
             <p class="lead">
-                ุจูุงฺฏ ุชุญูÛูÛ ุฑูุงูโ€ุดูุงุณÛุ ุฑูุงุจุทุ ุฎุงููุงุฏูุ ุณูุงู…ุช ุฑูุงู ู ู…ุณÛุฑูุงÛ ุจุงุฒฺฏุดุช ุจู ุฒูุฏฺฏÛ ู…ุชุนุงุฏูโ€ุชุฑ.
+                ศแว สอแํแํ ัๆวไิไวำํก ัๆวศุก ฮวไๆวฯๅก ำแวใส ัๆวไ ๆ ใำํัๅวํ ศวาิส ศๅ าไฯํ ใสฺวฯแสั.
             </p>
             <div class="toolbar">
-                <span>ุชุนุฏุงุฏ ู…ูุงูุงุช: $($posts.Count)</span>
+                <span>สฺฯวฯ ใÞวแวส: $($posts.Count)</span>
                 <span>|</span>
-                <a href="$Base/sitemap.xml">ููุดู ุณุงÛุช</a>
+                <a href="$Base/sitemap.xml">ไÞิๅ ำวํส</a>
                 <span>|</span>
-                <a href="$Base/blog/">ุจุงÛฺฏุงูÛ ุจูุงฺฏ</a>
+                <a href="$Base/blog/">ศวํวไํ ศแว</a>
             </div>
         </header>
 
         <div class="notice">
-            <strong>ÛุงุฏุขูุฑÛ:</strong>
-            ุงÛู ุณุงÛุช ุฌูุจู ุขู…ูุฒุดÛ ู ุขฺฏุงูÛโ€ุจุฎุดÛ ุฏุงุฑุฏ. ุฏุฑ ุจุญุฑุงูโ€ูุงÛ ููุฑÛ ุจุง ุงูุฑฺุงูุณ ÛฑÛฑÛตุ ุงูุฑฺุงูุณ ุงุฌุชู…ุงุนÛ ÛฑÛฒÛณ Ûุง ุตุฏุงÛ ู…ุดุงูุฑู ÛฑÛดÛธÛฐ ุชู…ุงุณ ุจฺฏÛุฑÛุฏ.
+            <strong>ํวฯยๆัํ:</strong>
+            วํไ ำวํส ฬไศๅ ยใๆาิํ ๆ ยวๅํศฮิํ ฯวัฯ. ฯั ศอัวไๅวํ Ýๆัํ ศว วๆัวไำ ???ก วๆัวไำ วฬสใวฺํ ??? ํว ีฯวํ ใิวๆัๅ ???? สใวำ ศํัํฯ.
         </div>
 
         <main>
-            <section class="posts" aria-label="ููุฑุณุช ู…ูุงูุงุช">
+            <section class="posts" aria-label="Ýๅัำส ใÞวแวส">
 $cardsHtml
             </section>
         </main>
 
         <footer>
-            <p>&copy; $(Get-Date -Format yyyy) $SiteName. ุชู…ุงู…Û ุญููู ู…ุญููุธ ุงุณุช.</p>
+            <p>&copy; $(Get-Date -Format yyyy) $SiteName. สใวใํ อÞๆÞ ใอÝๆู วำส.</p>
             <div class="footer-links">
-                <a href="$Base/">ุฎุงูู</a>
-                <a href="$Base/blog/">ุจูุงฺฏ</a>
+                <a href="$Base/">ฮวไๅ</a>
+                <a href="$Base/blog/">ศแว</a>
                 <a href="$Base/sitemap.xml">Sitemap</a>
-                <a href="$Base/about/">ุฏุฑุจุงุฑู ู…ุง</a>
-                <a href="$Base/contact/">ุชู…ุงุณ ุจุง ู…ุง</a>
+                <a href="$Base/about/">ฯัศวัๅ ใว</a>
+                <a href="$Base/contact/">สใวำ ศว ใว</a>
             </div>
         </footer>
     </div>

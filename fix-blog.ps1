@@ -1,4 +1,4 @@
-$basePath = "c:\Users\NP\Documents\GitHub\geshpar.github.io\Blog"
+$basePath = "c:\Users\NP\Documents\GitHub\geshpar.com\Blog"
 
 Write-Host "=== شروع تعمیرات ===" -ForegroundColor Green
 

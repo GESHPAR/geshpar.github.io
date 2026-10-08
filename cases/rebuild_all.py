@@ -7,7 +7,7 @@ from datetime import date
 ROOT = Path('.')
 SKIP_DIRS = {'.git', '.github', 'node_modules', 'backup_cleanup'}
 cname = Path('CNAME')
-BASE = ('https://' + cname.read_text(encoding='utf-8').strip()) if cname.exists() else 'https://geshpar.github.io'
+BASE = ('https://' + cname.read_text(encoding='utf-8').strip()) if cname.exists() else 'https://geshpar.com'
 
 def junk(p):
     return bool(set(p.parts) & SKIP_DIRS) or p.name == 'template.html' or p.name.startswith('google')
