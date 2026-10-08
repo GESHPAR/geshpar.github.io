@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-08 13:30:43",
-  "totalArticles": 279,
-  "uniqueArticles": 279,
+  "lastUpdated": "2026-10-08 13:33:34",
+  "totalArticles": 280,
+  "uniqueArticles": 280,
   "duplicateFiles": 0,
-  "totalSize": "4930.83 KB",
+  "totalSize": "4948.26 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -248,6 +248,13 @@
       "path": "blog\\case-study-learned-helplessness-avoidant-aggressive-spouse-truth-avoidance\\index.html",
       "size": "14687 bytes",
       "modified": "2026-10-06 18:24",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-marital-mismatch-cultural-dissonance-passive-aggression\\index.html",
+      "size": "17846 bytes",
+      "modified": "2026-10-08 13:33",
       "is_duplicate": false
     },
     {
