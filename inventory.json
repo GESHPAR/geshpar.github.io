@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-07 15:52:09",
-  "totalArticles": 275,
-  "uniqueArticles": 275,
+  "lastUpdated": "2026-10-08 12:59:36",
+  "totalArticles": 277,
+  "uniqueArticles": 277,
   "duplicateFiles": 0,
-  "totalSize": "4862.58 KB",
+  "totalSize": "4880.35 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -196,6 +196,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\case-study-domestic-violence-cycle-abuse-victim-role-psychological-analysis\\index.html",
+      "size": "18199 bytes",
+      "modified": "2026-10-08 12:59",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\case-study-domestic-violence-psychological-abuse-intergenerational-conflict-child-endangerment\\index.html",
       "size": "12287 bytes",
       "modified": "2026-10-06 17:44",
@@ -213,6 +220,13 @@
       "path": "blog\\case-study-family-betrayal-financial-exploitation-spousal-exhaustion-memory-distortion\\index.html",
       "size": "12951 bytes",
       "modified": "2026-10-06 18:04",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-family-conflict-religious-rationalization-winnicott-bowlby-analysis\\index.html",
+      "size": "0 bytes",
+      "modified": "2026-10-08 12:49",
       "is_duplicate": false
     },
     {
