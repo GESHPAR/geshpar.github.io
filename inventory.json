@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-08 13:27:05",
-  "totalArticles": 278,
-  "uniqueArticles": 278,
+  "lastUpdated": "2026-10-08 13:30:43",
+  "totalArticles": 279,
+  "uniqueArticles": 279,
   "duplicateFiles": 0,
-  "totalSize": "4913.84 KB",
+  "totalSize": "4930.83 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -150,6 +150,13 @@
       "path": "blog\\brt-driver-conflict\\index.html",
       "size": "10963 bytes",
       "modified": "2026-09-27 21:49",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-adult-child-dependency-parental-enabling-boundary-setting\\index.html",
+      "size": "17401 bytes",
+      "modified": "2026-10-08 13:30",
       "is_duplicate": false
     },
     {
