@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-08 13:36:33",
-  "totalArticles": 281,
-  "uniqueArticles": 281,
+  "lastUpdated": "2026-10-08 13:58:37",
+  "totalArticles": 282,
+  "uniqueArticles": 282,
   "duplicateFiles": 0,
-  "totalSize": "4966.54 KB",
+  "totalSize": "4984.93 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -213,6 +213,13 @@
       "path": "blog\\case-study-domestic-violence-psychological-abuse-intergenerational-conflict-child-endangerment\\index.html",
       "size": "12287 bytes",
       "modified": "2026-10-06 17:44",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-early-marriage-boundary-violations-control-dynamics\\index.html",
+      "size": "18824 bytes",
+      "modified": "2026-10-08 13:39",
       "is_duplicate": false
     },
     {
