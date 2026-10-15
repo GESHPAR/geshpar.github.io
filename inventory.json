@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-15 09:30:34",
-  "totalArticles": 287,
-  "uniqueArticles": 287,
+  "lastUpdated": "2026-10-15 09:34:32",
+  "totalArticles": 288,
+  "uniqueArticles": 288,
   "duplicateFiles": 0,
-  "totalSize": "5068.04 KB",
+  "totalSize": "5083.95 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -353,6 +353,13 @@
       "path": "blog\\case-study-woman-older-man-age-gap-trauma-trust-bowlby-klein\\index.html",
       "size": "16552 bytes",
       "modified": "2026-10-15 09:07",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-young-man-dating-skills-age-gap-communication-confidence\\index.html",
+      "size": "16287 bytes",
+      "modified": "2026-10-15 09:34",
       "is_duplicate": false
     },
     {
