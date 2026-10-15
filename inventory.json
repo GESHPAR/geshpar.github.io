@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-15 09:27:22",
-  "totalArticles": 286,
-  "uniqueArticles": 286,
+  "lastUpdated": "2026-10-15 09:30:34",
+  "totalArticles": 287,
+  "uniqueArticles": 287,
   "duplicateFiles": 0,
-  "totalSize": "5052.72 KB",
+  "totalSize": "5068.04 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -241,6 +241,13 @@
       "path": "blog\\case-study-economic-crisis-parenting-adolescent-frustration-financial-independence-motivation\\index.html",
       "size": "12285 bytes",
       "modified": "2026-10-06 17:35",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-enabling-son-addiction-parental-boundaries-family-systems\\index.html",
+      "size": "15687 bytes",
+      "modified": "2026-10-15 09:30",
       "is_duplicate": false
     },
     {
