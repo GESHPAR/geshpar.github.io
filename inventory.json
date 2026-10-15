@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-15 09:43:07",
-  "totalArticles": 291,
-  "uniqueArticles": 291,
+  "lastUpdated": "2026-10-15 09:46:16",
+  "totalArticles": 292,
+  "uniqueArticles": 292,
   "duplicateFiles": 0,
-  "totalSize": "5140.43 KB",
+  "totalSize": "5159.54 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -353,6 +353,13 @@
       "path": "blog\\case-study-wife-infidelity-trauma-daughter-concierge-family-systems\\index.html",
       "size": "20005 bytes",
       "modified": "2026-10-15 09:40",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-wife-mother-in-law-control-boundaries-assertiveness-family-systems\\index.html",
+      "size": "19573 bytes",
+      "modified": "2026-10-15 09:45",
       "is_duplicate": false
     },
     {
