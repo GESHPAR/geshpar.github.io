@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-15 09:16:39",
-  "totalArticles": 284,
-  "uniqueArticles": 284,
+  "lastUpdated": "2026-10-15 09:19:35",
+  "totalArticles": 285,
+  "uniqueArticles": 285,
   "duplicateFiles": 0,
-  "totalSize": "5019.14 KB",
+  "totalSize": "5036.04 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -325,6 +325,13 @@
       "path": "blog\\case-study-premarital-expectations-family-boundaries-sibling-priority-conflict\\index.html",
       "size": "12708 bytes",
       "modified": "2026-10-06 18:01",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-woman-boundaries-husband-aggression-family-systems\\index.html",
+      "size": "17299 bytes",
+      "modified": "2026-10-15 09:19",
       "is_duplicate": false
     },
     {
