@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-15 09:08:59",
-  "totalArticles": 283,
-  "uniqueArticles": 283,
+  "lastUpdated": "2026-10-15 09:16:39",
+  "totalArticles": 284,
+  "uniqueArticles": 284,
   "duplicateFiles": 0,
-  "totalSize": "5001.09 KB",
+  "totalSize": "5019.14 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -199,6 +199,13 @@
       "path": "blog\\case-study-covert-control-ambiguity-intolerance-boundary-violation-anxious-attachment\\index.html",
       "size": "15234 bytes",
       "modified": "2026-10-06 18:32",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-divorced-woman-younger-suitor-family-systems-bowen\\index.html",
+      "size": "18483 bytes",
+      "modified": "2026-10-15 09:16",
       "is_duplicate": false
     },
     {
