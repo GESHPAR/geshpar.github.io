@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-15 09:34:32",
-  "totalArticles": 288,
-  "uniqueArticles": 288,
+  "lastUpdated": "2026-10-15 09:37:26",
+  "totalArticles": 289,
+  "uniqueArticles": 289,
   "duplicateFiles": 0,
-  "totalSize": "5083.95 KB",
+  "totalSize": "5101.69 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -262,6 +262,13 @@
       "path": "blog\\case-study-family-conflict-religious-rationalization-winnicott-bowlby-analysis\\index.html",
       "size": "16896 bytes",
       "modified": "2026-10-08 13:22",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-husband-emotional-affair-chase-pattern-family-systems\\index.html",
+      "size": "18169 bytes",
+      "modified": "2026-10-15 09:37",
       "is_duplicate": false
     },
     {
