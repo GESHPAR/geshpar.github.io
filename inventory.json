@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-08 21:34:07",
-  "totalArticles": 282,
-  "uniqueArticles": 282,
+  "lastUpdated": "2026-10-15 09:08:59",
+  "totalArticles": 283,
+  "uniqueArticles": 283,
   "duplicateFiles": 0,
-  "totalSize": "4984.93 KB",
+  "totalSize": "5001.09 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -318,6 +318,13 @@
       "path": "blog\\case-study-premarital-expectations-family-boundaries-sibling-priority-conflict\\index.html",
       "size": "12708 bytes",
       "modified": "2026-10-06 18:01",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-woman-older-man-age-gap-trauma-trust-bowlby-klein\\index.html",
+      "size": "16552 bytes",
+      "modified": "2026-10-15 09:07",
       "is_duplicate": false
     },
     {
