@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-15 09:50:08",
-  "totalArticles": 293,
-  "uniqueArticles": 293,
+  "lastUpdated": "2026-10-15 09:53:49",
+  "totalArticles": 294,
+  "uniqueArticles": 294,
   "duplicateFiles": 0,
-  "totalSize": "5179.26 KB",
+  "totalSize": "5199.88 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -395,6 +395,13 @@
       "path": "blog\\case-study-young-man-dating-skills-age-gap-communication-confidence\\index.html",
       "size": "16287 bytes",
       "modified": "2026-10-15 09:34",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-young-wife-narcissistic-abuse-childhood-trauma-early-marriage\\index.html",
+      "size": "21107 bytes",
+      "modified": "2026-10-15 09:53",
       "is_duplicate": false
     },
     {
