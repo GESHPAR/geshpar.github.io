@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-15 09:40:24",
-  "totalArticles": 290,
-  "uniqueArticles": 290,
+  "lastUpdated": "2026-10-15 09:43:07",
+  "totalArticles": 291,
+  "uniqueArticles": 291,
   "duplicateFiles": 0,
-  "totalSize": "5121.23 KB",
+  "totalSize": "5140.43 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -367,6 +367,13 @@
       "path": "blog\\case-study-woman-older-man-age-gap-trauma-trust-bowlby-klein\\index.html",
       "size": "16552 bytes",
       "modified": "2026-10-15 09:07",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-woman-relationship-patterns-anxiety-feminine-energy-self-awareness\\index.html",
+      "size": "19661 bytes",
+      "modified": "2026-10-15 09:42",
       "is_duplicate": false
     },
     {
