@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-15 09:19:35",
-  "totalArticles": 285,
-  "uniqueArticles": 285,
+  "lastUpdated": "2026-10-15 09:27:22",
+  "totalArticles": 286,
+  "uniqueArticles": 286,
   "duplicateFiles": 0,
-  "totalSize": "5036.04 KB",
+  "totalSize": "5052.72 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -164,6 +164,13 @@
       "path": "blog\\case-study-anxious-attachment-pursuer-distancer-dynamic-grief-trigger\\index.html",
       "size": "13039 bytes",
       "modified": "2026-10-06 18:14",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-brother-death-family-obligations-boundaries-cultural-expectations\\index.html",
+      "size": "17089 bytes",
+      "modified": "2026-10-15 09:27",
       "is_duplicate": false
     },
     {
