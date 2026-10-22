@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-15 09:53:49",
-  "totalArticles": 294,
-  "uniqueArticles": 294,
+  "lastUpdated": "2026-10-21 18:14:42",
+  "totalArticles": 305,
+  "uniqueArticles": 305,
   "duplicateFiles": 0,
-  "totalSize": "5199.88 KB",
+  "totalSize": "5274.28 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -13,10 +13,59 @@
       "is_duplicate": false
     },
     {
+      "name": "attachment-trauma-abandonment-case.html",
+      "path": "blog\\attachment-trauma-abandonment-case.html",
+      "size": "556 bytes",
+      "modified": "2026-10-15 13:26",
+      "is_duplicate": false
+    },
+    {
+      "name": "diagnosing-pathological-lying.html",
+      "path": "blog\\diagnosing-pathological-lying.html",
+      "size": "531 bytes",
+      "modified": "2026-10-15 13:26",
+      "is_duplicate": false
+    },
+    {
+      "name": "displaced-jealousy-family-conflict.html",
+      "path": "blog\\displaced-jealousy-family-conflict.html",
+      "size": "556 bytes",
+      "modified": "2026-10-15 13:26",
+      "is_duplicate": false
+    },
+    {
+      "name": "ethics-of-truth-telling.html",
+      "path": "blog\\ethics-of-truth-telling.html",
+      "size": "501 bytes",
+      "modified": "2026-10-15 13:26",
+      "is_duplicate": false
+    },
+    {
+      "name": "husband-sulking.html",
+      "path": "blog\\husband-sulking.html",
+      "size": "461 bytes",
+      "modified": "2026-10-15 13:26",
+      "is_duplicate": false
+    },
+    {
       "name": "index.html",
       "path": "blog\\index.html",
       "size": "32778 bytes",
       "modified": "2026-09-27 21:49",
+      "is_duplicate": false
+    },
+    {
+      "name": "right-choice.html",
+      "path": "blog\\right-choice.html",
+      "size": "446 bytes",
+      "modified": "2026-10-15 13:26",
+      "is_duplicate": false
+    },
+    {
+      "name": "self-sacrifice-trap.html",
+      "path": "blog\\self-sacrifice-trap.html",
+      "size": "481 bytes",
+      "modified": "2026-10-15 13:26",
       "is_duplicate": false
     },
     {
@@ -203,9 +252,23 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\case-study-codependency-fear-of-abandonment-and-illusory-control-in-affairs\\index.html",
+      "size": "17752 bytes",
+      "modified": "2026-10-21 18:14",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\case-study-covert-control-ambiguity-intolerance-boundary-violation-anxious-attachment\\index.html",
       "size": "15234 bytes",
       "modified": "2026-10-06 18:32",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-dependent-personality-disorder-narcissistic-supply-and-boundary-violations\\index.html",
+      "size": "17449 bytes",
+      "modified": "2026-10-21 17:32",
       "is_duplicate": false
     },
     {
@@ -294,6 +357,13 @@
     },
     {
       "name": "index.html",
+      "path": "blog\\case-study-marital-betrayal-infidelity-child-alienation-projective-identification\\index.html",
+      "size": "16715 bytes",
+      "modified": "2026-10-21 17:13",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
       "path": "blog\\case-study-marital-mismatch-cultural-dissonance-passive-aggression\\index.html",
       "size": "17846 bytes",
       "modified": "2026-10-08 13:33",
@@ -318,6 +388,13 @@
       "path": "blog\\case-study-narcissistic-personality-disorder-marital-conflict-family-triangulation-emotional-exhaustion\\index.html",
       "size": "13190 bytes",
       "modified": "2026-10-06 17:51",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-paranoid-husband-projective-identification-self-worth-rebuilding\\index.html",
+      "size": "20744 bytes",
+      "modified": "2026-10-15 10:12",
       "is_duplicate": false
     },
     {
