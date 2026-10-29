@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-21 18:14:42",
-  "totalArticles": 305,
-  "uniqueArticles": 305,
+  "lastUpdated": "2026-10-29 16:51:14",
+  "totalArticles": 307,
+  "uniqueArticles": 307,
   "duplicateFiles": 0,
-  "totalSize": "5274.28 KB",
+  "totalSize": "5288.18 KB",
   "articles": [
     {
       "name": "anxious-neighbor.html",
@@ -409,6 +409,13 @@
       "path": "blog\\case-study-paranoid-suspicion-triangular-relationship-emotional-exhaustion-control\\index.html",
       "size": "14425 bytes",
       "modified": "2026-10-06 18:19",
+      "is_duplicate": false
+    },
+    {
+      "name": "index.html",
+      "path": "blog\\case-study-preemptive-abandonment-fearful-avoidant-dynamics\\index.html",
+      "size": "0 bytes",
+      "modified": "2026-10-29 16:51",
       "is_duplicate": false
     },
     {
@@ -1914,6 +1921,13 @@
       "path": "blog\\spousal-infidelity\\index.html",
       "size": "17404 bytes",
       "modified": "2026-09-27 21:49",
+      "is_duplicate": false
+    },
+    {
+      "name": "inddex.html",
+      "path": "blog\\spouse-addiction-pathological-dependency-woman\\inddex.html",
+      "size": "14226 bytes",
+      "modified": "2026-10-22 11:29",
       "is_duplicate": false
     },
     {
